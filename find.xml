@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'MPower'" />
-    <option name="defaultScopeName" value="Project 'MPower'" />
-    <option name="SEARCH_SCOPE" value="Project 'MPower'" />
+    <option name="customScope" value="File 'C:\dev\code\mPower-Android\MPower\BridgeAndroidSdk\ResearchStack\skin\src\main\java\org\researchstack\skin\ui\fragment\ActivitiesFragment.java'" />
+    <option name="defaultScopeName" value="File 'C:\dev\code\mPower-Android\MPower\BridgeAndroidSdk\ResearchStack\skin\src\main\java\org\researchstack\skin\ui\fragment\ActivitiesFragment.java'" />
+    <option name="SEARCH_SCOPE" value="File 'C:\dev\code\mPower-Android\MPower\BridgeAndroidSdk\ResearchStack\skin\src\main\java\org\researchstack\skin\ui\fragment\ActivitiesFragment.java'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
