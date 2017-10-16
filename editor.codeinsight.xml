@@ -4,6 +4,7 @@
   </component>
   <component name="CodeInsightSettings">
     <option name="AUTO_POPUP_JAVADOC_INFO" value="true" />
+    <EXCLUDED_PACKAGE NAME="android.support.v4.util.Preconditions" />
     <EXCLUDED_PACKAGE NAME="com.google.gson.internal" />
   </component>
   <component name="DaemonCodeAnalyzerSettings">
@@ -12,6 +13,5 @@
   </component>
   <component name="JavaCodeFoldingSettings">
     <option name="collapseAccessors" value="true" />
-    <option name="COLLAPSE_ACCESSORS" value="true" />
   </component>
 </application>
