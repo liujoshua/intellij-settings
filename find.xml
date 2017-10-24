@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="customScope" value="Project 'BridgeAndroidSDK'" />
+    <option name="defaultScopeName" value="Project 'BridgeAndroidSDK'" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="SEARCH_SCOPE" value="Project 'BridgeAndroidSDK'" />
     <option name="FILE_MASK" value="build.gradle" />
     <recentFileMasks>
       <mask>*.properties</mask>
