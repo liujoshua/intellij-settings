@@ -5,7 +5,19 @@
   <component name="CodeInsightSettings">
     <option name="AUTO_POPUP_JAVADOC_INFO" value="true" />
     <option name="ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
-    <EXCLUDED_PACKAGE NAME="" />
+    <EXCLUDED_PACKAGE NAME="autovalue.shaded" />
+    <EXCLUDED_PACKAGE NAME="avro.shaded" />
+    <EXCLUDED_PACKAGE NAME="com.beust.jcommander.internal" />
+    <EXCLUDED_PACKAGE NAME="com.sun.istack" />
+    <EXCLUDED_PACKAGE NAME="jline.internal" />
+    <EXCLUDED_PACKAGE NAME="joptsimple.internal" />
+    <EXCLUDED_PACKAGE NAME="junit.framework.Assert" />
+    <EXCLUDED_PACKAGE NAME="org.assertj.core.util" />
+    <EXCLUDED_PACKAGE NAME="org.flywaydb.core.internal.util" />
+    <EXCLUDED_PACKAGE NAME="org.hibernate.validator.internal" />
+    <EXCLUDED_PACKAGE NAME="org.mockito.internal.util.collections" />
+    <EXCLUDED_PACKAGE NAME="org.mockito.internal.verification.VerificationModeFactory" />
+    <EXCLUDED_PACKAGE NAME="junit.framework.Assert" />
     <EXCLUDED_PACKAGE NAME="com.google.android.gms.common.internal" />
     <EXCLUDED_PACKAGE NAME="com.google.android.gms.internal" />
     <EXCLUDED_PACKAGE NAME="net.openid.appauth.Preconditions" />
