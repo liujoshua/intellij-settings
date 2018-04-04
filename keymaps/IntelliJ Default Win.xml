@@ -1,4 +1,4 @@
-<keymap version="1" name="IntelliJ IDEA Win+XWin">
+<keymap version="1" name="Default for IntelliJ IDEA Win">
   <action id="$Copy">
     <keyboard-shortcut first-keystroke="ctrl c" />
   </action>
@@ -546,7 +546,6 @@
   </action>
   <action id="ForceRunToCursor">
     <keyboard-shortcut first-keystroke="ctrl alt f9" />
-    <keyboard-shortcut first-keystroke="ctrl alt 9" />
   </action>
   <action id="ForceStepInto">
     <keyboard-shortcut first-keystroke="shift alt f7" />
@@ -659,9 +658,6 @@
   </action>
   <action id="HippieCompletion">
     <keyboard-shortcut first-keystroke="alt slash" />
-  </action>
-  <action id="Images.EditExternally">
-    <keyboard-shortcut first-keystroke="ctrl alt 4" />
   </action>
   <action id="ImplementMethods">
     <keyboard-shortcut first-keystroke="ctrl i" />
@@ -804,8 +800,6 @@
   </action>
   <action id="QuickEvaluateExpression">
     <keyboard-shortcut first-keystroke="ctrl alt f8" />
-    <keyboard-shortcut first-keystroke="ctrl alt 8" />
-    <mouse-shortcut keystroke="shift control alt button1" />
     <mouse-shortcut keystroke="alt button1" />
   </action>
   <action id="QuickImplementations">
@@ -918,7 +912,6 @@
   </action>
   <action id="ShowFilePath">
     <keyboard-shortcut first-keystroke="ctrl alt f12" />
-    <keyboard-shortcut first-keystroke="shift ctrl alt 2" />
   </action>
   <action id="ShowIntentionActions">
     <keyboard-shortcut first-keystroke="alt enter" />
@@ -940,11 +933,9 @@
   </action>
   <action id="ShowSettingsAndFindUsages">
     <keyboard-shortcut first-keystroke="shift ctrl alt f7" />
-    <keyboard-shortcut first-keystroke="shift ctrl alt 7" />
   </action>
   <action id="ShowUsages">
     <keyboard-shortcut first-keystroke="ctrl alt f7" />
-    <keyboard-shortcut first-keystroke="ctrl alt 7" />
   </action>
   <action id="SmartStepInto">
     <keyboard-shortcut first-keystroke="shift f7" />
@@ -977,7 +968,6 @@
   </action>
   <action id="SwitchCoverage">
     <keyboard-shortcut first-keystroke="ctrl alt f6" />
-    <keyboard-shortcut first-keystroke="ctrl alt 6" />
   </action>
   <action id="Switcher">
     <keyboard-shortcut first-keystroke="ctrl tab" />
