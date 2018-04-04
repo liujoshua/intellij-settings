@@ -1,4 +1,4 @@
-<keymap version="1" name="IntelliJ IDEA Win+XWin" parent="IntelliJ IDEA Win">
+<keymap version="1" name="IntelliJ IDEA Win+XWin" parent="Mac OS X">
   <action id="$Copy">
     <keyboard-shortcut first-keystroke="ctrl c" />
   </action>
@@ -546,6 +546,7 @@
   </action>
   <action id="ForceRunToCursor">
     <keyboard-shortcut first-keystroke="ctrl alt f9" />
+    <keyboard-shortcut first-keystroke="ctrl alt 9" />
   </action>
   <action id="ForceStepInto">
     <keyboard-shortcut first-keystroke="shift alt f7" />
@@ -800,6 +801,8 @@
   </action>
   <action id="QuickEvaluateExpression">
     <keyboard-shortcut first-keystroke="ctrl alt f8" />
+    <keyboard-shortcut first-keystroke="control alt 8"/>
+    <mouse-shortcut keystroke="control shift alt button1"/>
     <mouse-shortcut keystroke="alt button1" />
   </action>
   <action id="QuickImplementations">
@@ -912,6 +915,7 @@
   </action>
   <action id="ShowFilePath">
     <keyboard-shortcut first-keystroke="ctrl alt f12" />
+    <keyboard-shortcut first-keystroke="ctrl alt shift 2" />
   </action>
   <action id="ShowIntentionActions">
     <keyboard-shortcut first-keystroke="alt enter" />
@@ -933,9 +937,11 @@
   </action>
   <action id="ShowSettingsAndFindUsages">
     <keyboard-shortcut first-keystroke="shift ctrl alt f7" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt 7" />
   </action>
   <action id="ShowUsages">
     <keyboard-shortcut first-keystroke="ctrl alt f7" />
+    <keyboard-shortcut first-keystroke="ctrl alt 7" />
   </action>
   <action id="SmartStepInto">
     <keyboard-shortcut first-keystroke="shift f7" />
@@ -968,6 +974,7 @@
   </action>
   <action id="SwitchCoverage">
     <keyboard-shortcut first-keystroke="ctrl alt f6" />
+    <keyboard-shortcut first-keystroke="ctrl alt 6" />
   </action>
   <action id="Switcher">
     <keyboard-shortcut first-keystroke="ctrl tab" />
@@ -1059,5 +1066,8 @@
   <action id="XDebugger.NewWatch" />
   <action id="XDebugger.SetValue">
     <keyboard-shortcut first-keystroke="f2" />
+  </action>
+    <action id="Images.EditExternally">
+    <keyboard-shortcut first-keystroke="control alt 4"/>
   </action>
 </keymap>
