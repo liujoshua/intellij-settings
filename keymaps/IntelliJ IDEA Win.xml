@@ -1,4 +1,4 @@
-<keymap version="1" name="IntelliJ IDEA Win" parent="Mac OS X">
+<keymap version="1" name="IntelliJ IDEA Win">
   <action id="$Copy">
     <keyboard-shortcut first-keystroke="ctrl c" />
   </action>
