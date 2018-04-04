@@ -1,4 +1,4 @@
-<keymap version="1" name="Default for XWin JJ" parent="Default for XWin">
+<keymap version="1" name="Default for XWin JJ">
   <action id="ActivateTODOToolWindow">
     <keyboard-shortcut first-keystroke="shift ctrl meta alt t" />
   </action>
