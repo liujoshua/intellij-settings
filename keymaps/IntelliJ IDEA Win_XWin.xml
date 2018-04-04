@@ -660,6 +660,9 @@
   <action id="HippieCompletion">
     <keyboard-shortcut first-keystroke="alt slash" />
   </action>
+  <action id="Images.EditExternally">
+    <keyboard-shortcut first-keystroke="ctrl alt 4" />
+  </action>
   <action id="ImplementMethods">
     <keyboard-shortcut first-keystroke="ctrl i" />
   </action>
@@ -801,8 +804,8 @@
   </action>
   <action id="QuickEvaluateExpression">
     <keyboard-shortcut first-keystroke="ctrl alt f8" />
-    <keyboard-shortcut first-keystroke="control alt 8"/>
-    <mouse-shortcut keystroke="control shift alt button1"/>
+    <keyboard-shortcut first-keystroke="ctrl alt 8" />
+    <mouse-shortcut keystroke="shift control alt button1" />
     <mouse-shortcut keystroke="alt button1" />
   </action>
   <action id="QuickImplementations">
@@ -915,7 +918,7 @@
   </action>
   <action id="ShowFilePath">
     <keyboard-shortcut first-keystroke="ctrl alt f12" />
-    <keyboard-shortcut first-keystroke="ctrl alt shift 2" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt 2" />
   </action>
   <action id="ShowIntentionActions">
     <keyboard-shortcut first-keystroke="alt enter" />
@@ -1066,8 +1069,5 @@
   <action id="XDebugger.NewWatch" />
   <action id="XDebugger.SetValue">
     <keyboard-shortcut first-keystroke="f2" />
-  </action>
-    <action id="Images.EditExternally">
-    <keyboard-shortcut first-keystroke="control alt 4"/>
   </action>
 </keymap>
