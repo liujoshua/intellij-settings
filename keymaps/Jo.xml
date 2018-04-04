@@ -1,7 +1,0 @@
-<keymap version="1" name="Jo">
-  <action id="ActivateTODOToolWindow">
-    <keyboard-shortcut first-keystroke="shift ctrl meta alt t" />
-  </action>
-  <action id="EditorAddOrRemoveCaret" />
-  <action id="EditorAddRectangularSelectionOnMouseDrag" />
-</keymap>
