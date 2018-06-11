@@ -1,14 +1,14 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="customScope" value="File '...\BridgeAndroidSDK\researchstack-sdk\src\main\java\org\sagebionetworks\bridge\researchstack\BridgeDataProvider.java [researchstack-sdk]'" />
+    <option name="defaultScopeName" value="File '...\BridgeAndroidSDK\researchstack-sdk\src\main\java\org\sagebionetworks\bridge\researchstack\BridgeDataProvider.java [researchstack-sdk]'" />
     <option name="localCaseSensitive" value="true" />
     <option name="regularExpressions" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="SEARCH_SCOPE" value="File '...\BridgeAndroidSDK\researchstack-sdk\src\main\java\org\sagebionetworks\bridge\researchstack\BridgeDataProvider.java [researchstack-sdk]'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
