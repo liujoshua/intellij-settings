@@ -5,7 +5,6 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Default" />
-    <option name="FILE_MASK" value="jsr" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -26,6 +25,7 @@
       <mask>*.xml</mask>
       <mask>*.gradle</mask>
       <mask>jsr</mask>
+      <mask>.json</mask>
     </recentFileMasks>
   </component>
 </application>
