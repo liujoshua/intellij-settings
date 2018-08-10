@@ -2,6 +2,7 @@
   <component name="CodeInsightSettings">
     <option name="ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
     <EXCLUDED_PACKAGE NAME="android.support.v4.util" />
+    <EXCLUDED_PACKAGE NAME="com.google.common.base.Verify" />
     <EXCLUDED_PACKAGE NAME="javax.annotation.Nullable" />
   </component>
   <component name="DaemonCodeAnalyzerSettings">
