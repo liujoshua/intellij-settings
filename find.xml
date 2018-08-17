@@ -3,6 +3,7 @@
     <option name="customScope" value="Default" />
     <option name="defaultScopeName" value="Default" />
     <option name="SEARCH_SCOPE" value="Default" />
+    <option name="FILE_MASK" value="*.gradle" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -20,10 +21,10 @@
       <mask>build.gradle</mask>
       <mask>*.</mask>
       <mask>*.xml</mask>
-      <mask>*.gradle</mask>
       <mask>jsr</mask>
       <mask>.json</mask>
       <mask>*.java</mask>
+      <mask>*.gradle</mask>
     </recentFileMasks>
   </component>
 </application>
