@@ -2,8 +2,9 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="tasks" type="PLAIN_TEXT" />
-      <mapping pattern="mcu-deps" type="PLAIN_TEXT" />
+      <mapping pattern="mcm-deps" type="PLAIN_TEXT" />
       <mapping pattern="deps" type="PLAIN_TEXT" />
+      <mapping pattern="mcu-deps" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
