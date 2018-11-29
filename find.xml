@@ -5,6 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.xml" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -16,9 +17,9 @@
     <mask>*.gradle</mask>
     <mask>*.pro</mask>
     <mask>build.gradle</mask>
-    <mask>*.xml</mask>
     <mask>*StepLayout.java</mask>
     <mask>*.kt</mask>
     <mask>*.json</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
