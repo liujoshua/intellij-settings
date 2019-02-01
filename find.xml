@@ -15,12 +15,12 @@
     <mask>*.as</mask>
     <mask>*.css</mask>
     <mask>*.mxml</mask>
-    <mask>*.gradle</mask>
     <mask>*.pro</mask>
     <mask>build.gradle</mask>
     <mask>*StepLayout.java</mask>
     <mask>*.kt</mask>
     <mask>*.xml</mask>
     <mask>*.json</mask>
+    <mask>*.gradle</mask>
   </component>
 </application>
