@@ -17,8 +17,8 @@
     <mask>build.gradle</mask>
     <mask>*StepLayout.java</mask>
     <mask>*.kt</mask>
-    <mask>*.gradle</mask>
     <mask>*.json</mask>
     <mask>*.xml</mask>
+    <mask>*.gradle</mask>
   </component>
 </application>
