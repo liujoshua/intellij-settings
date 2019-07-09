@@ -3,7 +3,6 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="AndroidManifest.xml" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -16,10 +15,10 @@
     <mask>*StepLayout.java</mask>
     <mask>*.json</mask>
     <mask>*.gradle</mask>
-    <mask>*.xml</mask>
     <mask>*.kt</mask>
     <mask>*Module.java</mask>
     <mask>build.gradle</mask>
     <mask>AndroidManifest.xml</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
