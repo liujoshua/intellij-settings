@@ -19,8 +19,8 @@
     <mask>*Module.java</mask>
     <mask>build.gradle</mask>
     <mask>AndroidManifest.xml</mask>
-    <mask>*.xml</mask>
     <mask>*.java</mask>
     <mask>*.gradle</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
