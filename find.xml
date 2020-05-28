@@ -26,5 +26,6 @@
     <mask>*.gradle</mask>
     <mask>*.kt</mask>
     <mask>*.gradle.kts</mask>
+    <mask>*.gradle*</mask>
   </component>
 </application>
