@@ -3,8 +3,8 @@
     <extensionMap>
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="deps" type="PLAIN_TEXT" />
-      <mapping pattern="mcm-deps" type="PLAIN_TEXT" />
       <mapping pattern="tasks" type="PLAIN_TEXT" />
+      <mapping pattern="mcm-deps" type="PLAIN_TEXT" />
       <mapping pattern="mcu-deps" type="PLAIN_TEXT" />
       <mapping ext="flat" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
