@@ -19,7 +19,6 @@
     <mask>*.json</mask>
     <mask>*Module.java</mask>
     <mask>AndroidManifest.xml</mask>
-    <mask>*.xml</mask>
     <mask>build.gradle</mask>
     <mask>.java</mask>
     <mask>*.java</mask>
@@ -27,5 +26,6 @@
     <mask>*.kt</mask>
     <mask>*.gradle.kts</mask>
     <mask>*.gradle*</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
