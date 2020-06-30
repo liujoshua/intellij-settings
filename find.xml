@@ -3,7 +3,9 @@
     <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="localCaseSensitive" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
@@ -17,13 +19,13 @@
     <mask>*.json</mask>
     <mask>*Module.java</mask>
     <mask>AndroidManifest.xml</mask>
-    <mask>*.xml</mask>
     <mask>build.gradle</mask>
     <mask>.java</mask>
     <mask>*.java</mask>
     <mask>*.gradle</mask>
-    <mask>*.gradle.kts</mask>
-    <mask>*.sq</mask>
     <mask>*.kt</mask>
+    <mask>*.gradle.kts</mask>
+    <mask>*.gradle*</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
