@@ -20,10 +20,10 @@
     <mask>build.gradle</mask>
     <mask>.java</mask>
     <mask>*.java</mask>
-    <mask>*.gradle.kts</mask>
     <mask>*.gradle*</mask>
     <mask>*.xml</mask>
     <mask>*.gradle</mask>
     <mask>*.kt</mask>
+    <mask>*.gradle.kts</mask>
   </component>
 </application>
