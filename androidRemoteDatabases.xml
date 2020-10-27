@@ -1,0 +1,25 @@
+<application>
+  <component name="AndroidRemoteDataBaseManager">
+    <databases>
+      <entry>
+        <key>
+          <db-key>
+            <option name="deviceId" value="EMULATOR_Pixel_2_API_29" />
+            <option name="packageName" value="dev.mobilehealth.reimaginedlamp" />
+            <option name="databaseName" value="google_app_measurement_local.db" />
+          </db-key>
+        </key>
+        <value>
+          <db-info>
+            <option name="fingerprint" value="2020-10-27 14:04:16384" />
+            <option name="referringProjects">
+              <set>
+                <option value="$USER_HOME$/code/reimagined-lamp-client" />
+              </set>
+            </option>
+          </db-info>
+        </value>
+      </entry>
+    </databases>
+  </component>
+</application>
