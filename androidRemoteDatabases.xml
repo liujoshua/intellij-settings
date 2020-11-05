@@ -12,11 +12,6 @@
         <value>
           <db-info>
             <option name="fingerprint" value="2020-10-27 14:04:16384" />
-            <option name="referringProjects">
-              <set>
-                <option value="$USER_HOME$/code/reimagined-lamp-client" />
-              </set>
-            </option>
           </db-info>
         </value>
       </entry>
