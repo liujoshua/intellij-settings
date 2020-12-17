@@ -335,9 +335,9 @@
           <option name="VALUES_FILTER_ENABLED" value="false" />
         </configuration>
       </debugger>
-      <debugger id="kotlin_debugger">
+      <debugger id="javascript">
         <configuration>
-          <option name="filterForStdlibAlreadyAdded" value="true" />
+          <custom-object-presentation />
         </configuration>
       </debugger>
     </debuggers>
