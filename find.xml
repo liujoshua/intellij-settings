@@ -2,28 +2,6 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="localCaseSensitive" value="true" />
-    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.properties</mask>
-    <mask>*.html</mask>
-    <mask>*.jsp</mask>
-    <mask>*.js</mask>
-    <mask>*.as</mask>
-    <mask>*.css</mask>
-    <mask>*.mxml</mask>
-    <mask>*.pro</mask>
-    <mask>*StepLayout.java</mask>
-    <mask>*.json</mask>
-    <mask>*Module.java</mask>
-    <mask>AndroidManifest.xml</mask>
-    <mask>build.gradle</mask>
-    <mask>.java</mask>
-    <mask>*.java</mask>
-    <mask>*.gradle*</mask>
-    <mask>*.xml</mask>
-    <mask>*.gradle</mask>
-    <mask>*.kt</mask>
-    <mask>*.gradle.kts</mask>
   </component>
 </application>
