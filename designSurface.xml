@@ -3,6 +3,8 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="../../../../layout/custom_preview.xml" value="0.1" />
+        <entry key="fname/src/main/res/shared/drawable/fname_encoding_logo.xml" value="0.1" />
+        <entry key="picture_sequence_memory/src/main/res/layout/psm_response_view.xml" value="0.1" />
         <entry key="presentation/src/main/res/layout/checkbox_fragment.xml" value="0.1" />
         <entry key="presentation/src/main/res/layout/checkbox_input_view.xml" value="0.1656534954407295" />
       </map>
