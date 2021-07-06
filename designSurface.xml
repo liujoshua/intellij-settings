@@ -5,6 +5,11 @@
         <entry key="../../../../layout/custom_preview.xml" value="0.1" />
         <entry key="alpha-app/src/main/res/layout/fragment_main.xml" value="0.17074275362318841" />
         <entry key="alpha-app/src/main/res/layout/fragment_researcher_sign_in.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_background.xml" value="0.3574074074074074" />
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.3574074074074074" />
+        <entry key="app/src/main/res/drawable/mp_logo.xml" value="0.1" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.3574074074074074" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.3574074074074074" />
         <entry key="fname/src/main/res/shared/drawable/fname_encoding_logo.xml" value="0.1" />
         <entry key="picture_sequence_memory/src/main/res/layout/psm_response_view.xml" value="0.1" />
         <entry key="presentation/src/main/res/layout/checkbox_fragment.xml" value="0.1" />
