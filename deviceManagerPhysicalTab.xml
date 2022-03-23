@@ -8,9 +8,10 @@
             <value value="R9ARB01VCLR" />
           </Key>
         </key>
-        <name value="Device" />
-        <target value="Android 1.0" />
-        <api value="1" />
+        <lastOnlineTime value="2022-03-23T07:03:02.708818Z" />
+        <name value="samsung SM-T500" />
+        <target value="Android 11.0" />
+        <api value="30" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
