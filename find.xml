@@ -10,5 +10,6 @@
     <mask>*.cs</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
+    <mask>*.gra</mask>
   </component>
 </application>
