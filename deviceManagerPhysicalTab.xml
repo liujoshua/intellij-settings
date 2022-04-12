@@ -25,6 +25,18 @@
         <target value="Android 11.0" />
         <api value="30" />
       </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="DOMAIN_NAME" />
+            <value value="adb-R9TR706963V-Kfcmcr._adb-tls-connect._tcp." />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-04-12T02:36:43.766146Z" />
+        <name value="samsung SM-T500" />
+        <target value="Android 11.0" />
+        <api value="30" />
+      </PhysicalDevice>
     </physicalDevices>
   </component>
 </application>
