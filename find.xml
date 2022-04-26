@@ -9,5 +9,6 @@
     <mask>*.xml</mask>
     <mask>*.java</mask>
     <mask>*.gra</mask>
+    <mask>*.kt</mask>
   </component>
 </application>
