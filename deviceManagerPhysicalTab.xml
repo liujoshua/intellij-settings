@@ -41,7 +41,7 @@
             <value value="R9PT20BNQZY" />
           </Key>
         </key>
-        <name value="samsung SM-T227U" />
+        <name value="Device" />
         <target value="Android 11.0" />
         <api value="30" />
       </PhysicalDevice>
