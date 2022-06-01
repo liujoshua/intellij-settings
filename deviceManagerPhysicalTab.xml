@@ -5,11 +5,10 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="R9TR706963V" />
+            <value value="R9PT20BNQZY" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-04-12T18:01:12.295226Z" />
-        <name value="samsung SM-T500" />
+        <name value="samsung SM-T227U" />
         <target value="Android 11.0" />
         <api value="30" />
       </PhysicalDevice>
@@ -20,7 +19,17 @@
             <value value="R9ARB01VCLR" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-03-25T10:06:00.980607Z" />
+        <name value="samsung SM-T500" />
+        <target value="Android 11.0" />
+        <api value="30" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="R9TR706963V" />
+          </Key>
+        </key>
         <name value="samsung SM-T500" />
         <target value="Android 11.0" />
         <api value="30" />
