@@ -6,9 +6,9 @@
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.cs</mask>
-    <mask>*.java</mask>
     <mask>*.gra</mask>
     <mask>*.kt</mask>
     <mask>*.xml</mask>
+    <mask>*.java</mask>
   </component>
 </application>
