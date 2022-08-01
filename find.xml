@@ -12,5 +12,6 @@
     <mask>*.gr</mask>
     <mask>*.gradle*</mask>
     <mask>*.java</mask>
+    <mask>build.gradle</mask>
   </component>
 </application>
