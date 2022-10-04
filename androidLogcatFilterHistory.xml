@@ -1,0 +1,25 @@
+<application>
+  <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="pid-2826 -tag:AppCenter tag~:BLE|Device" />
+    <option name="nonFavorites">
+      <list>
+        <option value="pid-2826 -tag:AppCenter tag~:BLE|Device" />
+        <option value="AppCenter" />
+        <option value="ansible" />
+        <option value="BootReceiver" />
+        <option value="pid-2855 -tag:AppCenter" />
+        <option value="pid-2855 BLE" />
+        <option value="kiosk" />
+        <option value="pid-2817  level:DEBUG -tag:AppCenter" />
+        <option value="pid-2817  level:DEBUG " />
+        <option value="pid-2817 Device level:DEBUG " />
+        <option value="pid-2817 " />
+        <option value="pid-2817 AppCenter level:debug " />
+        <option value="pid-2817 AppCenter level:info " />
+        <option value="pid-2817 AppCenter" />
+        <option value="pid-2817" />
+        <option value="package:mine " />
+      </list>
+    </option>
+  </component>
+</application>
