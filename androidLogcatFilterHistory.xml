@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value=" -tag:AppCenter package:mine Error starting" />
     <option name="nonFavorites">
       <list>
+        <option value=" -tag:AppCenter package:mine Error starting" />
         <option value="package:mine " />
         <option value="Foreground ser" />
         <option value="level:warn " />
@@ -22,7 +23,6 @@
         <option value="  pid-2833  -tag:AppCenter " />
         <option value="tag:AppCenter " />
         <option value="pid-2779 -tag:AppCenter" />
-        <option value="BLEGateway -tag:AppCenter" />
       </list>
     </option>
   </component>
