@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="package:mine -tag:AppCenter" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine -tag:AppCenter" />
+        <option value="package:mine -tag:AppCenter " />
+        <option value="package:mine BLEM" />
         <option value="onBluetoothManagerEnabled" />
         <option value="BLEManager" />
         <option value="pid-2799 -tag~:AppCenter|System|Surface" />
@@ -20,9 +23,6 @@
         <option value="ansible" />
         <option value="BootReceiver" />
         <option value="pid-2855 -tag:AppCenter" />
-        <option value="pid-2855 BLE" />
-        <option value="kiosk" />
-        <option value="pid-2817  level:DEBUG -tag:AppCenter" />
       </list>
     </option>
   </component>
