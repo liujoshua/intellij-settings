@@ -4,6 +4,8 @@
     <option name="nonFavorites">
       <list>
         <option value=" -tag:AppCenter package:mine " />
+        <option value=" -tag:AppCenter package:mine BLEMan" />
+        <option value=" -tag:AppCenter package:mine level:warn " />
         <option value=" -tag:AppCenter" />
         <option value="package:mine -tag:AppCenter " />
         <option value="tag~:BluetoothGatt|BtGatt|Gatt" />
@@ -21,8 +23,6 @@
         <option value="-tag:AppCenter package:mine  level:warn" />
         <option value="-tag:AppCenter package:mine  " />
         <option value=" -tag:AppCenter  tag~:BLE" />
-        <option value="BLEGate -tag:AppCenter  tag~:BLE" />
-        <option value="-tag:AppCenter package:mine " />
       </list>
     </option>
   </component>
