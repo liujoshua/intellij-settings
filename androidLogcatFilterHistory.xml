@@ -1,8 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="BluetoothLe" />
+    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="onBluetoothManagerEnabled" />
+        <option value="BLEManager" />
+        <option value="pid-2799 -tag~:AppCenter|System|Surface" />
+        <option value="AppCent" />
         <option value="BluetoothLe" />
         <option value="pid-5622 -tag:AppCenter" />
         <option value="tag~:BLE" />
@@ -19,10 +23,6 @@
         <option value="pid-2855 BLE" />
         <option value="kiosk" />
         <option value="pid-2817  level:DEBUG -tag:AppCenter" />
-        <option value="pid-2817  level:DEBUG " />
-        <option value="pid-2817 Device level:DEBUG " />
-        <option value="pid-2817 " />
-        <option value="pid-2817 AppCenter level:debug " />
       </list>
     </option>
   </component>
