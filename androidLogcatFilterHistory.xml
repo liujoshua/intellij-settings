@@ -1,14 +1,16 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="DataBinding" />
+    <option name="mostRecentlyUsed" value="-tag:AppCenter package:mine startService" />
     <option name="nonFavorites">
       <list>
+        <option value="-tag:AppCenter package:mine startService" />
+        <option value="BLEGate -tag:AppCenter " />
+        <option value="-tag:AppCenter package:mine " />
         <option value="DataBinding" />
         <option value="Gatt " />
         <option value="Gatt" />
         <option value="Boot event received" />
         <option value="Boot re" />
-        <option value="-tag:AppCenter package:mine " />
         <option value="level:warn " />
         <option value="-tag:AppCenter" />
         <option value="package:mine -tag:AppCenter" />
@@ -21,8 +23,6 @@
         <option value="AppCent" />
         <option value="BluetoothLe" />
         <option value="pid-5622 -tag:AppCenter" />
-        <option value="tag~:BLE" />
-        <option value="&quot;Cannot scan&quot;" />
       </list>
     </option>
   </component>
