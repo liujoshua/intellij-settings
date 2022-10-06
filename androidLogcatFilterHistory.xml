@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="-tag:AppCenter " />
+    <option name="mostRecentlyUsed" value="-tag:AppCenter -tag:Finsky " />
     <option name="nonFavorites">
       <list>
+        <option value="-tag:AppCenter -tag:Finsky " />
         <option value="-tag:AppCenter " />
         <option value=" -tag:AppCenter package:mine " />
         <option value=" -tag:AppCenter package:mine level:warn no email" />
@@ -22,7 +23,6 @@
         <option value="package:mine -tag:AppCenter  tag:BLE" />
         <option value="   pid-2827 -tag:AppCenter " />
         <option value="tag:AppCenter" />
-        <option value="  -tag:AppCenter " />
       </list>
     </option>
   </component>
