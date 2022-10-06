@@ -1,8 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value=" -tag:AppCenter package:mine" />
+    <option name="mostRecentlyUsed" value="package:mine -tag:AppCenter " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine -tag:AppCenter " />
+        <option value="package:mine -tag:AppCenter level:warn" />
+        <option value="-tag:Finsky -tag:System" />
+        <option value=" -tag:AppCenter package:mine DeviceD" />
         <option value=" -tag:AppCenter package:mine" />
         <option value=" -tag:AppCenter package:mine tag:BLE" />
         <option value="tag~:BluetoothGatt|BtGatt|Gatt|Ble|Bluetooth" />
@@ -19,10 +23,6 @@
         <option value=" -tag:AppCenter package:mine BLEMana" />
         <option value=" -tag:AppCenter package:mine BLEMan" />
         <option value=" -tag:AppCenter package:mine level:warn " />
-        <option value=" -tag:AppCenter" />
-        <option value="package:mine -tag:AppCenter " />
-        <option value="tag~:BluetoothGatt|BtGatt|Gatt" />
-        <option value="BluetoothGatt" />
       </list>
     </option>
   </component>
