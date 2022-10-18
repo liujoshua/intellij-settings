@@ -1,0 +1,29 @@
+<application>
+  <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="pid-2803 -tag:AppCenter" />
+    <option name="nonFavorites">
+      <list>
+        <option value="pid-2803 -tag:AppCenter" />
+        <option value="pid-2809 -tag:AppCenter " />
+        <option value="pid-2089" />
+        <option value="package:mine " />
+        <option value="package:mine" />
+        <option value="tag~:Ble|BlueTooth|BLE|Gatt" />
+        <option value="tag:AppCenter" />
+        <option value="-tag:AppCenter" />
+        <option value="package:mine -tag:AppCenter " />
+        <option value="package:mine -tag:AppCenter level:warn" />
+        <option value="-tag:Finsky -tag:System" />
+        <option value=" -tag:AppCenter package:mine DeviceD" />
+        <option value=" -tag:AppCenter package:mine" />
+        <option value=" -tag:AppCenter package:mine tag:BLE" />
+        <option value="tag~:BluetoothGatt|BtGatt|Gatt|Ble|Bluetooth" />
+        <option value=" -tag:AppCenter package:mine " />
+        <option value="-tag:AppCenter -tag:Finsky -message:http" />
+        <option value="-tag:AppCenter -tag:Finsky " />
+        <option value="-tag:AppCenter " />
+        <option value=" -tag:AppCenter package:mine level:warn no email" />
+      </list>
+    </option>
+  </component>
+</application>
