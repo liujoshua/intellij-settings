@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="File '…/buildSrc/src/main/java/Dependencies.kt [Ansible_Health_Kiosk.buildSrc.main]'" />
+    <option name="defaultScopeName" value="File '…/buildSrc/src/main/java/Dependencies.kt [Ansible_Health_Kiosk.buildSrc.main]'" />
+    <option name="SEARCH_SCOPE" value="File '…/buildSrc/src/main/java/Dependencies.kt [Ansible_Health_Kiosk.buildSrc.main]'" />
     <option name="FILE_MASK" value="*.kts" />
     <mask>*.css</mask>
     <mask>*.html</mask>
