@@ -1,10 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine " />
+    <option name="mostRecentlyUsed" value="package:mine level:INFO AA-55-0F-06-21-01" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine " />
+        <option value="package:mine level:INFO AA-55-0F-06-21-01" />
         <option value="package:mine level:INFO" />
+        <option value="package:mine " />
         <option value="package:mine level:INFO -tag:RxBle#Client" />
         <option value="package:mine level:INFO " />
         <option value="package:mine level:INFO RxBleConn" />
@@ -22,7 +23,6 @@
         <option value="package:mine" />
         <option value="tag~:Ble|BlueTooth|BLE|Gatt" />
         <option value="tag:AppCenter" />
-        <option value="-tag:AppCenter" />
       </list>
     </option>
   </component>
