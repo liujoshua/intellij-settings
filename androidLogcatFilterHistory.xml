@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine DiscoverServices" />
+    <option name="mostRecentlyUsed" value="package:mine level:INFO Discover" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine level:INFO Discover" />
+        <option value="package:mine level:INFO " />
+        <option value="package:mine Discover" />
         <option value="package:mine DiscoverServices" />
         <option value="package:mine ScanResult RxBleDeviceImpl" />
         <option value="package:mine ScanResult" />
@@ -20,9 +23,6 @@
         <option value=" -tag:AppCenter package:mine DeviceD" />
         <option value=" -tag:AppCenter package:mine" />
         <option value=" -tag:AppCenter package:mine tag:BLE" />
-        <option value="tag~:BluetoothGatt|BtGatt|Gatt|Ble|Bluetooth" />
-        <option value=" -tag:AppCenter package:mine " />
-        <option value="-tag:AppCenter -tag:Finsky -message:http" />
       </list>
     </option>
   </component>
