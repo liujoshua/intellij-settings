@@ -1,15 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine level:INFO tag:PF60" />
+    <option name="mostRecentlyUsed" value="package:mine " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
+        <option value="package:mine level:INFO " />
         <option value="package:mine level:INFO tag:PF60" />
         <option value="package:mine level:INFO AA-55-F0" />
         <option value="package:mine level:INFO AA-55-0F-06-21-01" />
         <option value="package:mine level:INFO" />
-        <option value="package:mine " />
         <option value="package:mine level:INFO -tag:RxBle#Client" />
-        <option value="package:mine level:INFO " />
         <option value="package:mine level:INFO RxBleConn" />
         <option value="package:mine level:INFO Service" />
         <option value="package:mine level:INFO 6e4" />
