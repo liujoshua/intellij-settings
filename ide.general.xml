@@ -1,5 +1,6 @@
 <application>
   <component name="GeneralSettings">
+    <option name="confirmOpenNewProject2" value="0" />
     <option name="processCloseConfirmation" value="TERMINATE" />
     <option name="reopenLastProject" value="false" />
   </component>
@@ -14,5 +15,12 @@
     <entry key="editor.focus.mode.color.light" value="6b727d" />
     <entry key="editor.focus.mode.color.dark" value="6b727d" />
     <entry key="rider.enable.designer.winForms" value="true" />
+  </component>
+  <component name="StatusBar">
+    <option name="widgets">
+      <map>
+        <entry key="SendFeedbackPanel" value="false" />
+      </map>
+    </option>
   </component>
 </application>
