@@ -5,6 +5,17 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="R9TR706969Z" />
+          </Key>
+        </key>
+        <name value="samsung SM-T500" />
+        <target value="Android 11.0" />
+        <api value="androidversion:30:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="R9ARB01VCLR" />
           </Key>
         </key>
@@ -50,17 +61,6 @@
           <Key>
             <type value="SERIAL_NUMBER" />
             <value value="R9TR70696NV" />
-          </Key>
-        </key>
-        <name value="samsung SM-T500" />
-        <target value="Android 11.0" />
-        <api value="androidversion:30:null:null:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="R9TR706969Z" />
           </Key>
         </key>
         <name value="samsung SM-T500" />
