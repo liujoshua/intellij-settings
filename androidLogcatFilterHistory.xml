@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine  level:DEBUG " />
+    <option name="mostRecentlyUsed" value="package:mine " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
+        <option value="package:mine PC" />
         <option value="package:mine  level:DEBUG " />
         <option value="package:mine  level:DEBUG tag~:Suspending*" />
         <option value="package:mine  level:DEBUG" />
@@ -14,12 +16,10 @@
         <option value="package:mine  level:DEBUG  " />
         <option value="package:mine  level:DEBUG  PF60Ob" />
         <option value="package:mine  " />
-        <option value="package:mine " />
         <option value="package:mine scanBleDevices" />
         <option value="package:mine  P" />
         <option value="package:mine RxBleConn COnnect" />
         <option value="package:mine RxBleConn" />
-        <option value="package:mine PC" />
         <option value="package:mine PC-" />
         <option value="package:mine PF60" />
         <option value="package:mine PF" />
