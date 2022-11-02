@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine  level:DEBUG " />
+    <option name="mostRecentlyUsed" value="package:mine  level:DEBUG" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine  level:DEBUG" />
         <option value="package:mine  level:DEBUG " />
         <option value="package:mine  level:DEBUG PF60Ble" />
         <option value="package:mine  level:DEBUG -tag:NordicView" />
@@ -11,7 +12,6 @@
         <option value="package:mine  level:DEBUG  Generic" />
         <option value="package:mine  level:DEBUG  " />
         <option value="package:mine  level:DEBUG  PF60Ob" />
-        <option value="package:mine  level:DEBUG" />
         <option value="package:mine  " />
         <option value="package:mine " />
         <option value="package:mine scanBleDevices" />
