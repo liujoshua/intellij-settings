@@ -3,6 +3,7 @@
     <words>
       <w>ansiblehealth</w>
       <w>azurerm</w>
+      <w>servicebus</w>
     </words>
   </component>
 </application>
