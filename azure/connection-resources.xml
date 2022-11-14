@@ -1,0 +1,7 @@
+<application>
+  <component name="resources">
+    <resource id="a1a90e746093c32df5ac9496cd81f2f9" type="Azure.Insights">
+      <dataId>/subscriptions/c69b95cd-859b-483f-abf1-0bc57c696b67/resourceGroups/processor-dev-westus-rg/providers/Microsoft.Insights/components/processor-dev-westus-app-center-insights</dataId>
+    </resource>
+  </component>
+</application>

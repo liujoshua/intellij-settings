@@ -1,28 +1,28 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="package:mine " />
     <option name="nonFavorites">
       <list>
         <option value="package:mine " />
-        <option value="package:mine PC-" />
-        <option value="package:mine PF60" />
-        <option value="package:mine PF" />
-        <option value="package:mine 651B" />
-        <option value="package:mine level:INFO " />
-        <option value="package:mine level:INFO tag:PF60" />
-        <option value="package:mine level:INFO AA-55-F0" />
-        <option value="package:mine level:INFO AA-55-0F-06-21-01" />
+        <option value="package:mine" />
         <option value="package:mine level:INFO" />
-        <option value="package:mine level:INFO -tag:RxBle#Client" />
-        <option value="package:mine level:INFO RxBleConn" />
-        <option value="package:mine level:INFO Service" />
-        <option value="package:mine level:INFO 6e4" />
-        <option value="package:mine level:INFO Service:" />
-        <option value="package:mine level:INFO Discover" />
-        <option value="package:mine Discover" />
-        <option value="package:mine DiscoverServices" />
-        <option value="package:mine ScanResult RxBleDeviceImpl" />
-        <option value="package:mine ScanResult" />
+        <option value="package:mine pf" />
+        <option value="package:mine line~:Emit|Collect" />
+        <option value="package:mine PC" />
+        <option value="package:mine  level:DEBUG " />
+        <option value="package:mine  level:DEBUG tag~:Suspending*" />
+        <option value="package:mine  level:DEBUG" />
+        <option value="package:mine  level:DEBUG PF60Ble" />
+        <option value="package:mine  level:DEBUG -tag:NordicView" />
+        <option value="package:mine  level:DEBUG Generic" />
+        <option value="package:mine  level:DEBUG  Gene" />
+        <option value="package:mine  level:DEBUG  Generic" />
+        <option value="package:mine  level:DEBUG  " />
+        <option value="package:mine  level:DEBUG  PF60Ob" />
+        <option value="package:mine  " />
+        <option value="package:mine scanBleDevices" />
+        <option value="package:mine  P" />
+        <option value="package:mine RxBleConn COnnect" />
       </list>
     </option>
   </component>
