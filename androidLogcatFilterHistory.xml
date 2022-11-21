@@ -1,11 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:AppCenter error" />
+    <option name="mostRecentlyUsed" value="package:mine " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:mine tag:AppCenter error" />
         <option value="package:mine tag:AppCenter" />
-        <option value="package:mine " />
         <option value="package:mine" />
         <option value="package:mine level:INFO" />
         <option value="package:mine pf" />
