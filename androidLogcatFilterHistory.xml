@@ -1,9 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine " />
+    <option name="mostRecentlyUsed" value="package:mine battery" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine battery" />
         <option value="package:mine " />
+        <option value="package:mine battery level" />
         <option value="package:mine DeviceInfoData" />
         <option value="package:mine -" />
         <option value="package:mine" />
@@ -21,8 +23,6 @@
         <option value="package:mine PC" />
         <option value="package:mine  level:DEBUG " />
         <option value="package:mine  level:DEBUG tag~:Suspending*" />
-        <option value="package:mine  level:DEBUG" />
-        <option value="package:mine  level:DEBUG PF60Ble" />
       </list>
     </option>
   </component>
