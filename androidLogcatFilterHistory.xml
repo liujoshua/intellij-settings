@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine  " />
+    <option name="mostRecentlyUsed" value="package:mine   " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine   " />
+        <option value="package:mine  Bond state" />
+        <option value="package:mine  Bond" />
         <option value="package:mine  " />
         <option value="package:mine  connectionOb" />
         <option value="package:mine " />
@@ -20,9 +23,6 @@
         <option value="package:mine -" />
         <option value="package:mine" />
         <option value="package:mine -tag:BluetoothGatt -tag:BluetoothAdapter " />
-        <option value="package:mine init block" />
-        <option value="package:mine Suspending" />
-        <option value="package:mine tag~:BleScan|SupportBleScan|BaseDevice" />
       </list>
     </option>
   </component>
