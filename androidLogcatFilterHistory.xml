@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine " />
+    <option name="mostRecentlyUsed" value="package:mine tag:Suspending" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:Suspending" />
+        <option value="package:mine Data:" />
         <option value="package:mine " />
         <option value="package:mine tag:BleScanManager" />
         <option value="refreshing" />
@@ -21,8 +23,6 @@
         <option value="package:mine tag~:BleScan|SupportBleScan" />
         <option value="package:mine BleScan" />
         <option value="package:mine tag:AppCenter error" />
-        <option value="package:mine tag:AppCenter" />
-        <option value="package:mine level:INFO" />
       </list>
     </option>
   </component>
