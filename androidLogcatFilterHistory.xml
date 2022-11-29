@@ -4,6 +4,7 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine " />
+        <option value="package:mine DeviceInfo" />
         <option value="package:mine BleScanS" />
         <option value="package:mine UA650" />
         <option value="package:mine Bond" />
@@ -22,7 +23,6 @@
         <option value="package:mine tag:Suspending" />
         <option value="package:mine Data:" />
         <option value="package:mine tag:BleScanManager" />
-        <option value="refreshing" />
       </list>
     </option>
   </component>
