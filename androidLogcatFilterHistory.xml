@@ -1,12 +1,16 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine   " />
+    <option name="mostRecentlyUsed" value="tag:BleManager" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:BleManager" />
+        <option value="BleManager" />
+        <option value="package:mine  BleManagerH" />
+        <option value="package:mine  Bluetooth" />
+        <option value="package:mine  " />
+        <option value="package:mine  Bond" />
         <option value="package:mine   " />
         <option value="package:mine  Bond state" />
-        <option value="package:mine  Bond" />
-        <option value="package:mine  " />
         <option value="package:mine  connectionOb" />
         <option value="package:mine " />
         <option value="package:mine tag:Suspending " />
@@ -19,10 +23,6 @@
         <option value="message~:BLE|Ble" />
         <option value="package:mine battery" />
         <option value="package:mine battery level" />
-        <option value="package:mine DeviceInfoData" />
-        <option value="package:mine -" />
-        <option value="package:mine" />
-        <option value="package:mine -tag:BluetoothGatt -tag:BluetoothAdapter " />
       </list>
     </option>
   </component>
