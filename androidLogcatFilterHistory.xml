@@ -1,13 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine Suspending Emit" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine" />
         <option value="package:mine Suspending Emit" />
         <option value="package:mine Suspending" />
         <option value="package:mine " />
         <option value="package:mine BleScan" />
-        <option value="package:mine" />
         <option value="package:mine DeviceInfo" />
         <option value="package:mine BleScanS" />
         <option value="package:mine UA650" />
