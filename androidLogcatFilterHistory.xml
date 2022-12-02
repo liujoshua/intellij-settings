@@ -1,10 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine callbackType" />
+    <option name="mostRecentlyUsed" value="package:mine handling " />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine callbackType" />
+        <option value="package:mine handling " />
         <option value="package:mine " />
+        <option value="package:mine callbackType" />
         <option value="package:mine" />
         <option value="package:mine ScanReceiver" />
         <option value="package:mine Bond" />
@@ -22,7 +23,6 @@
         <option value="tag:BleManager" />
         <option value="BleManager" />
         <option value="package:mine  BleManagerH" />
-        <option value="package:mine  Bluetooth" />
       </list>
     </option>
   </component>
