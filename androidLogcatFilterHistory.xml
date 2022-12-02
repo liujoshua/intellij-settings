@@ -1,11 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine -message:Emitting" />
+    <option name="mostRecentlyUsed" value="package:mine " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
+        <option value="package:mine Bond" />
         <option value="package:mine -message:Emitting" />
         <option value="package:mine level:INFO " />
-        <option value="package:mine " />
         <option value="package:mine UA650" />
         <option value="package:mine BleScanService" />
         <option value="package:mine UA65" />
@@ -15,7 +16,6 @@
         <option value="package:mine BleScan" />
         <option value="package:mine DeviceInfo" />
         <option value="package:mine BleScanS" />
-        <option value="package:mine Bond" />
         <option value="level:WARN package:mine " />
         <option value="tag:BleManager" />
         <option value="BleManager" />
