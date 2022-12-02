@@ -1,14 +1,17 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine  PF60Da" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine  PF60Da" />
+        <option value="package:mine" />
         <option value="package:mine  " />
+        <option value="package:mine  PF60Data" />
+        <option value="package:mine  PF60DataCall" />
+        <option value="package:mine  wave" />
+        <option value="package:mine  Emit data" />
+        <option value="package:mine  PF60Da" />
         <option value="package:mine handling " />
         <option value="package:mine " />
         <option value="package:mine callbackType" />
-        <option value="package:mine" />
         <option value="package:mine ScanReceiver" />
         <option value="package:mine Bond" />
         <option value="package:mine -message:Emitting" />
@@ -19,10 +22,6 @@
         <option value="package:mine Suspending Emit" />
         <option value="package:mine Suspending" />
         <option value="package:mine BleScan" />
-        <option value="package:mine DeviceInfo" />
-        <option value="package:mine BleScanS" />
-        <option value="level:WARN package:mine " />
-        <option value="tag:BleManager" />
       </list>
     </option>
   </component>
