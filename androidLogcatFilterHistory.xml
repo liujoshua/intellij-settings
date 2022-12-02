@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine handling " />
+    <option name="mostRecentlyUsed" value="package:mine  " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine  " />
         <option value="package:mine handling " />
         <option value="package:mine " />
         <option value="package:mine callbackType" />
@@ -22,7 +23,6 @@
         <option value="level:WARN package:mine " />
         <option value="tag:BleManager" />
         <option value="BleManager" />
-        <option value="package:mine  BleManagerH" />
       </list>
     </option>
   </component>
