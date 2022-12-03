@@ -4,25 +4,25 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine " />
+        <option value="package:mine Equipment" />
         <option value="package:mine" />
-        <option value="package:mine level:INFO" />
-        <option value="package:mine pf" />
-        <option value="package:mine line~:Emit|Collect" />
-        <option value="package:mine PC" />
-        <option value="package:mine  level:DEBUG " />
-        <option value="package:mine  level:DEBUG tag~:Suspending*" />
-        <option value="package:mine  level:DEBUG" />
-        <option value="package:mine  level:DEBUG PF60Ble" />
-        <option value="package:mine  level:DEBUG -tag:NordicView" />
-        <option value="package:mine  level:DEBUG Generic" />
-        <option value="package:mine  level:DEBUG  Gene" />
-        <option value="package:mine  level:DEBUG  Generic" />
-        <option value="package:mine  level:DEBUG  " />
-        <option value="package:mine  level:DEBUG  PF60Ob" />
         <option value="package:mine  " />
-        <option value="package:mine scanBleDevices" />
-        <option value="package:mine  P" />
-        <option value="package:mine RxBleConn COnnect" />
+        <option value="package:mine  PF60Data" />
+        <option value="package:mine  PF60DataCall" />
+        <option value="package:mine  wave" />
+        <option value="package:mine  Emit data" />
+        <option value="package:mine  PF60Da" />
+        <option value="package:mine handling " />
+        <option value="package:mine callbackType" />
+        <option value="package:mine ScanReceiver" />
+        <option value="package:mine Bond" />
+        <option value="package:mine -message:Emitting" />
+        <option value="package:mine level:INFO " />
+        <option value="package:mine UA650" />
+        <option value="package:mine BleScanService" />
+        <option value="package:mine UA65" />
+        <option value="package:mine Suspending Emit" />
+        <option value="package:mine Suspending" />
       </list>
     </option>
   </component>
