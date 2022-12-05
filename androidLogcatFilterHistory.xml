@@ -1,13 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine ScanCallback" />
+    <option name="mostRecentlyUsed" value="package:mine " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
+        <option value="package:mine" />
         <option value="package:mine ScanCallback" />
         <option value="package:mine BLESCAN" />
-        <option value="package:mine " />
         <option value="package:mine Equipment" />
-        <option value="package:mine" />
         <option value="package:mine  " />
         <option value="package:mine  PF60Data" />
         <option value="package:mine  PF60DataCall" />
