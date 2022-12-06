@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine level:warn -tag~:UpcomingEvents|Azure|PatientInternal" />
+    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:mine level:warn -tag~:UpcomingEvents|Azure|PatientInternal" />
         <option value="package:mine level:warn " />
         <option value="package:mine tag~:BLE|Ble|Bluetooth|Devi|GSIM|LeAppInfo|BtGatt" />
@@ -12,7 +13,6 @@
         <option value="package:mine tag~:BLE|Ble|Bluetooth|Devi" />
         <option value="package:mine" />
         <option value="package:mine tag~:BLE|Ble|Bluetooth|Devi " />
-        <option value="package:mine " />
         <option value="package:mine tag~:BLE|Ble|Bluetooth|Device" />
         <option value="package:mine ScanCallback" />
         <option value="package:mine BLESCAN" />
