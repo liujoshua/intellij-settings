@@ -4,9 +4,10 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine tag~:BLE|Ble|Bluetooth|Devi" />
+        <option value="package:mine" />
+        <option value="package:mine tag~:BLE|Ble|Bluetooth|Devi " />
         <option value="package:mine " />
         <option value="package:mine tag~:BLE|Ble|Bluetooth|Device" />
-        <option value="package:mine" />
         <option value="package:mine ScanCallback" />
         <option value="package:mine BLESCAN" />
         <option value="package:mine Equipment" />
@@ -22,7 +23,6 @@
         <option value="package:mine Bond" />
         <option value="package:mine -message:Emitting" />
         <option value="package:mine level:INFO " />
-        <option value="package:mine UA650" />
       </list>
     </option>
   </component>
