@@ -1,10 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine level:warn " />
+    <option name="mostRecentlyUsed" value="package:mine -tag~:ListUpcomingEventsFragm " />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine level:warn " />
+        <option value="package:mine -tag~:ListUpcomingEventsFragm " />
+        <option value="package:mine" />
         <option value="package:mine " />
+        <option value="package:mine level:warn " />
         <option value="package:mine level:warn" />
         <option value="package:mine level:warn -tag~:PatientInternal" />
         <option value="package:mine tag~:BLE|Ble|Bluetooth|Devi|GSIM|LeAppInfo|BtGatt|BackgroundSync" />
@@ -14,7 +16,6 @@
         <option value="package:mine level:warn -tag~:UpcomingEvent|Azure|PatientInternal" />
         <option value="package:mine tag~:BLE|Ble|Bluetooth|Devi|GSIM|LeAppInfo" />
         <option value="package:mine tag~:BLE|Ble|Bluetooth|Devi" />
-        <option value="package:mine" />
         <option value="package:mine tag~:BLE|Ble|Bluetooth|Devi " />
         <option value="package:mine tag~:BLE|Ble|Bluetooth|Device" />
         <option value="package:mine ScanCallback" />
@@ -22,7 +23,6 @@
         <option value="package:mine Equipment" />
         <option value="package:mine  " />
         <option value="package:mine  PF60Data" />
-        <option value="package:mine  PF60DataCall" />
       </list>
     </option>
   </component>
