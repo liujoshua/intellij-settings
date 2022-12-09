@@ -1,9 +1,17 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine -tag~:ListUpcomingEventsFragm|ScanManager" />
+    <option name="mostRecentlyUsed" value="package:mine -tag~:ListUpcomingEventsFragm|ScanManager Emitting" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine -tag~:ListUpcomingEventsFragm|ScanManager Emitting" />
+        <option value="package:mine -tag~:ListUpcomingEventsFragm|ScanManager Emitti" />
+        <option value="package:mine -tag~:ListUpcomingEventsFragm|ScanManager " />
+        <option value="package:mine -tag~:ListUpcomingEventsFragm|ScanManager DeviceInfoData" />
         <option value="package:mine -tag~:ListUpcomingEventsFragm|ScanManager" />
+        <option value="package:mine -tag~:ListUpcomingEventsFragm|ScanManager tag~:Reading|TMB2048AReading" />
+        <option value="package:mine -tag~:ListUpcomingEventsFragm|ScanManager Delega" />
+        <option value="package:mine -tag~:ListUpcomingEventsFragm|ScanManager BP" />
+        <option value="package:mine -tag~:ListUpcomingEventsFragm|ScanManager TMB" />
         <option value="package:mine -tag~:ListUpcomingEventsFragm " />
         <option value="package:mine -tag~:ListUpcomingEventsFragm" />
         <option value="package:mine -tag~:ListUpcomingEventsFragm ConnectionState" />
@@ -15,14 +23,6 @@
         <option value="package:mine level:warn -tag~:PatientInternal" />
         <option value="package:mine tag~:BLE|Ble|Bluetooth|Devi|GSIM|LeAppInfo|BtGatt|BackgroundSync" />
         <option value="package:mine tag~:BLE|Ble|Bluetooth|Devi|GSIM|LeAppInfo|BtGatt" />
-        <option value="package:mine level:warn -tag~:UpcomingEvents|Azure|PatientInternal" />
-        <option value="package:mine BtGatt" />
-        <option value="package:mine level:warn -tag~:UpcomingEvent|Azure|PatientInternal" />
-        <option value="package:mine tag~:BLE|Ble|Bluetooth|Devi|GSIM|LeAppInfo" />
-        <option value="package:mine tag~:BLE|Ble|Bluetooth|Devi" />
-        <option value="package:mine tag~:BLE|Ble|Bluetooth|Devi " />
-        <option value="package:mine tag~:BLE|Ble|Bluetooth|Device" />
-        <option value="package:mine ScanCallback" />
       </list>
     </option>
   </component>
