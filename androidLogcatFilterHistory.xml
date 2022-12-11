@@ -1,11 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine -tag~:ListUpcomingEventsFragm|ScanManager Emitting" />
+    <option name="mostRecentlyUsed" value="package:mine -tag~:ListUpcomingEventsFragm|ScanManager " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine -tag~:ListUpcomingEventsFragm|ScanManager " />
         <option value="package:mine -tag~:ListUpcomingEventsFragm|ScanManager Emitting" />
         <option value="package:mine -tag~:ListUpcomingEventsFragm|ScanManager Emitti" />
-        <option value="package:mine -tag~:ListUpcomingEventsFragm|ScanManager " />
         <option value="package:mine -tag~:ListUpcomingEventsFragm|ScanManager DeviceInfoData" />
         <option value="package:mine -tag~:ListUpcomingEventsFragm|ScanManager" />
         <option value="package:mine -tag~:ListUpcomingEventsFragm|ScanManager tag~:Reading|TMB2048AReading" />
