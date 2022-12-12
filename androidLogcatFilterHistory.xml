@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine -tag~:ListUpcomingEventsFragm tag~:PC60W" />
+    <option name="mostRecentlyUsed" value="package:mine -tag~:ListUpcomingEventsFragm tag~:PC60W Spo2 Packet" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine -tag~:ListUpcomingEventsFragm tag~:PC60W Spo2 Packet" />
+        <option value="package:mine -tag~:ListUpcomingEventsFragm tag~:PC60W bools:" />
         <option value="package:mine -tag~:ListUpcomingEventsFragm tag~:PC60W" />
         <option value="package:mine -tag~:ListUpcomingEventsFragm wave: " />
         <option value="package:mine -tag~:ListUpcomingEventsFragm " />
@@ -21,8 +23,6 @@
         <option value="package:mine -tag~:ListUpcomingEventsFragm|ScanManager tag~:Reading|TMB2048AReading" />
         <option value="package:mine -tag~:ListUpcomingEventsFragm|ScanManager Delega" />
         <option value="package:mine -tag~:ListUpcomingEventsFragm|ScanManager BP" />
-        <option value="package:mine -tag~:ListUpcomingEventsFragm|ScanManager TMB" />
-        <option value="package:mine -tag~:ListUpcomingEventsFragm ConnectionState" />
       </list>
     </option>
   </component>
