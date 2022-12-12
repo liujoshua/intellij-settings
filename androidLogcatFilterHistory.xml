@@ -1,12 +1,19 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine -tag~:Upcoming|PatientInternalEmail|AzureClient level:warn" />
+    <option name="mostRecentlyUsed" value="package:mine -tag~:Upcoming|PatientInternalEmail|AzureClient tag~:BleScanService|DeviceDataSyncer Data synce " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine -tag~:Upcoming|PatientInternalEmail|AzureClient tag~:BleScanService|DeviceDataSyncer Data synce " />
+        <option value="package:mine -tag~:Upcoming|PatientInternalEmail|AzureClient tag~:BleScanService|DeviceDataSyncer " />
+        <option value="package:mine -tag~:Upcoming|PatientInternalEmail|AzureClient tag~:BleScanService|DeviceDataSyncer starting" />
+        <option value="package:mine -tag~:Upcoming|PatientInternalEmail|AzureClient tag~:BleScanService|DeviceDataSyncer" />
+        <option value="package:mine -tag~:Upcoming|PatientInternalEmail|AzureClient tag~:BleScanService|DeviceDataSyncer Data syncer " />
+        <option value="package:mine -tag~:Upcoming|PatientInternalEmail|AzureClient BleScanService" />
+        <option value="package:mine -tag~:Upcoming|PatientInternalEmail|AzureClient " />
+        <option value="package:mine -tag~:Upcoming|PatientInternalEmail|AzureClient DeviceDataSyncer" />
         <option value="package:mine -tag~:Upcoming|PatientInternalEmail|AzureClient level:warn" />
         <option value="package:mine -tag~:Upcoming|PatientInternalEmail|AzureClient BP Indi" />
         <option value="package:mine -tag~:Upcoming|PatientInternalEmail|AzureClient flow completion" />
-        <option value="package:mine -tag~:Upcoming|PatientInternalEmail|AzureClient " />
         <option value="package:mine -tag~:Upcoming|PatientInternalEmail|AzureClient Indication" />
         <option value="package:mine -tag~:Upcoming|PatientInternalEmail|AzureClient" />
         <option value="package:mine -tag~:Upcoming|PatientInternalEmail|AzureClient tag" />
@@ -16,13 +23,6 @@
         <option value="package:mine -tag~:Upcoming|PatientInternalEmail|AzureClient Heartb" />
         <option value="package:mine -tag~:Upcoming|PatientInternalEmail|AzureClient level:warn " />
         <option value="package:mine -tag~:Upcoming level:warn " />
-        <option value="package:mine BleScanService " />
-        <option value="package:mine" />
-        <option value="package:mine tag~:BleScan" />
-        <option value="package:mine tag~:BleScan|BleReadingMes" />
-        <option value="package:mine tag~:BleScan " />
-        <option value="package:mine tag~:BleScan ReadingMessage" />
-        <option value="package:mine " />
       </list>
     </option>
   </component>
