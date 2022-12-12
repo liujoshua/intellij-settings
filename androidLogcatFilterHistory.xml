@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine -tag~:ListUpcomingEventsFragm " />
+    <option name="mostRecentlyUsed" value="package:mine -tag~:ListUpcomingEventsFragm 00:00" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine -tag~:ListUpcomingEventsFragm 00:00" />
         <option value="package:mine -tag~:ListUpcomingEventsFragm " />
         <option value="package:mine -tag~:ListUpcomingEventsFragm Equipment" />
         <option value="package:mine -tag~:ListUpcomingEventsFragm Mac" />
@@ -22,7 +23,6 @@
         <option value="package:mine -tag~:ListUpcomingEventsFragm|ScanManager " />
         <option value="package:mine -tag~:ListUpcomingEventsFragm|ScanManager Emitting" />
         <option value="package:mine -tag~:ListUpcomingEventsFragm|ScanManager Emitti" />
-        <option value="package:mine -tag~:ListUpcomingEventsFragm|ScanManager DeviceInfoData" />
       </list>
     </option>
   </component>
