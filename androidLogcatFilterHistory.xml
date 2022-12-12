@@ -1,10 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine -tag~:Upcoming|PatientInternalEmail|AzureClient" />
+    <option name="mostRecentlyUsed" value="package:mine -tag~:Upcoming|PatientInternalEmail|AzureClient tag" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine -tag~:Upcoming|PatientInternalEmail|AzureClient" />
+        <option value="package:mine -tag~:Upcoming|PatientInternalEmail|AzureClient tag" />
+        <option value="package:mine -tag~:Upcoming|PatientInternalEmail|AzureClient tag~:BleScanService|BleManager Heartbeat" />
+        <option value="package:mine -tag~:Upcoming|PatientInternalEmail|AzureClient tag~:BleScanService|BleManager" />
         <option value="package:mine -tag~:Upcoming|PatientInternalEmail|AzureClient " />
+        <option value="package:mine -tag~:Upcoming|PatientInternalEmail|AzureClient Base" />
+        <option value="package:mine -tag~:Upcoming|PatientInternalEmail|AzureClient Heartb" />
+        <option value="package:mine -tag~:Upcoming|PatientInternalEmail|AzureClient" />
         <option value="package:mine -tag~:Upcoming|PatientInternalEmail|AzureClient level:warn " />
         <option value="package:mine -tag~:Upcoming level:warn " />
         <option value="package:mine BleScanService " />
@@ -18,11 +23,6 @@
         <option value="package:mine ReadingMessageProd" />
         <option value="package:mine PC60Reading Collect" />
         <option value="package:mine latestDe" />
-        <option value="package:mine tag~:BleScanSer" />
-        <option value="package:mine Equipment Info" />
-        <option value="package:mine Mac" />
-        <option value="package:mine Collect Equipment " />
-        <option value="package:mine tag~:PC60  " />
       </list>
     </option>
   </component>
