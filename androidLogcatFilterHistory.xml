@@ -1,14 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag~:BleScan|BleReadingMes" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine" />
+        <option value="package:mine tag~:BleScan" />
         <option value="package:mine tag~:BleScan|BleReadingMes" />
         <option value="package:mine tag~:BleScan " />
         <option value="package:mine tag~:BleScan ReadingMessage" />
-        <option value="package:mine tag~:BleScan" />
         <option value="package:mine " />
-        <option value="package:mine" />
         <option value="package:mine ReadingMessageProd Collect Pulse Ox" />
         <option value="package:mine ReadingMessageProd" />
         <option value="package:mine PC60Reading Collect" />
