@@ -1,10 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine -tag~:ListUpcomingEventsFragm battery" />
+    <option name="mostRecentlyUsed" value="package:mine -tag~:ListUpcomingEventsFragm" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine -tag~:ListUpcomingEventsFragm battery" />
+        <option value="package:mine -tag~:ListUpcomingEventsFragm" />
+        <option value="package:mine -tag~:ListUpcomingEventsFragm Suspe" />
+        <option value="package:mine -tag~:ListUpcomingEventsFragm Nordic" />
         <option value="package:mine -tag~:ListUpcomingEventsFragm " />
+        <option value="package:mine -tag~:ListUpcomingEventsFragm Emit" />
+        <option value="package:mine -tag~:ListUpcomingEventsFragm battery" />
         <option value="package:mine -tag~:ListUpcomingEventsFragm|ScanManager " />
         <option value="package:mine -tag~:ListUpcomingEventsFragm|ScanManager Emitting" />
         <option value="package:mine -tag~:ListUpcomingEventsFragm|ScanManager Emitti" />
@@ -14,15 +18,11 @@
         <option value="package:mine -tag~:ListUpcomingEventsFragm|ScanManager Delega" />
         <option value="package:mine -tag~:ListUpcomingEventsFragm|ScanManager BP" />
         <option value="package:mine -tag~:ListUpcomingEventsFragm|ScanManager TMB" />
-        <option value="package:mine -tag~:ListUpcomingEventsFragm" />
         <option value="package:mine -tag~:ListUpcomingEventsFragm ConnectionState" />
         <option value="package:mine -tag~:ListUpcomingEventsFragm ReadingMessage" />
         <option value="package:mine" />
         <option value="package:mine " />
         <option value="package:mine level:warn " />
-        <option value="package:mine level:warn" />
-        <option value="package:mine level:warn -tag~:PatientInternal" />
-        <option value="package:mine tag~:BLE|Ble|Bluetooth|Devi|GSIM|LeAppInfo|BtGatt|BackgroundSync" />
       </list>
     </option>
   </component>
