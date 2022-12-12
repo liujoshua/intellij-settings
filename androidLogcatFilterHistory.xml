@@ -1,13 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine -tag~:ListUpcomingEventsFragm waveform" />
+    <option name="mostRecentlyUsed" value="package:mine -tag~:ListUpcomingEventsFragm wave: " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine -tag~:ListUpcomingEventsFragm wave: " />
+        <option value="package:mine -tag~:ListUpcomingEventsFragm " />
+        <option value="package:mine -tag~:ListUpcomingEventsFragm waveorm" />
         <option value="package:mine -tag~:ListUpcomingEventsFragm waveform" />
         <option value="package:mine -tag~:ListUpcomingEventsFragm" />
         <option value="package:mine -tag~:ListUpcomingEventsFragm Suspe" />
         <option value="package:mine -tag~:ListUpcomingEventsFragm Nordic" />
-        <option value="package:mine -tag~:ListUpcomingEventsFragm " />
         <option value="package:mine -tag~:ListUpcomingEventsFragm Emit" />
         <option value="package:mine -tag~:ListUpcomingEventsFragm battery" />
         <option value="package:mine -tag~:ListUpcomingEventsFragm|ScanManager " />
@@ -21,8 +23,6 @@
         <option value="package:mine -tag~:ListUpcomingEventsFragm|ScanManager TMB" />
         <option value="package:mine -tag~:ListUpcomingEventsFragm ConnectionState" />
         <option value="package:mine -tag~:ListUpcomingEventsFragm ReadingMessage" />
-        <option value="package:mine" />
-        <option value="package:mine " />
       </list>
     </option>
   </component>
