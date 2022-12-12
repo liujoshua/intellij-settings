@@ -1,8 +1,16 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag~:PC60 " />
+    <option name="mostRecentlyUsed" value="package:mine latestDe" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine latestDe" />
+        <option value="package:mine " />
+        <option value="package:mine tag~:BleScanSer" />
+        <option value="package:mine Equipment Info" />
+        <option value="package:mine Mac" />
+        <option value="package:mine Collect Equipment " />
+        <option value="package:mine tag~:PC60  " />
+        <option value="package:mine tag~:PC60 ReadingMessage " />
         <option value="package:mine tag~:PC60 " />
         <option value="package:mine tag~:PC60 Reading -message:Wave Collect Pulse Ox" />
         <option value="package:mine tag~:PC60 Reading -message:Wave PF60Spo2ParameterPacket" />
@@ -10,19 +18,11 @@
         <option value="package:mine Emit Name" />
         <option value="package:mine PF60Response" />
         <option value="package:mine Equipment" />
-        <option value="package:mine " />
         <option value="package:mine Equipment public " />
         <option value="package:mine -tag~:ListUpcomingEventsFrag Equipment" />
         <option value="package:mine -tag~:ListUpcomingEventsFrag" />
         <option value="package:mine -tag~:ListUpcomingEventsFrag " />
         <option value="package:mine -tag~:ListUpcomingEventsFrag PF60Response Spot" />
-        <option value="package:mine -tag~:ListUpcomingEventsFrag PF60Response " />
-        <option value="package:mine -tag~:ListUpcomingEventsFrag Spot check" />
-        <option value="package:mine -tag~:ListUpcomingEventsFrag tag~:Spot" />
-        <option value="package:mine -tag~:ListUpcomingEventsFrag Spo2 " />
-        <option value="package:mine -tag~:ListUpcomingEventsFragm " />
-        <option value="package:mine -tag~:ListUpcomingEventsFragm message~:Spo2:|Status:" />
-        <option value="package:mine -tag~:ListUpcomingEventsFragm Status:" />
       </list>
     </option>
   </component>
