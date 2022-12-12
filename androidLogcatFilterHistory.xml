@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine -tag~:Upcoming|PatientInternalEmail|AzureClient BP Indi" />
+    <option name="mostRecentlyUsed" value="package:mine -tag~:Upcoming|PatientInternalEmail|AzureClient level:warn" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine -tag~:Upcoming|PatientInternalEmail|AzureClient level:warn" />
         <option value="package:mine -tag~:Upcoming|PatientInternalEmail|AzureClient BP Indi" />
         <option value="package:mine -tag~:Upcoming|PatientInternalEmail|AzureClient flow completion" />
         <option value="package:mine -tag~:Upcoming|PatientInternalEmail|AzureClient " />
@@ -22,7 +23,6 @@
         <option value="package:mine tag~:BleScan " />
         <option value="package:mine tag~:BleScan ReadingMessage" />
         <option value="package:mine " />
-        <option value="package:mine ReadingMessageProd Collect Pulse Ox" />
       </list>
     </option>
   </component>
