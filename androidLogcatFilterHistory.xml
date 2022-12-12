@@ -1,10 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine -tag~:ListUpcomingEventsFragm Spo2:" />
+    <option name="mostRecentlyUsed" value="package:mine -tag~:ListUpcomingEventsFragm " />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine -tag~:ListUpcomingEventsFragm Spo2:" />
         <option value="package:mine -tag~:ListUpcomingEventsFragm " />
+        <option value="package:mine -tag~:ListUpcomingEventsFragm message~:Spo2:|Status:" />
+        <option value="package:mine -tag~:ListUpcomingEventsFragm Status:" />
+        <option value="package:mine -tag~:ListUpcomingEventsFragm Spo2:" />
         <option value="package:mine -tag~:ListUpcomingEventsFragm" />
         <option value="package:mine -tag~:ListUpcomingEventsFragm 00:00" />
         <option value="package:mine -tag~:ListUpcomingEventsFragm Equipment" />
@@ -21,8 +23,6 @@
         <option value="package:mine -tag~:ListUpcomingEventsFragm Nordic" />
         <option value="package:mine -tag~:ListUpcomingEventsFragm Emit" />
         <option value="package:mine -tag~:ListUpcomingEventsFragm battery" />
-        <option value="package:mine -tag~:ListUpcomingEventsFragm|ScanManager " />
-        <option value="package:mine -tag~:ListUpcomingEventsFragm|ScanManager Emitting" />
       </list>
     </option>
   </component>
