@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine -tag~:ListUpcomingEventsFragm" />
+    <option name="mostRecentlyUsed" value="package:mine -tag~:ListUpcomingEventsFragm waveform" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine -tag~:ListUpcomingEventsFragm waveform" />
         <option value="package:mine -tag~:ListUpcomingEventsFragm" />
         <option value="package:mine -tag~:ListUpcomingEventsFragm Suspe" />
         <option value="package:mine -tag~:ListUpcomingEventsFragm Nordic" />
@@ -22,7 +23,6 @@
         <option value="package:mine -tag~:ListUpcomingEventsFragm ReadingMessage" />
         <option value="package:mine" />
         <option value="package:mine " />
-        <option value="package:mine level:warn " />
       </list>
     </option>
   </component>
