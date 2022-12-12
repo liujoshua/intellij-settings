@@ -1,13 +1,19 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine -tag~:ListUpcomingEventsFrag " />
+    <option name="mostRecentlyUsed" value="package:mine Emit Name" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine Emit Name" />
+        <option value="package:mine PF60Response" />
+        <option value="package:mine Equipment" />
+        <option value="package:mine " />
+        <option value="package:mine Equipment public " />
+        <option value="package:mine -tag~:ListUpcomingEventsFrag Equipment" />
+        <option value="package:mine -tag~:ListUpcomingEventsFrag" />
         <option value="package:mine -tag~:ListUpcomingEventsFrag " />
         <option value="package:mine -tag~:ListUpcomingEventsFrag PF60Response Spot" />
         <option value="package:mine -tag~:ListUpcomingEventsFrag PF60Response " />
         <option value="package:mine -tag~:ListUpcomingEventsFrag Spot check" />
-        <option value="package:mine -tag~:ListUpcomingEventsFrag" />
         <option value="package:mine -tag~:ListUpcomingEventsFrag tag~:Spot" />
         <option value="package:mine -tag~:ListUpcomingEventsFrag Spo2 " />
         <option value="package:mine -tag~:ListUpcomingEventsFragm " />
@@ -17,12 +23,6 @@
         <option value="package:mine -tag~:ListUpcomingEventsFragm" />
         <option value="package:mine -tag~:ListUpcomingEventsFragm 00:00" />
         <option value="package:mine -tag~:ListUpcomingEventsFragm Equipment" />
-        <option value="package:mine -tag~:ListUpcomingEventsFragm Mac" />
-        <option value="package:mine -tag~:ListUpcomingEventsFragm Equipment public" />
-        <option value="package:mine -tag~:ListUpcomingEventsFragm tag~:PC60W " />
-        <option value="package:mine -tag~:ListUpcomingEventsFragm tag~:PC60W Spo2 Packet" />
-        <option value="package:mine -tag~:ListUpcomingEventsFragm tag~:PC60W bools:" />
-        <option value="package:mine -tag~:ListUpcomingEventsFragm tag~:PC60W" />
       </list>
     </option>
   </component>
