@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine Emit Name" />
+    <option name="mostRecentlyUsed" value="package:mine tag~:PC60 Reading -message:Wave " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag~:PC60 Reading -message:Wave " />
+        <option value="package:mine tag~:PC60 " />
         <option value="package:mine Emit Name" />
         <option value="package:mine PF60Response" />
         <option value="package:mine Equipment" />
@@ -21,8 +23,6 @@
         <option value="package:mine -tag~:ListUpcomingEventsFragm Status:" />
         <option value="package:mine -tag~:ListUpcomingEventsFragm Spo2:" />
         <option value="package:mine -tag~:ListUpcomingEventsFragm" />
-        <option value="package:mine -tag~:ListUpcomingEventsFragm 00:00" />
-        <option value="package:mine -tag~:ListUpcomingEventsFragm Equipment" />
       </list>
     </option>
   </component>
