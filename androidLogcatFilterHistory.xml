@@ -1,7 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine -tag~:Upcoming|PatientInternalEmail|AzureClient" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine -tag~:Upcoming|PatientInternalEmail|AzureClient" />
+        <option value="package:mine -tag~:Upcoming|PatientInternalEmail|AzureClient " />
+        <option value="package:mine -tag~:Upcoming|PatientInternalEmail|AzureClient level:warn " />
+        <option value="package:mine -tag~:Upcoming level:warn " />
+        <option value="package:mine BleScanService " />
         <option value="package:mine" />
         <option value="package:mine tag~:BleScan" />
         <option value="package:mine tag~:BleScan|BleReadingMes" />
@@ -17,11 +23,6 @@
         <option value="package:mine Mac" />
         <option value="package:mine Collect Equipment " />
         <option value="package:mine tag~:PC60  " />
-        <option value="package:mine tag~:PC60 ReadingMessage " />
-        <option value="package:mine tag~:PC60 " />
-        <option value="package:mine tag~:PC60 Reading -message:Wave Collect Pulse Ox" />
-        <option value="package:mine tag~:PC60 Reading -message:Wave PF60Spo2ParameterPacket" />
-        <option value="package:mine tag~:PC60 Reading -message:Wave " />
       </list>
     </option>
   </component>
