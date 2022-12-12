@@ -1,13 +1,17 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine -tag~:ListUpcomingEventsFragm tag~:PC60W Spo2 Packet" />
+    <option name="mostRecentlyUsed" value="package:mine -tag~:ListUpcomingEventsFragm " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine -tag~:ListUpcomingEventsFragm " />
+        <option value="package:mine -tag~:ListUpcomingEventsFragm Equipment" />
+        <option value="package:mine -tag~:ListUpcomingEventsFragm Mac" />
+        <option value="package:mine -tag~:ListUpcomingEventsFragm Equipment public" />
+        <option value="package:mine -tag~:ListUpcomingEventsFragm tag~:PC60W " />
         <option value="package:mine -tag~:ListUpcomingEventsFragm tag~:PC60W Spo2 Packet" />
         <option value="package:mine -tag~:ListUpcomingEventsFragm tag~:PC60W bools:" />
         <option value="package:mine -tag~:ListUpcomingEventsFragm tag~:PC60W" />
         <option value="package:mine -tag~:ListUpcomingEventsFragm wave: " />
-        <option value="package:mine -tag~:ListUpcomingEventsFragm " />
         <option value="package:mine -tag~:ListUpcomingEventsFragm waveorm" />
         <option value="package:mine -tag~:ListUpcomingEventsFragm waveform" />
         <option value="package:mine -tag~:ListUpcomingEventsFragm" />
@@ -19,10 +23,6 @@
         <option value="package:mine -tag~:ListUpcomingEventsFragm|ScanManager Emitting" />
         <option value="package:mine -tag~:ListUpcomingEventsFragm|ScanManager Emitti" />
         <option value="package:mine -tag~:ListUpcomingEventsFragm|ScanManager DeviceInfoData" />
-        <option value="package:mine -tag~:ListUpcomingEventsFragm|ScanManager" />
-        <option value="package:mine -tag~:ListUpcomingEventsFragm|ScanManager tag~:Reading|TMB2048AReading" />
-        <option value="package:mine -tag~:ListUpcomingEventsFragm|ScanManager Delega" />
-        <option value="package:mine -tag~:ListUpcomingEventsFragm|ScanManager BP" />
       </list>
     </option>
   </component>
