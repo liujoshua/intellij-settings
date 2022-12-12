@@ -1,13 +1,16 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine -tag~:Upcoming|PatientInternalEmail|AzureClient" />
+    <option name="mostRecentlyUsed" value="package:mine -tag~:Upcoming|PatientInternalEmail|AzureClient BP Indi" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine -tag~:Upcoming|PatientInternalEmail|AzureClient BP Indi" />
+        <option value="package:mine -tag~:Upcoming|PatientInternalEmail|AzureClient flow completion" />
+        <option value="package:mine -tag~:Upcoming|PatientInternalEmail|AzureClient " />
+        <option value="package:mine -tag~:Upcoming|PatientInternalEmail|AzureClient Indication" />
         <option value="package:mine -tag~:Upcoming|PatientInternalEmail|AzureClient" />
         <option value="package:mine -tag~:Upcoming|PatientInternalEmail|AzureClient tag" />
         <option value="package:mine -tag~:Upcoming|PatientInternalEmail|AzureClient tag~:BleScanService|BleManager Heartbeat" />
         <option value="package:mine -tag~:Upcoming|PatientInternalEmail|AzureClient tag~:BleScanService|BleManager" />
-        <option value="package:mine -tag~:Upcoming|PatientInternalEmail|AzureClient " />
         <option value="package:mine -tag~:Upcoming|PatientInternalEmail|AzureClient Base" />
         <option value="package:mine -tag~:Upcoming|PatientInternalEmail|AzureClient Heartb" />
         <option value="package:mine -tag~:Upcoming|PatientInternalEmail|AzureClient level:warn " />
@@ -20,9 +23,6 @@
         <option value="package:mine tag~:BleScan ReadingMessage" />
         <option value="package:mine " />
         <option value="package:mine ReadingMessageProd Collect Pulse Ox" />
-        <option value="package:mine ReadingMessageProd" />
-        <option value="package:mine PC60Reading Collect" />
-        <option value="package:mine latestDe" />
       </list>
     </option>
   </component>
