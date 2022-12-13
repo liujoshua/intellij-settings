@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine level:error " />
+    <option name="mostRecentlyUsed" value="package:mine BLEMan" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine BLEMan" />
+        <option value="package:mine " />
         <option value="package:mine level:error " />
         <option value="package:mine level:warn -tag~:AzureClient " />
         <option value="package:mine level:warn " />
@@ -21,8 +23,6 @@
         <option value="package:mine -tag~:Upcoming|PatientInternalEmail|AzureClient BP Indi" />
         <option value="package:mine -tag~:Upcoming|PatientInternalEmail|AzureClient flow completion" />
         <option value="package:mine -tag~:Upcoming|PatientInternalEmail|AzureClient Indication" />
-        <option value="package:mine -tag~:Upcoming|PatientInternalEmail|AzureClient" />
-        <option value="package:mine -tag~:Upcoming|PatientInternalEmail|AzureClient tag" />
       </list>
     </option>
   </component>
