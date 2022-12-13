@@ -4,25 +4,25 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine " />
-        <option value="package:mine Equipment" />
-        <option value="package:mine" />
-        <option value="package:mine  " />
-        <option value="package:mine  PF60Data" />
-        <option value="package:mine  PF60DataCall" />
-        <option value="package:mine  wave" />
-        <option value="package:mine  Emit data" />
-        <option value="package:mine  PF60Da" />
-        <option value="package:mine handling " />
-        <option value="package:mine callbackType" />
-        <option value="package:mine ScanReceiver" />
+        <option value="package:mine Log" />
+        <option value="package:mine Ua651Ble" />
+        <option value="package:mine Ua651BleManager" />
         <option value="package:mine Bond" />
-        <option value="package:mine -message:Emitting" />
-        <option value="package:mine level:INFO " />
-        <option value="package:mine UA650" />
-        <option value="package:mine BleScanService" />
-        <option value="package:mine UA65" />
-        <option value="package:mine Suspending Emit" />
-        <option value="package:mine Suspending" />
+        <option value="package:mine Heartbeat" />
+        <option value="package:mine" />
+        <option value="package:mine UA651" />
+        <option value="package:mine BLEMan" />
+        <option value="package:mine level:error " />
+        <option value="package:mine level:warn -tag~:AzureClient " />
+        <option value="package:mine level:warn " />
+        <option value="package:mine -tag~:Upcoming|PatientInternalEmail|AzureClient tag~:BleScanService|DeviceDataSyncer|Delegate|ReadingMessage Inserting" />
+        <option value="package:mine -tag~:Upcoming|PatientInternalEmail|AzureClient tag~:BleScanService|DeviceDataSyncer|Delegate|ReadingMessage" />
+        <option value="package:mine -tag~:Upcoming|PatientInternalEmail|AzureClient tag~:BleScanService|DeviceDataSyncer|Delegate" />
+        <option value="package:mine -tag~:Upcoming|PatientInternalEmail|AzureClient tag~:BleScanService|DeviceDataSyncer Data synce " />
+        <option value="package:mine -tag~:Upcoming|PatientInternalEmail|AzureClient tag~:BleScanService|DeviceDataSyncer " />
+        <option value="package:mine -tag~:Upcoming|PatientInternalEmail|AzureClient tag~:BleScanService|DeviceDataSyncer starting" />
+        <option value="package:mine -tag~:Upcoming|PatientInternalEmail|AzureClient tag~:BleScanService|DeviceDataSyncer" />
+        <option value="package:mine -tag~:Upcoming|PatientInternalEmail|AzureClient tag~:BleScanService|DeviceDataSyncer Data syncer " />
       </list>
     </option>
   </component>
