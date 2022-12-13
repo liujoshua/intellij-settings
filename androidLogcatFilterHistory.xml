@@ -1,10 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine BLEMan" />
+    <option name="mostRecentlyUsed" value="package:mine Ua651BleManager" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine BLEMan" />
+        <option value="package:mine Ua651BleManager" />
+        <option value="package:mine Bond" />
+        <option value="package:mine Heartbeat" />
         <option value="package:mine " />
+        <option value="package:mine" />
+        <option value="package:mine UA651" />
+        <option value="package:mine BLEMan" />
         <option value="package:mine level:error " />
         <option value="package:mine level:warn -tag~:AzureClient " />
         <option value="package:mine level:warn " />
@@ -18,11 +23,6 @@
         <option value="package:mine -tag~:Upcoming|PatientInternalEmail|AzureClient tag~:BleScanService|DeviceDataSyncer Data syncer " />
         <option value="package:mine -tag~:Upcoming|PatientInternalEmail|AzureClient BleScanService" />
         <option value="package:mine -tag~:Upcoming|PatientInternalEmail|AzureClient " />
-        <option value="package:mine -tag~:Upcoming|PatientInternalEmail|AzureClient DeviceDataSyncer" />
-        <option value="package:mine -tag~:Upcoming|PatientInternalEmail|AzureClient level:warn" />
-        <option value="package:mine -tag~:Upcoming|PatientInternalEmail|AzureClient BP Indi" />
-        <option value="package:mine -tag~:Upcoming|PatientInternalEmail|AzureClient flow completion" />
-        <option value="package:mine -tag~:Upcoming|PatientInternalEmail|AzureClient Indication" />
       </list>
     </option>
   </component>
