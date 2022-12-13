@@ -1,15 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine" />
         <option value="package:mine " />
         <option value="package:mine Log" />
         <option value="package:mine Ua651Ble" />
         <option value="package:mine Ua651BleManager" />
         <option value="package:mine Bond" />
         <option value="package:mine Heartbeat" />
-        <option value="package:mine" />
         <option value="package:mine UA651" />
         <option value="package:mine BLEMan" />
         <option value="package:mine level:error " />
