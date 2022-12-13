@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine " />
+    <option name="mostRecentlyUsed" value="package:mine Log" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine Log" />
         <option value="package:mine " />
         <option value="package:mine Ua651Ble" />
         <option value="package:mine Ua651BleManager" />
@@ -22,7 +23,6 @@
         <option value="package:mine -tag~:Upcoming|PatientInternalEmail|AzureClient tag~:BleScanService|DeviceDataSyncer starting" />
         <option value="package:mine -tag~:Upcoming|PatientInternalEmail|AzureClient tag~:BleScanService|DeviceDataSyncer" />
         <option value="package:mine -tag~:Upcoming|PatientInternalEmail|AzureClient tag~:BleScanService|DeviceDataSyncer Data syncer " />
-        <option value="package:mine -tag~:Upcoming|PatientInternalEmail|AzureClient BleScanService" />
       </list>
     </option>
   </component>
