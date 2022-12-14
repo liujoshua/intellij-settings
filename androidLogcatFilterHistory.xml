@@ -1,8 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag~:Creative|BLE|Ble|Device|BleManager|ReadingMess|Deleg tag:Pc60" />
+    <option name="mostRecentlyUsed" value="package:mine tag~:Creative|BLE|Ble|Device|BleManager|ReadingMess|Deleg " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag~:Creative|BLE|Ble|Device|BleManager|ReadingMess|Deleg " />
+        <option value="package:mine tag~:Creative|BLE|Ble|Device|BleManager|ReadingMess|Deleg ScanResult" />
+        <option value="package:mine tag~:Creative|BLE|Ble|Device|BleManager|ReadingMess|Deleg tag:Pc60 " />
+        <option value="package:mine tag~:ReadingMess|Deleg" />
+        <option value="package:mine tag~:ReadingMess" />
         <option value="package:mine tag~:Creative|BLE|Ble|Device|BleManager|ReadingMess|Deleg tag:Pc60" />
         <option value="package:mine tag~:Creative|BLE|Ble|Device|BleManager|ReadingMess|Deleg" />
         <option value="package:mine tag~:Creative|Device|BleManager|ReadingMess|Deleg" />
@@ -18,11 +23,6 @@
         <option value="package:mine Heartbeat" />
         <option value="package:mine UA651" />
         <option value="package:mine BLEMan" />
-        <option value="package:mine level:error " />
-        <option value="package:mine level:warn -tag~:AzureClient " />
-        <option value="package:mine level:warn " />
-        <option value="package:mine -tag~:Upcoming|PatientInternalEmail|AzureClient tag~:BleScanService|DeviceDataSyncer|Delegate|ReadingMessage Inserting" />
-        <option value="package:mine -tag~:Upcoming|PatientInternalEmail|AzureClient tag~:BleScanService|DeviceDataSyncer|Delegate|ReadingMessage" />
       </list>
     </option>
   </component>
