@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine" />
+    <option name="mostRecentlyUsed" value="package:mine act" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine act" />
+        <option value="package:mine actualLength" />
         <option value="package:mine" />
         <option value="package:mine Inserting" />
         <option value="package:mine level:warn -tag~:ListUp|PatientInternal|AppCenter|bTransport|Mqtt|develo" />
@@ -21,8 +23,6 @@
         <option value="package:mine tag~:Ua6|UA6|Blood" />
         <option value="package:mine tag~:BLEGateway|DeviceDataSyncer" />
         <option value="package:mine tag~:BLEGateway " />
-        <option value="package:mine tag~:Creative|BLE|Ble|Device|BleManager|ReadingMess|Deleg ScanResult" />
-        <option value="package:mine tag~:Creative|BLE|Ble|Device|BleManager|ReadingMess|Deleg tag:Pc60 " />
       </list>
     </option>
   </component>
