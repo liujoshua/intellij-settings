@@ -1,28 +1,28 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine act" />
+    <option name="mostRecentlyUsed" value="package:mine DataType" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine DataType" />
+        <option value="package:mine message~:onSpo2ParameterReceived|SpotCheckReporting" />
+        <option value="package:mine AA-55-0F-08-01" />
+        <option value="package:mine AA-55-" />
+        <option value="package:mine message~:onSpo2ParameterReceived|SpotCheckReporting|Length" />
+        <option value="package:mine -message~:onSpo2ParameterReceived" />
+        <option value="package:mine Inserting" />
+        <option value="package:mine PF60Response" />
+        <option value="package:mine PF60Response -message:Wave" />
+        <option value="package:mine " />
+        <option value="package:mine  Spo2ParameterResponse" />
+        <option value="package:mine  Spo2ParameterDataCallback" />
+        <option value="package:mine  Spo2ParameterData" />
         <option value="package:mine act" />
         <option value="package:mine actualLength" />
         <option value="package:mine" />
-        <option value="package:mine Inserting" />
         <option value="package:mine level:warn -tag~:ListUp|PatientInternal|AppCenter|bTransport|Mqtt|develo" />
-        <option value="package:mine " />
         <option value="package:mine level:warn -tag~:ListUp|PatientInternal|AppCenter|bTransport|Mqtt" />
         <option value="package:mine tag~:Creative|BLE|Ble|Device|BleManager|ReadingMess|Deleg " />
         <option value="package:mine  Device handled" />
-        <option value="package:mine  " />
-        <option value="package:mine level:warn " />
-        <option value="package:mine tag~:BLEGateway|DeviceDataSyncer|BaseDevice" />
-        <option value="package:mine tag~:" />
-        <option value="package:mine tag~:Ua6|UA6|Blood|BaseDevice|BLEGatewayData" />
-        <option value="package:mine tag~:Ua6|UA6|Blood|BaseDevice " />
-        <option value="package:mine tag~:Ua6|UA6|Blood|BaseDevice indication" />
-        <option value="package:mine tag~:Ua6|UA6|Blood " />
-        <option value="package:mine tag~:Ua6|UA6|Blood" />
-        <option value="package:mine tag~:BLEGateway|DeviceDataSyncer" />
-        <option value="package:mine tag~:BLEGateway " />
       </list>
     </option>
   </component>
