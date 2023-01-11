@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine DataType" />
+    <option name="mostRecentlyUsed" value="package:mine level:debug " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine level:debug " />
+        <option value="package:mine" />
         <option value="package:mine DataType" />
         <option value="package:mine message~:onSpo2ParameterReceived|SpotCheckReporting" />
         <option value="package:mine AA-55-0F-08-01" />
@@ -18,11 +20,9 @@
         <option value="package:mine  Spo2ParameterData" />
         <option value="package:mine act" />
         <option value="package:mine actualLength" />
-        <option value="package:mine" />
         <option value="package:mine level:warn -tag~:ListUp|PatientInternal|AppCenter|bTransport|Mqtt|develo" />
         <option value="package:mine level:warn -tag~:ListUp|PatientInternal|AppCenter|bTransport|Mqtt" />
         <option value="package:mine tag~:Creative|BLE|Ble|Device|BleManager|ReadingMess|Deleg " />
-        <option value="package:mine  Device handled" />
       </list>
     </option>
   </component>
