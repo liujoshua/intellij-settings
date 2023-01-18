@@ -1,8 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="level:warn " />
+    <option name="mostRecentlyUsed" value="package:mine onReceive" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine onReceive" />
+        <option value="package:mine tag~:BluetoothDeviceHandler  Handling" />
+        <option value="package:mine tag~:BackgroundBleScanReceiv " />
+        <option value="package:mine message~:onSpo2ParameterReceived|SpotCheckReporting" />
         <option value="level:warn " />
         <option value="none" />
         <option value="package:mine " />
@@ -10,7 +14,6 @@
         <option value="package:mine level:debug tag~:Ua651" />
         <option value="package:mine" />
         <option value="package:mine DataType" />
-        <option value="package:mine message~:onSpo2ParameterReceived|SpotCheckReporting" />
         <option value="package:mine AA-55-0F-08-01" />
         <option value="package:mine AA-55-" />
         <option value="package:mine message~:onSpo2ParameterReceived|SpotCheckReporting|Length" />
@@ -20,9 +23,6 @@
         <option value="package:mine PF60Response -message:Wave" />
         <option value="package:mine  Spo2ParameterResponse" />
         <option value="package:mine  Spo2ParameterDataCallback" />
-        <option value="package:mine  Spo2ParameterData" />
-        <option value="package:mine act" />
-        <option value="package:mine actualLength" />
       </list>
     </option>
   </component>
