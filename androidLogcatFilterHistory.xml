@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine onReceive" />
+    <option name="mostRecentlyUsed" value="package:mine tag~:Background" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag~:Background" />
         <option value="package:mine onReceive" />
         <option value="package:mine tag~:BluetoothDeviceHandler  Handling" />
         <option value="package:mine tag~:BackgroundBleScanReceiv " />
@@ -22,7 +23,6 @@
         <option value="package:mine PF60Response" />
         <option value="package:mine PF60Response -message:Wave" />
         <option value="package:mine  Spo2ParameterResponse" />
-        <option value="package:mine  Spo2ParameterDataCallback" />
       </list>
     </option>
   </component>
