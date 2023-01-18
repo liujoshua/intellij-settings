@@ -1,28 +1,28 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine " />
+    <option name="mostRecentlyUsed" value="package:mine DataType" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine DataType" />
+        <option value="package:mine message~:onSpo2ParameterReceived|SpotCheckReporting" />
+        <option value="package:mine AA-55-0F-08-01" />
+        <option value="package:mine AA-55-" />
+        <option value="package:mine message~:onSpo2ParameterReceived|SpotCheckReporting|Length" />
+        <option value="package:mine -message~:onSpo2ParameterReceived" />
+        <option value="package:mine Inserting" />
+        <option value="package:mine PF60Response" />
+        <option value="package:mine PF60Response -message:Wave" />
         <option value="package:mine " />
+        <option value="package:mine  Spo2ParameterResponse" />
+        <option value="package:mine  Spo2ParameterDataCallback" />
+        <option value="package:mine  Spo2ParameterData" />
+        <option value="package:mine act" />
+        <option value="package:mine actualLength" />
         <option value="package:mine" />
-        <option value="package:mine level:INFO" />
-        <option value="package:mine pf" />
-        <option value="package:mine line~:Emit|Collect" />
-        <option value="package:mine PC" />
-        <option value="package:mine  level:DEBUG " />
-        <option value="package:mine  level:DEBUG tag~:Suspending*" />
-        <option value="package:mine  level:DEBUG" />
-        <option value="package:mine  level:DEBUG PF60Ble" />
-        <option value="package:mine  level:DEBUG -tag:NordicView" />
-        <option value="package:mine  level:DEBUG Generic" />
-        <option value="package:mine  level:DEBUG  Gene" />
-        <option value="package:mine  level:DEBUG  Generic" />
-        <option value="package:mine  level:DEBUG  " />
-        <option value="package:mine  level:DEBUG  PF60Ob" />
-        <option value="package:mine  " />
-        <option value="package:mine scanBleDevices" />
-        <option value="package:mine  P" />
-        <option value="package:mine RxBleConn COnnect" />
+        <option value="package:mine level:warn -tag~:ListUp|PatientInternal|AppCenter|bTransport|Mqtt|develo" />
+        <option value="package:mine level:warn -tag~:ListUp|PatientInternal|AppCenter|bTransport|Mqtt" />
+        <option value="package:mine tag~:Creative|BLE|Ble|Device|BleManager|ReadingMess|Deleg " />
+        <option value="package:mine  Device handled" />
       </list>
     </option>
   </component>

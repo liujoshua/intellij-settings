@@ -11,8 +11,10 @@
         <entry key="database.password_save_type" value="UNTIL_RESTART" />
         <entry key="function.function_core_tools_path" value="/usr/local/Cellar/azure-functions-core-tools@4/4.0.4670/func" />
         <entry key="guidance.guidance_shown" value="true" />
+        <entry key="rate.action_total_score" value="0" />
+        <entry key="rate.next_rewind_date" value="1672207095857" />
         <entry key="telemetry.telemetry_allow_telemetry" value="true" />
-        <entry key="telemetry.telemetry_plugin_version" value="3.70.0-2022.2" />
+        <entry key="telemetry.telemetry_plugin_version" value="3.71.0-2022.2" />
       </map>
     </option>
   </component>
