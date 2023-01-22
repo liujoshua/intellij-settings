@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Solution" />
-    <option name="defaultScopeName" value="Solution" />
-    <option name="SEARCH_SCOPE" value="Solution" />
+    <option name="customScope" value="Project 'Ansible Health Kiosk'" />
+    <option name="defaultScopeName" value="Project 'Ansible Health Kiosk'" />
+    <option name="SEARCH_SCOPE" value="Project 'Ansible Health Kiosk'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.cs</mask>
