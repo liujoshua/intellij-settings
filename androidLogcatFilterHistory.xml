@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine tag~:Zoom" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag~:Zoom" />
         <option value="package:mine " />
         <option value="package:mine depre" />
         <option value="package:mine" />
@@ -21,7 +23,6 @@
         <option value="package:mine message~:onSpo2ParameterReceived|SpotCheckReporting|Length" />
         <option value="package:mine -message~:onSpo2ParameterReceived" />
         <option value="package:mine Inserting" />
-        <option value="package:mine PF60Response" />
       </list>
     </option>
   </component>
