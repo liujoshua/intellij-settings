@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine level:warn " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine level:warn " />
         <option value="package:mine " />
         <option value="package:mine Joining" />
         <option value="package:mine tag~:Zoom" />
@@ -21,7 +23,6 @@
         <option value="package:mine AA-55-0F-08-01" />
         <option value="package:mine AA-55-" />
         <option value="package:mine message~:onSpo2ParameterReceived|SpotCheckReporting|Length" />
-        <option value="package:mine -message~:onSpo2ParameterReceived" />
       </list>
     </option>
   </component>
