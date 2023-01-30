@@ -3,6 +3,7 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine " />
+        <option value="package:mine onChildView" />
         <option value="package:mine  " />
         <option value="package:mine  isRecy" />
         <option value="package:mine tag~:ListUpcomingEventsFragm " />
@@ -21,7 +22,6 @@
         <option value="package:mine message~:onSpo2ParameterReceived|SpotCheckReporting" />
         <option value="level:warn " />
         <option value="none" />
-        <option value="package:mine level:debug " />
       </list>
     </option>
   </component>
