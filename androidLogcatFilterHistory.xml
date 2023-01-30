@@ -1,7 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine WindowUtil" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine WindowUtil" />
+        <option value="package:mine WindowUtils" />
         <option value="package:mine " />
         <option value="package:mine onChildView" />
         <option value="package:mine  " />
@@ -20,8 +23,6 @@
         <option value="package:mine tag~:BluetoothDeviceHandler  Handling" />
         <option value="package:mine tag~:BackgroundBleScanReceiv " />
         <option value="package:mine message~:onSpo2ParameterReceived|SpotCheckReporting" />
-        <option value="level:warn " />
-        <option value="none" />
       </list>
     </option>
   </component>
