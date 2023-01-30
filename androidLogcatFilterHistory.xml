@@ -1,11 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine  " />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine  " />
-        <option value="package:mine tag~:ListUpcomingEventsFragm " />
         <option value="package:mine " />
+        <option value="package:mine  " />
+        <option value="package:mine  isRecy" />
+        <option value="package:mine tag~:ListUpcomingEventsFragm " />
         <option value="package:mine t" />
         <option value="package:mine tag:AdminSettingsViewModel " />
         <option value="package:mine level:warn " />
@@ -22,7 +22,6 @@
         <option value="level:warn " />
         <option value="none" />
         <option value="package:mine level:debug " />
-        <option value="package:mine level:debug tag~:Ua651" />
       </list>
     </option>
   </component>
