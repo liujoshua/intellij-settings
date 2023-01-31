@@ -1,11 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine WindowUtil" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:mine WindowUtil" />
         <option value="package:mine WindowUtils" />
-        <option value="package:mine " />
         <option value="package:mine onChildView" />
         <option value="package:mine  " />
         <option value="package:mine  isRecy" />
