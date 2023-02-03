@@ -6,15 +6,18 @@
         <entry key="account.auth_method_detail" value="{&quot;accountEmail&quot;:&quot;joshua.liu@ansiblehealth.com&quot;,&quot;tenantId&quot;:null,&quot;clientId&quot;:&quot;04b07795-8ddb-461a-bbee-02f9e1bf7b46&quot;,&quot;credFilePath&quot;:null,&quot;certificate&quot;:null,&quot;authMethod&quot;:&quot;IDENTITY&quot;,&quot;azureEnv&quot;:&quot;AzureCloud&quot;,&quot;authType&quot;:&quot;AZURE_CLI&quot;,&quot;tenantIds&quot;:[&quot;20b7f7d2-2e8e-4f47-afdb-2e6dee102244&quot;],&quot;subscriptions&quot;:[{&quot;id&quot;:&quot;c69b95cd-859b-483f-abf1-0bc57c696b67&quot;,&quot;name&quot;:&quot;Ansible Health Develop&quot;,&quot;tenantId&quot;:&quot;20b7f7d2-2e8e-4f47-afdb-2e6dee102244&quot;,&quot;homeTenantId&quot;:&quot;20b7f7d2-2e8e-4f47-afdb-2e6dee102244&quot;,&quot;state&quot;:&quot;Enabled&quot;,&quot;isDefault&quot;:true},{&quot;id&quot;:&quot;955d79cd-9f19-4155-921d-2ce1774f927a&quot;,&quot;name&quot;:&quot;Ansible Health Primary&quot;,&quot;tenantId&quot;:&quot;20b7f7d2-2e8e-4f47-afdb-2e6dee102244&quot;,&quot;homeTenantId&quot;:&quot;20b7f7d2-2e8e-4f47-afdb-2e6dee102244&quot;,&quot;state&quot;:&quot;Enabled&quot;,&quot;isDefault&quot;:false},{&quot;id&quot;:&quot;7c30334d-2b75-4fb7-b41e-ed2e410c9ee5&quot;,&quot;name&quot;:&quot;Ansible Health Production&quot;,&quot;tenantId&quot;:&quot;20b7f7d2-2e8e-4f47-afdb-2e6dee102244&quot;,&quot;homeTenantId&quot;:&quot;20b7f7d2-2e8e-4f47-afdb-2e6dee102244&quot;,&quot;state&quot;:&quot;Enabled&quot;,&quot;isDefault&quot;:false},{&quot;id&quot;:&quot;41dba808-d489-49b2-8d17-fc146f5d1139&quot;,&quot;name&quot;:&quot;Ansible Health Staging&quot;,&quot;tenantId&quot;:&quot;20b7f7d2-2e8e-4f47-afdb-2e6dee102244&quot;,&quot;homeTenantId&quot;:&quot;20b7f7d2-2e8e-4f47-afdb-2e6dee102244&quot;,&quot;state&quot;:&quot;Enabled&quot;,&quot;isDefault&quot;:false}]}" />
         <entry key="account.azure_environment" value="AzureCloud" />
         <entry key="account.subscription_details" value="[{&quot;subscriptionId&quot;:&quot;c69b95cd-859b-483f-abf1-0bc57c696b67&quot;,&quot;subscriptionName&quot;:&quot;Ansible Health Develop&quot;,&quot;tenantId&quot;:&quot;20b7f7d2-2e8e-4f47-afdb-2e6dee102244&quot;,&quot;selected&quot;:true},{&quot;subscriptionId&quot;:&quot;955d79cd-9f19-4155-921d-2ce1774f927a&quot;,&quot;subscriptionName&quot;:&quot;Ansible Health Primary&quot;,&quot;tenantId&quot;:&quot;20b7f7d2-2e8e-4f47-afdb-2e6dee102244&quot;,&quot;selected&quot;:false},{&quot;subscriptionId&quot;:&quot;7c30334d-2b75-4fb7-b41e-ed2e410c9ee5&quot;,&quot;subscriptionName&quot;:&quot;Ansible Health Production&quot;,&quot;tenantId&quot;:&quot;20b7f7d2-2e8e-4f47-afdb-2e6dee102244&quot;,&quot;selected&quot;:false},{&quot;subscriptionId&quot;:&quot;41dba808-d489-49b2-8d17-fc146f5d1139&quot;,&quot;subscriptionName&quot;:&quot;Ansible Health Staging&quot;,&quot;tenantId&quot;:&quot;20b7f7d2-2e8e-4f47-afdb-2e6dee102244&quot;,&quot;selected&quot;:false}]" />
+        <entry key="common.page_size" value="99" />
         <entry key="cosmos.documents_batch_size" value="50" />
         <entry key="cosmos.documents_label_fields" value="name;Name;NAME;ID;UUID;Id;id;uuid" />
         <entry key="database.password_save_type" value="UNTIL_RESTART" />
         <entry key="function.function_core_tools_path" value="/usr/local/Cellar/azure-functions-core-tools@4/4.0.4670/func" />
         <entry key="guidance.guidance_shown" value="true" />
+        <entry key="monitor.monitor_table_rows" value="200" />
+        <entry key="other.enable_auth_persistence" value="true" />
         <entry key="rate.action_total_score" value="0" />
         <entry key="rate.next_rewind_date" value="1672207095857" />
         <entry key="telemetry.telemetry_allow_telemetry" value="true" />
-        <entry key="telemetry.telemetry_plugin_version" value="3.71.0-2022.2" />
+        <entry key="telemetry.telemetry_plugin_version" value="3.73.0-2022.3" />
       </map>
     </option>
   </component>
