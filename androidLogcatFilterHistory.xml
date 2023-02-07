@@ -1,15 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="ansible portal" />
         <option value="ansible" />
         <option value="https://portal" />
         <option value="level:error ansible" />
         <option value="https://porta" />
         <option value="com.ansible" />
-        <option value="package:mine " />
         <option value="p" />
         <option value="package:mine WindowUtil" />
         <option value="package:mine WindowUtils" />
