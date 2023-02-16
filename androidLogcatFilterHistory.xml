@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine TrackEvent" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine TrackEvent" />
         <option value="package:mine " />
+        <option value="package:mine tag~:KioskPower" />
         <option value="package:mine level:error " />
         <option value="ansible portal" />
         <option value="ansible" />
@@ -20,8 +23,6 @@
         <option value="package:mine t" />
         <option value="package:mine tag:AdminSettingsViewModel " />
         <option value="package:mine level:warn " />
-        <option value="package:mine Joining" />
-        <option value="package:mine tag~:Zoom" />
       </list>
     </option>
   </component>
