@@ -1,9 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
         <option value="package:mine " />
+        <option value="package:mine level:error " />
         <option value="ansible portal" />
         <option value="ansible" />
         <option value="https://portal" />
@@ -22,7 +22,6 @@
         <option value="package:mine level:warn " />
         <option value="package:mine Joining" />
         <option value="package:mine tag~:Zoom" />
-        <option value="package:mine depre" />
       </list>
     </option>
   </component>
