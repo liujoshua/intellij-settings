@@ -1,10 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine TrackEvent" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine TrackEvent" />
         <option value="package:mine " />
+        <option value="&quot;Sending Json&quot;" />
+        <option value="Heartbeat" />
+        <option value="package:mine &quot;Sending Json&quot;" />
+        <option value="package:mine TrackEvent" />
         <option value="package:mine tag~:KioskPower" />
         <option value="package:mine level:error " />
         <option value="ansible portal" />
@@ -20,9 +22,6 @@
         <option value="package:mine  " />
         <option value="package:mine  isRecy" />
         <option value="package:mine tag~:ListUpcomingEventsFragm " />
-        <option value="package:mine t" />
-        <option value="package:mine tag:AdminSettingsViewModel " />
-        <option value="package:mine level:warn " />
       </list>
     </option>
   </component>
