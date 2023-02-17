@@ -1,8 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine" />
+    <option name="mostRecentlyUsed" value="package:mine tag~:BleMan|Deleg " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag~:BleMan|Deleg " />
+        <option value="package:mine tag~:BleMan|Deleg" />
+        <option value="package:mine tag~:BleMan|Deleg BatteryL" />
+        <option value="package:mine tag~:BleMan|Delega" />
         <option value="package:mine" />
         <option value="package:mine " />
         <option value="package:mine tag~:BaseBle|Delega battery" />
@@ -19,10 +23,6 @@
         <option value="package:mine tablet-a" />
         <option value="package:mine CloudToDevice" />
         <option value="package:mine level:warn" />
-        <option value="package:mine tag~:Desi" />
-        <option value="package:mine tag~:Cloud" />
-        <option value="package:mine tablet-a7" />
-        <option value="package:mine CloudT" />
       </list>
     </option>
   </component>
