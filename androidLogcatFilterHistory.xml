@@ -1,11 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag~:IotHubInstrumentation" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
+        <option value="package:mine tablet-a7" />
         <option value="package:mine tag~:IotHubInstrumentation" />
         <option value="package:mine tag~:IotHubInstrumentationEventTracker" />
-        <option value="package:mine " />
         <option value="&quot;Sending Json&quot;" />
         <option value="Heartbeat" />
         <option value="package:mine &quot;Sending Json&quot;" />
@@ -22,7 +22,6 @@
         <option value="package:mine WindowUtil" />
         <option value="package:mine WindowUtils" />
         <option value="package:mine onChildView" />
-        <option value="package:mine  " />
       </list>
     </option>
   </component>
