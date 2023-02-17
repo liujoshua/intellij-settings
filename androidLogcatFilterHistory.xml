@@ -1,17 +1,18 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag~:BaseBle|Delega" />
+    <option name="mostRecentlyUsed" value="package:mine" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine" />
+        <option value="package:mine " />
+        <option value="package:mine tag~:BaseBle|Delega battery" />
         <option value="package:mine tag~:BaseBle|Delega" />
         <option value="package:mine tag~:BaseBleMan" />
         <option value="package:mine tag~:DeviceInfoDelegate|BleManager" />
         <option value="package:mine tag~:DeviceInfoDelegate " />
-        <option value="package:mine " />
         <option value="package:mine zoom.us" />
         <option value="package:mine zoom" />
         <option value="package:mine &quot;Sending event&quot;" />
-        <option value="package:mine" />
         <option value="package:mine &quot;Received desired&quot;" />
         <option value="package:mine tag~:CloudToDevice|DesiredProperties|RemoteCommand|LogMessage" />
         <option value="package:mine tag~:CloudToDevice|DesiredProperties|RemoteCommand" />
@@ -22,7 +23,6 @@
         <option value="package:mine tag~:Cloud" />
         <option value="package:mine tablet-a7" />
         <option value="package:mine CloudT" />
-        <option value="package:mine tag~:AzureClient|Desired|CloudTo" />
       </list>
     </option>
   </component>
