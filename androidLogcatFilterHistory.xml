@@ -3,7 +3,11 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine " />
+        <option value="package:mine level:warn" />
+        <option value="package:mine tag~:Desi" />
+        <option value="package:mine tag~:Cloud" />
         <option value="package:mine tablet-a7" />
+        <option value="package:mine CloudT" />
         <option value="package:mine tag~:AzureClient|Desired|CloudTo" />
         <option value="package:mine" />
         <option value="package:mine &quot;Setting IoT Hub&quot;" />
@@ -18,10 +22,6 @@
         <option value="package:mine TrackEvent" />
         <option value="package:mine tag~:KioskPower" />
         <option value="package:mine level:error " />
-        <option value="ansible portal" />
-        <option value="ansible" />
-        <option value="https://portal" />
-        <option value="level:error ansible" />
       </list>
     </option>
   </component>
