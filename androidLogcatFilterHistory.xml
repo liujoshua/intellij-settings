@@ -1,27 +1,28 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine tag~:AzureClient|Desired|CloudTo" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag~:AzureClient|Desired|CloudTo" />
+        <option value="package:mine" />
+        <option value="package:mine &quot;Setting IoT Hub&quot;" />
+        <option value="package:mine &quot;safeOpen&quot;" />
         <option value="package:mine " />
+        <option value="package:mine &quot;Setting " />
+        <option value="package:mine C2D" />
+        <option value="package:mine tablet-a7" />
+        <option value="package:mine tag~:IotHubInstrumentation" />
+        <option value="package:mine tag~:IotHubInstrumentationEventTracker" />
+        <option value="&quot;Sending Json&quot;" />
+        <option value="Heartbeat" />
+        <option value="package:mine &quot;Sending Json&quot;" />
+        <option value="package:mine TrackEvent" />
+        <option value="package:mine tag~:KioskPower" />
+        <option value="package:mine level:error " />
         <option value="ansible portal" />
         <option value="ansible" />
         <option value="https://portal" />
         <option value="level:error ansible" />
-        <option value="https://porta" />
-        <option value="com.ansible" />
-        <option value="p" />
-        <option value="package:mine WindowUtil" />
-        <option value="package:mine WindowUtils" />
-        <option value="package:mine onChildView" />
-        <option value="package:mine  " />
-        <option value="package:mine  isRecy" />
-        <option value="package:mine tag~:ListUpcomingEventsFragm " />
-        <option value="package:mine t" />
-        <option value="package:mine tag:AdminSettingsViewModel " />
-        <option value="package:mine level:warn " />
-        <option value="package:mine Joining" />
-        <option value="package:mine tag~:Zoom" />
-        <option value="package:mine depre" />
       </list>
     </option>
   </component>
