@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag~:BaseBleMan" />
+    <option name="mostRecentlyUsed" value="package:mine tag~:BaseBle|Delega" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag~:BaseBle|Delega" />
         <option value="package:mine tag~:BaseBleMan" />
         <option value="package:mine tag~:DeviceInfoDelegate|BleManager" />
         <option value="package:mine tag~:DeviceInfoDelegate " />
@@ -22,7 +23,6 @@
         <option value="package:mine tablet-a7" />
         <option value="package:mine CloudT" />
         <option value="package:mine tag~:AzureClient|Desired|CloudTo" />
-        <option value="package:mine &quot;Setting IoT Hub&quot;" />
       </list>
     </option>
   </component>
