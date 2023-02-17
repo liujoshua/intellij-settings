@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine tablet-a" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tablet-a" />
         <option value="package:mine " />
         <option value="package:mine CloudToDevice" />
         <option value="package:mine level:warn" />
@@ -21,7 +23,6 @@
         <option value="Heartbeat" />
         <option value="package:mine &quot;Sending Json&quot;" />
         <option value="package:mine TrackEvent" />
-        <option value="package:mine tag~:KioskPower" />
       </list>
     </option>
   </component>
