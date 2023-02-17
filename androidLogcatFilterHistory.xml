@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tablet-a" />
+    <option name="mostRecentlyUsed" value="package:mine tag~:CloudToDevice|DesiredProperties|RemoteCommand|LogMessage" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag~:CloudToDevice|DesiredProperties|RemoteCommand|LogMessage" />
+        <option value="package:mine tag~:CloudToDevice|DesiredProperties|RemoteCommand" />
         <option value="package:mine tablet-a" />
         <option value="package:mine " />
         <option value="package:mine CloudToDevice" />
@@ -21,8 +23,6 @@
         <option value="package:mine tag~:IotHubInstrumentationEventTracker" />
         <option value="&quot;Sending Json&quot;" />
         <option value="Heartbeat" />
-        <option value="package:mine &quot;Sending Json&quot;" />
-        <option value="package:mine TrackEvent" />
       </list>
     </option>
   </component>
