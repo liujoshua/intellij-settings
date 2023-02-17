@@ -1,13 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine &quot;Received desired&quot;" />
+    <option name="mostRecentlyUsed" value="package:mine &quot;Sending event&quot;" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine &quot;Sending event&quot;" />
+        <option value="package:mine " />
+        <option value="package:mine" />
         <option value="package:mine &quot;Received desired&quot;" />
         <option value="package:mine tag~:CloudToDevice|DesiredProperties|RemoteCommand|LogMessage" />
         <option value="package:mine tag~:CloudToDevice|DesiredProperties|RemoteCommand" />
         <option value="package:mine tablet-a" />
-        <option value="package:mine " />
         <option value="package:mine CloudToDevice" />
         <option value="package:mine level:warn" />
         <option value="package:mine tag~:Desi" />
@@ -15,14 +17,12 @@
         <option value="package:mine tablet-a7" />
         <option value="package:mine CloudT" />
         <option value="package:mine tag~:AzureClient|Desired|CloudTo" />
-        <option value="package:mine" />
         <option value="package:mine &quot;Setting IoT Hub&quot;" />
         <option value="package:mine &quot;safeOpen&quot;" />
         <option value="package:mine &quot;Setting " />
         <option value="package:mine C2D" />
         <option value="package:mine tag~:IotHubInstrumentation" />
         <option value="package:mine tag~:IotHubInstrumentationEventTracker" />
-        <option value="&quot;Sending Json&quot;" />
       </list>
     </option>
   </component>
