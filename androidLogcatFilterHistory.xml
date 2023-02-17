@@ -1,13 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag~:AzureClient|Desired|CloudTo" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:mine tag~:AzureClient|Desired|CloudTo" />
         <option value="package:mine" />
         <option value="package:mine &quot;Setting IoT Hub&quot;" />
         <option value="package:mine &quot;safeOpen&quot;" />
-        <option value="package:mine " />
         <option value="package:mine &quot;Setting " />
         <option value="package:mine C2D" />
         <option value="package:mine tablet-a7" />
