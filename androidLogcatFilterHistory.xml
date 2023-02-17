@@ -1,8 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine &quot;safeOpen&quot;" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine &quot;safeOpen&quot;" />
         <option value="package:mine " />
+        <option value="package:mine &quot;Setting " />
+        <option value="package:mine C2D" />
+        <option value="package:mine" />
         <option value="package:mine tablet-a7" />
         <option value="package:mine tag~:IotHubInstrumentation" />
         <option value="package:mine tag~:IotHubInstrumentationEventTracker" />
@@ -18,10 +23,6 @@
         <option value="level:error ansible" />
         <option value="https://porta" />
         <option value="com.ansible" />
-        <option value="p" />
-        <option value="package:mine WindowUtil" />
-        <option value="package:mine WindowUtils" />
-        <option value="package:mine onChildView" />
       </list>
     </option>
   </component>
