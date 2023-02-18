@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="package:mine tag~:IotHubInst|Reading" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag~:IotHubInst|Reading" />
         <option value="package:mine tag~:BleMan|Deleg " />
         <option value="package:mine tag~:BleMan|Deleg" />
         <option value="package:mine tag~:BleMan|Deleg BatteryL" />
@@ -22,7 +23,6 @@
         <option value="package:mine tag~:CloudToDevice|DesiredProperties|RemoteCommand" />
         <option value="package:mine tablet-a" />
         <option value="package:mine CloudToDevice" />
-        <option value="package:mine level:warn" />
       </list>
     </option>
   </component>
