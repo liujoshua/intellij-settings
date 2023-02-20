@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine &quot;Mac test&quot;" />
+    <option name="mostRecentlyUsed" value="package:mine" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine" />
         <option value="package:mine &quot;Mac test&quot;" />
         <option value="package:mine tag~:PC60" />
         <option value="package:mine Battery" />
@@ -13,7 +14,6 @@
         <option value="package:mine tag~:BleMan|Deleg" />
         <option value="package:mine tag~:BleMan|Deleg BatteryL" />
         <option value="package:mine tag~:BleMan|Delega" />
-        <option value="package:mine" />
         <option value="package:mine " />
         <option value="package:mine tag~:BaseBle|Delega battery" />
         <option value="package:mine tag~:BaseBle|Delega" />
