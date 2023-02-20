@@ -1,10 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine MacMap" />
+    <option name="mostRecentlyUsed" value="package:mine" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine MacMap" />
         <option value="package:mine" />
+        <option value="package:mine  F0-08-21" />
+        <option value="package:mine " />
+        <option value="package:mine MacMap" />
         <option value="package:mine &quot;Mac test&quot;" />
         <option value="package:mine tag~:PC60" />
         <option value="package:mine Battery" />
@@ -15,14 +17,12 @@
         <option value="package:mine tag~:BleMan|Deleg" />
         <option value="package:mine tag~:BleMan|Deleg BatteryL" />
         <option value="package:mine tag~:BleMan|Delega" />
-        <option value="package:mine " />
         <option value="package:mine tag~:BaseBle|Delega battery" />
         <option value="package:mine tag~:BaseBle|Delega" />
         <option value="package:mine tag~:BaseBleMan" />
         <option value="package:mine tag~:DeviceInfoDelegate|BleManager" />
         <option value="package:mine tag~:DeviceInfoDelegate " />
         <option value="package:mine zoom.us" />
-        <option value="package:mine zoom" />
       </list>
     </option>
   </component>
