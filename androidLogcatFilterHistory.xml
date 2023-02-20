@@ -1,17 +1,19 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine battery ReadingMessage" />
+    <option name="mostRecentlyUsed" value="package:mine Invalid packet" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine Invalid packet" />
+        <option value="package:mine " />
+        <option value="package:mine" />
+        <option value="package:mine  Invalid packet" />
         <option value="package:mine battery ReadingMessage" />
         <option value="package:mine battery" />
-        <option value="package:mine" />
         <option value="package:mine mac" />
         <option value="package:mine battery F0-08" />
         <option value="package:mine battery_level" />
         <option value="package:mine F0-03-03" />
         <option value="package:mine  F0-08-21" />
-        <option value="package:mine " />
         <option value="package:mine MacMap" />
         <option value="package:mine &quot;Mac test&quot;" />
         <option value="package:mine tag~:PC60" />
@@ -21,8 +23,6 @@
         <option value="package:mine tag~:IotHubInst|Reading" />
         <option value="package:mine tag~:BleMan|Deleg " />
         <option value="package:mine tag~:BleMan|Deleg" />
-        <option value="package:mine tag~:BleMan|Deleg BatteryL" />
-        <option value="package:mine tag~:BleMan|Delega" />
       </list>
     </option>
   </component>
