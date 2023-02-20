@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine" />
+    <option name="mostRecentlyUsed" value="package:mine MacMap" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine MacMap" />
         <option value="package:mine" />
         <option value="package:mine &quot;Mac test&quot;" />
         <option value="package:mine tag~:PC60" />
@@ -22,7 +23,6 @@
         <option value="package:mine tag~:DeviceInfoDelegate " />
         <option value="package:mine zoom.us" />
         <option value="package:mine zoom" />
-        <option value="package:mine &quot;Sending event&quot;" />
       </list>
     </option>
   </component>
