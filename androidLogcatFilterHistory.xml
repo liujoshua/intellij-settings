@@ -1,28 +1,28 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine level:error " />
+    <option name="mostRecentlyUsed" value="package:mine Pc60FwResponse" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine Pc60FwResponse" />
+        <option value="package:mine message~:readValid|MergeAndSplit" />
+        <option value="package:mine " />
+        <option value="package:mine message~:readValid|MergeAndSplit|Pc60Fw" />
+        <option value="package:mine message~:readValid|MergeAndSplit|splitters" />
+        <option value="package:mine message~:readValid|MergeAndSplit|Pc60FwResponse" />
+        <option value="package:mine AA-55-0F-06-21" />
+        <option value="package:mine AA-55-0F-06-21-" />
+        <option value="package:mine" />
+        <option value="package:mine message~:readValid|MergeAndSplit|Invalid" />
         <option value="package:mine level:error " />
         <option value="package:mine Pc60DataFw" />
-        <option value="package:mine " />
         <option value="package:mine Pc60FwTypes" />
         <option value="package:mine tag~:Equipment" />
         <option value="package:mine Reading" />
         <option value="package:mine deviceInfo" />
         <option value="package:mine Pc60FwColl" />
         <option value="package:mine readValid" />
-        <option value="package:mine" />
         <option value="package:mine Invalid packet" />
         <option value="package:mine  Invalid packet" />
-        <option value="package:mine battery ReadingMessage" />
-        <option value="package:mine battery" />
-        <option value="package:mine mac" />
-        <option value="package:mine battery F0-08" />
-        <option value="package:mine battery_level" />
-        <option value="package:mine F0-03-03" />
-        <option value="package:mine  F0-08-21" />
-        <option value="package:mine MacMap" />
       </list>
     </option>
   </component>
