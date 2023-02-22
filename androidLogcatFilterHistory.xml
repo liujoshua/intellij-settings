@@ -1,28 +1,27 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine spo2= Pc60FwTy" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
+        <option value="package:mine SpotCheck" />
+        <option value="package:mine" />
+        <option value="package:mine idleAt" />
+        <option value="package:mine Parameter" />
+        <option value="package:mine message~:mac|clientIf" />
+        <option value="package:mine Mac" />
+        <option value="package:mine mac" />
+        <option value="package:mine Wave" />
+        <option value="package:mine DeviceInfo" />
+        <option value="package:mine Spo2" />
         <option value="package:mine spo2= Pc60FwTy" />
         <option value="package:mine spo2=" />
         <option value="package:mine Pc60Fw" />
         <option value="package:mine Pc60FwResponse" />
         <option value="package:mine message~:readValid|MergeAndSplit" />
-        <option value="package:mine " />
         <option value="package:mine message~:readValid|MergeAndSplit|Pc60Fw" />
         <option value="package:mine message~:readValid|MergeAndSplit|splitters" />
         <option value="package:mine message~:readValid|MergeAndSplit|Pc60FwResponse" />
         <option value="package:mine AA-55-0F-06-21" />
-        <option value="package:mine AA-55-0F-06-21-" />
-        <option value="package:mine" />
-        <option value="package:mine message~:readValid|MergeAndSplit|Invalid" />
-        <option value="package:mine level:error " />
-        <option value="package:mine Pc60DataFw" />
-        <option value="package:mine Pc60FwTypes" />
-        <option value="package:mine tag~:Equipment" />
-        <option value="package:mine Reading" />
-        <option value="package:mine deviceInfo" />
-        <option value="package:mine Pc60FwColl" />
       </list>
     </option>
   </component>
