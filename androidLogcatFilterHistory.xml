@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine Pc60FwResponse" />
+    <option name="mostRecentlyUsed" value="package:mine spo2= Pc60FwTy" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine spo2= Pc60FwTy" />
+        <option value="package:mine spo2=" />
+        <option value="package:mine Pc60Fw" />
         <option value="package:mine Pc60FwResponse" />
         <option value="package:mine message~:readValid|MergeAndSplit" />
         <option value="package:mine " />
@@ -20,9 +23,6 @@
         <option value="package:mine Reading" />
         <option value="package:mine deviceInfo" />
         <option value="package:mine Pc60FwColl" />
-        <option value="package:mine readValid" />
-        <option value="package:mine Invalid packet" />
-        <option value="package:mine  Invalid packet" />
       </list>
     </option>
   </component>
