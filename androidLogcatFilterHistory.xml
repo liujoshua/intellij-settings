@@ -1,15 +1,19 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine Collecting Pc60FwSpotCheck" />
+    <option name="mostRecentlyUsed" value="package:mine  " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine  " />
+        <option value="package:mine Parameter " />
+        <option value="package:mine collected " />
+        <option value="package:mine collected Spot" />
+        <option value="package:mine " />
         <option value="package:mine Collecting Pc60FwSpotCheck" />
         <option value="package:mine collected" />
         <option value="package:mine spot" />
         <option value="package:mine Collecting" />
         <option value="package:mine Spot Check" />
         <option value="package:mine SpotCheck coll" />
-        <option value="package:mine " />
         <option value="package:mine SpotCheck" />
         <option value="package:mine" />
         <option value="package:mine idleAt" />
@@ -19,10 +23,6 @@
         <option value="package:mine mac" />
         <option value="package:mine Wave" />
         <option value="package:mine DeviceInfo" />
-        <option value="package:mine Spo2" />
-        <option value="package:mine spo2= Pc60FwTy" />
-        <option value="package:mine spo2=" />
-        <option value="package:mine Pc60Fw" />
       </list>
     </option>
   </component>
