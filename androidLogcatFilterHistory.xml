@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine insert" />
+    <option name="mostRecentlyUsed" value="package:mine Spo2Parame" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine Spo2Parame" />
+        <option value="package:mine AA-55-0F-06-21-01-04" />
+        <option value="package:mine " />
         <option value="package:mine insert" />
         <option value="package:mine  SpotCheckFinished" />
         <option value="package:mine  finishedAt=" />
@@ -16,13 +19,10 @@
         <option value="package:mine Parameter " />
         <option value="package:mine collected " />
         <option value="package:mine collected Spot" />
-        <option value="package:mine " />
         <option value="package:mine Collecting Pc60FwSpotCheck" />
         <option value="package:mine collected" />
         <option value="package:mine spot" />
         <option value="package:mine Collecting" />
-        <option value="package:mine Spot Check" />
-        <option value="package:mine SpotCheck coll" />
       </list>
     </option>
   </component>
