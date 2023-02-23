@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine  SpotCheckFinished" />
+    <option name="mostRecentlyUsed" value="package:mine insert" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine insert" />
         <option value="package:mine  SpotCheckFinished" />
         <option value="package:mine  finishedAt=" />
         <option value="package:mine  finishedAt" />
@@ -22,7 +23,6 @@
         <option value="package:mine Collecting" />
         <option value="package:mine Spot Check" />
         <option value="package:mine SpotCheck coll" />
-        <option value="package:mine SpotCheck" />
       </list>
     </option>
   </component>
