@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine level:warn " />
+    <option name="mostRecentlyUsed" value="package:mine level:debug " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine level:debug " />
+        <option value="package:mine level:info " />
         <option value="package:mine level:warn " />
         <option value="AA-55-0F-08" />
         <option value="package:mine Spo2Parame" />
@@ -21,8 +23,6 @@
         <option value="package:mine Parameter " />
         <option value="package:mine collected " />
         <option value="package:mine collected Spot" />
-        <option value="package:mine Collecting Pc60FwSpotCheck" />
-        <option value="package:mine collected" />
       </list>
     </option>
   </component>
