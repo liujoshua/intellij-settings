@@ -3,6 +3,8 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine " />
+        <option value="package:mine level:warn" />
+        <option value="tag~:Ok" />
         <option value="package:mine level:warn " />
         <option value="package:mine level:debug " />
         <option value="package:mine level:info " />
@@ -20,8 +22,6 @@
         <option value="package:mine  Pair" />
         <option value="package:mine  " />
         <option value="package:mine Parameter " />
-        <option value="package:mine collected " />
-        <option value="package:mine collected Spot" />
       </list>
     </option>
   </component>
