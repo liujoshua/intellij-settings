@@ -9,11 +9,11 @@
     <mask>*.gra</mask>
     <mask>*.xml</mask>
     <mask>*.gr</mask>
-    <mask>*.gradle*</mask>
     <mask>*.java</mask>
     <mask>build.gradle</mask>
     <mask>*.tf</mask>
-    <mask>*.kt</mask>
     <mask>*.kts</mask>
+    <mask>*.gradle*</mask>
+    <mask>*.kt</mask>
   </component>
 </application>

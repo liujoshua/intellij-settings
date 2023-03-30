@@ -1,28 +1,28 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag~:AzureClient|Desired|CloudTo" />
+    <option name="mostRecentlyUsed" value="package:mine level:debug " />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine tag~:AzureClient|Desired|CloudTo" />
-        <option value="package:mine" />
-        <option value="package:mine &quot;Setting IoT Hub&quot;" />
-        <option value="package:mine &quot;safeOpen&quot;" />
+        <option value="package:mine level:debug " />
+        <option value="package:mine level:info " />
+        <option value="package:mine level:warn " />
+        <option value="AA-55-0F-08" />
+        <option value="package:mine Spo2Parame" />
+        <option value="package:mine AA-55-0F-06-21-01-04" />
         <option value="package:mine " />
-        <option value="package:mine &quot;Setting " />
-        <option value="package:mine C2D" />
-        <option value="package:mine tablet-a7" />
-        <option value="package:mine tag~:IotHubInstrumentation" />
-        <option value="package:mine tag~:IotHubInstrumentationEventTracker" />
-        <option value="&quot;Sending Json&quot;" />
-        <option value="Heartbeat" />
-        <option value="package:mine &quot;Sending Json&quot;" />
-        <option value="package:mine TrackEvent" />
-        <option value="package:mine tag~:KioskPower" />
-        <option value="package:mine level:error " />
-        <option value="ansible portal" />
-        <option value="ansible" />
-        <option value="https://portal" />
-        <option value="level:error ansible" />
+        <option value="package:mine insert" />
+        <option value="package:mine  SpotCheckFinished" />
+        <option value="package:mine  finishedAt=" />
+        <option value="package:mine  finishedAt" />
+        <option value="package:mine  insert" />
+        <option value="package:mine  collected" />
+        <option value="package:mine  SpotCheckReporting" />
+        <option value="package:mine  collected DeviceInfo" />
+        <option value="package:mine  Pair" />
+        <option value="package:mine  " />
+        <option value="package:mine Parameter " />
+        <option value="package:mine collected " />
+        <option value="package:mine collected Spot" />
       </list>
     </option>
   </component>
