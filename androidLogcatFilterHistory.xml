@@ -1,15 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine level:debug " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
+        <option value="package:mine level:warn " />
         <option value="package:mine level:debug " />
         <option value="package:mine level:info " />
-        <option value="package:mine level:warn " />
         <option value="AA-55-0F-08" />
         <option value="package:mine Spo2Parame" />
         <option value="package:mine AA-55-0F-06-21-01-04" />
-        <option value="package:mine " />
         <option value="package:mine insert" />
         <option value="package:mine  SpotCheckFinished" />
         <option value="package:mine  finishedAt=" />
