@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine message~:Connectivity" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine message~:Connectivity" />
         <option value="package:mine " />
         <option value="package:mine tag~:Command" />
         <option value="package:mine Upcoming" />
@@ -21,7 +23,6 @@
         <option value="package:mine  collected" />
         <option value="package:mine  SpotCheckReporting" />
         <option value="package:mine  collected DeviceInfo" />
-        <option value="package:mine  Pair" />
       </list>
     </option>
   </component>
