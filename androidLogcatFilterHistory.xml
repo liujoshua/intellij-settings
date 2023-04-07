@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine oneMi" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine oneMi" />
         <option value="package:mine " />
         <option value="package:mine tag~:SyncWorker" />
         <option value="package:mine tag~:Work" />
@@ -21,7 +23,6 @@
         <option value="tag~:Ok" />
         <option value="package:mine level:warn " />
         <option value="package:mine level:debug " />
-        <option value="package:mine level:info " />
       </list>
     </option>
   </component>
