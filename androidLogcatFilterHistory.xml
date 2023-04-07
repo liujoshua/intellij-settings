@@ -1,11 +1,18 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag~:LoggingN" />
+    <option name="mostRecentlyUsed" value="package:mine tag~:Wifi|Cell" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag~:Wifi|Cell" />
+        <option value="package:mine" />
+        <option value="package:mine tag~:Wifi" />
+        <option value="package:mine tag~:Cel|WiFi " />
+        <option value="package:mine tag~:Cel|WiFi" />
+        <option value="package:mine onLinkPropertiesChanged" />
+        <option value="package:mine tag~:Cel|wiFi" />
+        <option value="package:mine " />
         <option value="package:mine tag~:LoggingN" />
         <option value="package:mine message~:Connectivity" />
-        <option value="package:mine " />
         <option value="package:mine tag~:Command" />
         <option value="package:mine Upcoming" />
         <option value="package:mine level:warn" />
@@ -16,13 +23,6 @@
         <option value="AA-55-0F-08" />
         <option value="package:mine Spo2Parame" />
         <option value="package:mine AA-55-0F-06-21-01-04" />
-        <option value="package:mine insert" />
-        <option value="package:mine  SpotCheckFinished" />
-        <option value="package:mine  finishedAt=" />
-        <option value="package:mine  finishedAt" />
-        <option value="package:mine  insert" />
-        <option value="package:mine  collected" />
-        <option value="package:mine  SpotCheckReporting" />
       </list>
     </option>
   </component>
