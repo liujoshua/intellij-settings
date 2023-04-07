@@ -1,8 +1,8 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag~:Wifi|Cell" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:mine tag~:Wifi|Cell" />
         <option value="package:mine" />
         <option value="package:mine tag~:Wifi" />
@@ -10,7 +10,6 @@
         <option value="package:mine tag~:Cel|WiFi" />
         <option value="package:mine onLinkPropertiesChanged" />
         <option value="package:mine tag~:Cel|wiFi" />
-        <option value="package:mine " />
         <option value="package:mine tag~:LoggingN" />
         <option value="package:mine message~:Connectivity" />
         <option value="package:mine tag~:Command" />
