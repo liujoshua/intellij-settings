@@ -1,10 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine tag~:Web" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag~:Web" />
+        <option value="package:mine" />
         <option value="package:mine " />
         <option value="package:mine tag~:Wifi|Cell" />
-        <option value="package:mine" />
         <option value="package:mine tag~:Wifi" />
         <option value="package:mine tag~:Cel|WiFi " />
         <option value="package:mine tag~:Cel|WiFi" />
@@ -21,7 +23,6 @@
         <option value="package:mine level:info " />
         <option value="AA-55-0F-08" />
         <option value="package:mine Spo2Parame" />
-        <option value="package:mine AA-55-0F-06-21-01-04" />
       </list>
     </option>
   </component>
