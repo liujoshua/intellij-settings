@@ -1,14 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine  " />
+    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine" />
         <option value="package:mine  " />
         <option value="package:mine tag~:SyncWorker|UpcomingEventsRepository$|BackgroundSync" />
         <option value="package:mine tag~:SyncWorker|UpcomingEventsRepository|BackgroundSync" />
         <option value="package:mine tag~:SyncWorker|UpcomingEventsRepository" />
         <option value="package:mine doWork" />
-        <option value="package:mine" />
         <option value="package:mine tag~:UpcomingEventsRepository" />
         <option value="package:mine oneMinute" />
         <option value="package:mine oneMi" />
