@@ -1,7 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine tablet-a7" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tablet-a7" />
+        <option value="package:mine tag~:Command" />
         <option value="package:mine " />
         <option value="package:mine 018&quot;" />
         <option value="package:mine sdkAuth" />
@@ -20,8 +23,6 @@
         <option value="package:mine tag~:SyncWorker" />
         <option value="package:mine tag~:Work" />
         <option value="package:mine tag~:Web" />
-        <option value="package:mine tag~:Wifi|Cell" />
-        <option value="package:mine tag~:Wifi" />
       </list>
     </option>
   </component>
