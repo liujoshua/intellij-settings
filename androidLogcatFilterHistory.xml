@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine 018&quot;" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine 018&quot;" />
         <option value="package:mine " />
         <option value="package:mine sdkAuth" />
         <option value="package:mine  level:info " />
@@ -21,7 +23,6 @@
         <option value="package:mine tag~:Web" />
         <option value="package:mine tag~:Wifi|Cell" />
         <option value="package:mine tag~:Wifi" />
-        <option value="package:mine tag~:Cel|WiFi " />
       </list>
     </option>
   </component>
