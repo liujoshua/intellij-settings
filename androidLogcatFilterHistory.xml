@@ -4,6 +4,7 @@
     <option name="nonFavorites">
       <list>
         <option value="package:com.ansiblehealth.kiosk.develop " />
+        <option value="package:com.ansiblehealth.kiosk.develop tag~:IotHub" />
         <option value="package:com.ansiblehealth.kiosk.develop" />
         <option value="package:com.ansiblehealth.kiosk.develop level:warn " />
         <option value="package:com.ansiblehealth.kiosk.develop patchP" />
@@ -22,7 +23,6 @@
         <option value="package:mine" />
         <option value="package:mine  " />
         <option value="package:mine tag~:SyncWorker|UpcomingEventsRepository$|BackgroundSync" />
-        <option value="package:mine tag~:SyncWorker|UpcomingEventsRepository|BackgroundSync" />
       </list>
     </option>
   </component>
