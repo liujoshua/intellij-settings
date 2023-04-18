@@ -1,10 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.ansiblehealth.kiosk.develop tag~:Worker" />
+    <option name="mostRecentlyUsed" value="package:com.ansiblehealth.kiosk.develop patchP" />
     <option name="nonFavorites">
       <list>
-        <option value="package:com.ansiblehealth.kiosk.develop tag~:Worker" />
+        <option value="package:com.ansiblehealth.kiosk.develop patchP" />
         <option value="package:com.ansiblehealth.kiosk.develop tag~:Work" />
+        <option value="package:com.ansiblehealth.kiosk.develop tag~:Worker" />
         <option value="package:mine tag~:Ble|Blue" />
         <option value="package:mine " />
         <option value="package:com.ansiblehealth.kiosk.develop Work" />
@@ -22,7 +23,6 @@
         <option value="package:mine tag~:SyncWorker|UpcomingEventsRepository" />
         <option value="package:mine doWork" />
         <option value="package:mine tag~:UpcomingEventsRepository" />
-        <option value="package:mine oneMinute" />
       </list>
     </option>
   </component>
