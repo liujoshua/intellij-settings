@@ -3,8 +3,8 @@
     <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
-        <option value="package:com.ansiblehealth.kiosk.develop  tag~:SyncWor" />
         <option value="package:com.ansiblehealth.kiosk.develop tag~:Command" />
+        <option value="package:com.ansiblehealth.kiosk.develop  tag~:SyncWor" />
         <option value="package:com.ansiblehealth.kiosk.develop tag~:Command|IotHub" />
         <option value="package:com.ansiblehealth.kiosk.develop " />
         <option value="package:mine " />
