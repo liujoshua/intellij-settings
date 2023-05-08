@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.ansiblehealth.kiosk.develop" />
+    <option name="mostRecentlyUsed" value="package:com.ansiblehealth.kiosk.develop -message~:onScan " />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.ansiblehealth.kiosk.develop -message~:onScan " />
+        <option value="package:com.ansiblehealth.kiosk.develop -message~:onScan" />
         <option value="package:com.ansiblehealth.kiosk.develop" />
         <option value="package:mine" />
         <option value="package:mine " />
@@ -21,8 +23,6 @@
         <option value="package:com.ansiblehealth.kiosk.develop Work" />
         <option value="package:mine tablet-a7" />
         <option value="package:mine tag~:Command" />
-        <option value="package:mine 018&quot;" />
-        <option value="package:mine sdkAuth" />
       </list>
     </option>
   </component>
