@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.ansiblehealth.kiosk.develop -message~:onScan Updating" />
+    <option name="mostRecentlyUsed" value="package:com.ansiblehealth.kiosk.develop " />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.ansiblehealth.kiosk.develop " />
         <option value="package:com.ansiblehealth.kiosk.develop -message~:onScan Updating" />
         <option value="package:com.ansiblehealth.kiosk.develop -message~:onScan " />
         <option value="package:com.ansiblehealth.kiosk.develop -message~:onScan tablet-a7" />
@@ -16,7 +17,6 @@
         <option value="package:com.ansiblehealth.kiosk.develop tag~:Command" />
         <option value="package:com.ansiblehealth.kiosk.develop  tag~:SyncWor" />
         <option value="package:com.ansiblehealth.kiosk.develop tag~:Command|IotHub" />
-        <option value="package:com.ansiblehealth.kiosk.develop " />
         <option value="package:com.ansiblehealth.kiosk.develop t" />
         <option value="package:com.ansiblehealth.kiosk.develop tag~:IotHub" />
         <option value="package:com.ansiblehealth.kiosk.develop level:warn " />
