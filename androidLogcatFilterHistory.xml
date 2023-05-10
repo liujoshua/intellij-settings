@@ -4,6 +4,8 @@
     <option name="nonFavorites">
       <list>
         <option value="package:com.ansiblehealth.kiosk.develop " />
+        <option value="package:com.ansiblehealth.kiosk.develop LoggingMee" />
+        <option value="package:com.ansiblehealth.kiosk.develop LoggingM" />
         <option value="package:com.ansiblehealth.kiosk.develop tag~:Log" />
         <option value="package:com.ansiblehealth.kiosk.develop onUserAu" />
         <option value="package:com.ansiblehealth.kiosk.develop onAudio" />
@@ -21,8 +23,6 @@
         <option value="tag~:BackgroundSync" />
         <option value="package:com.ansiblehealth.kiosk.develop tag~:Command" />
         <option value="package:com.ansiblehealth.kiosk.develop  tag~:SyncWor" />
-        <option value="package:com.ansiblehealth.kiosk.develop tag~:Command|IotHub" />
-        <option value="package:com.ansiblehealth.kiosk.develop t" />
       </list>
     </option>
   </component>
