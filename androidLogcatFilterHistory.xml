@@ -3,6 +3,8 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine " />
+        <option value="package:mine tag~:Custom|Observer" />
+        <option value="package:mine tag~:Custom" />
         <option value="package:com.ansiblehealth.kiosk.develop " />
         <option value="package:com.ansiblehealth.kiosk.develop LoggingMee" />
         <option value="package:com.ansiblehealth.kiosk.develop LoggingM" />
@@ -20,8 +22,6 @@
         <option value="package:com.ansiblehealth.kiosk.develop" />
         <option value="package:mine" />
         <option value="tag~:BackgroundSync" />
-        <option value="package:com.ansiblehealth.kiosk.develop tag~:Command" />
-        <option value="package:com.ansiblehealth.kiosk.develop  tag~:SyncWor" />
       </list>
     </option>
   </component>
