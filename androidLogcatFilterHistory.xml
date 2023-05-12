@@ -1,10 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine patchPatient" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine patchPatient" />
         <option value="package:mine " />
+        <option value="package:mine patchPatient" />
         <option value="package:mine tag~:Custom|Observer" />
         <option value="package:mine tag~:Custom" />
         <option value="package:com.ansiblehealth.kiosk.develop " />
