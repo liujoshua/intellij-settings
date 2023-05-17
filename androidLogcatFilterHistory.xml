@@ -2,6 +2,7 @@
   <component name="AndroidLogcatFilterHistory">
     <option name="nonFavorites">
       <list>
+        <option value="package:com.ansiblehealth.kiosk.develop" />
         <option value="package:mine " />
         <option value="package:mine Video_ON" />
         <option value="package:mine conver" />
@@ -21,7 +22,6 @@
         <option value="package:com.ansiblehealth.kiosk.develop -message~:onScan tablet-a7" />
         <option value="package:com.ansiblehealth.kiosk.develop -message~:onScan level:warn " />
         <option value="package:com.ansiblehealth.kiosk.develop -message~:onScan onBack" />
-        <option value="package:com.ansiblehealth.kiosk.develop -message~:onScan" />
       </list>
     </option>
   </component>
