@@ -1,8 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.ansiblehealth.kiosk.develop  Notifying" />
+    <option name="mostRecentlyUsed" value="package:com.ansiblehealth.kiosk.develop  Uploading" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.ansiblehealth.kiosk.develop  Uploading" />
+        <option value="package:com.ansiblehealth.kiosk.develop  " />
+        <option value="package:com.ansiblehealth.kiosk.develop  Azure" />
+        <option value="package:com.ansiblehealth.kiosk.develop  tag~:Work" />
+        <option value="package:com.ansiblehealth.kiosk.develop  tag~:Log" />
+        <option value="package:com.ansiblehealth.kiosk.develop  Sending file with path" />
+        <option value="package:com.ansiblehealth.kiosk.develop  Notifyin" />
         <option value="package:com.ansiblehealth.kiosk.develop  Notifying" />
         <option value="package:com.ansiblehealth.kiosk.develop " />
         <option value="package:mine log" />
@@ -16,13 +23,6 @@
         <option value="package:mine tablet-a7-" />
         <option value="package:mine Upload" />
         <option value="package:mine Workout" />
-        <option value="package:com.ansiblehealth.kiosk.develop Upload" />
-        <option value="package:com.ansiblehealth.kiosk.develop" />
-        <option value="package:mine Video_ON" />
-        <option value="package:mine conver" />
-        <option value="package:mine patchPatient" />
-        <option value="package:mine tag~:Custom|Observer" />
-        <option value="package:mine tag~:Custom" />
       </list>
     </option>
   </component>
