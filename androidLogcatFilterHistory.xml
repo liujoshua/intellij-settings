@@ -1,14 +1,20 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tablet-a7" />
+    <option name="mostRecentlyUsed" value="package:com.ansiblehealth.kiosk.develop " />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.ansiblehealth.kiosk.develop " />
+        <option value="package:mine log" />
+        <option value="package:mine Log" />
+        <option value="package:mine " />
+        <option value="package:mine logback" />
+        <option value="package:mine Utilit" />
+        <option value="package:mine GetFiles" />
+        <option value="package:mine logba" />
         <option value="package:mine tablet-a7" />
         <option value="package:mine tablet-a7-" />
         <option value="package:mine Upload" />
-        <option value="package:mine " />
         <option value="package:mine Workout" />
-        <option value="package:mine log" />
         <option value="package:com.ansiblehealth.kiosk.develop Upload" />
         <option value="package:com.ansiblehealth.kiosk.develop" />
         <option value="package:mine Video_ON" />
@@ -16,13 +22,7 @@
         <option value="package:mine patchPatient" />
         <option value="package:mine tag~:Custom|Observer" />
         <option value="package:mine tag~:Custom" />
-        <option value="package:com.ansiblehealth.kiosk.develop " />
         <option value="package:com.ansiblehealth.kiosk.develop LoggingMee" />
-        <option value="package:com.ansiblehealth.kiosk.develop LoggingM" />
-        <option value="package:com.ansiblehealth.kiosk.develop tag~:Log" />
-        <option value="package:com.ansiblehealth.kiosk.develop onUserAu" />
-        <option value="package:com.ansiblehealth.kiosk.develop onAudio" />
-        <option value="package:com.ansiblehealth.kiosk.develop message~:Status|Users|user" />
       </list>
     </option>
   </component>
