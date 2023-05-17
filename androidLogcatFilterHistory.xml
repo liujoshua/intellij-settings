@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.ansiblehealth.kiosk.develop " />
+    <option name="mostRecentlyUsed" value="package:com.ansiblehealth.kiosk.develop  Notifying" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.ansiblehealth.kiosk.develop  Notifying" />
         <option value="package:com.ansiblehealth.kiosk.develop " />
         <option value="package:mine log" />
         <option value="package:mine Log" />
@@ -22,7 +23,6 @@
         <option value="package:mine patchPatient" />
         <option value="package:mine tag~:Custom|Observer" />
         <option value="package:mine tag~:Custom" />
-        <option value="package:com.ansiblehealth.kiosk.develop LoggingMee" />
       </list>
     </option>
   </component>
