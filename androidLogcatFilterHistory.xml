@@ -1,10 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine Upload" />
+    <option name="mostRecentlyUsed" value="package:mine tablet-a7" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine Upload" />
+        <option value="package:mine tablet-a7" />
         <option value="package:mine " />
+        <option value="package:mine Upload" />
         <option value="package:mine Workout" />
         <option value="package:mine log" />
         <option value="package:com.ansiblehealth.kiosk.develop Upload" />
@@ -22,7 +23,6 @@
         <option value="package:com.ansiblehealth.kiosk.develop onAudio" />
         <option value="package:com.ansiblehealth.kiosk.develop message~:Status|Users|user" />
         <option value="package:com.ansiblehealth.kiosk.develop message~:Status|Users" />
-        <option value="package:com.ansiblehealth.kiosk.develop -message~:onScan Updating" />
       </list>
     </option>
   </component>
