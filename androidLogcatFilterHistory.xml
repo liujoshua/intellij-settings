@@ -1,11 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tablet-a7-" />
+    <option name="mostRecentlyUsed" value="package:mine tablet-a7" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tablet-a7" />
         <option value="package:mine tablet-a7-" />
         <option value="package:mine Upload" />
-        <option value="package:mine tablet-a7" />
         <option value="package:mine " />
         <option value="package:mine Workout" />
         <option value="package:mine log" />
