@@ -1,10 +1,17 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tablet-a7" />
+    <option name="mostRecentlyUsed" value="package:mine Log" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine tablet-a7" />
+        <option value="package:mine Log" />
+        <option value="package:mine log" />
         <option value="package:mine " />
+        <option value="package:mine tablet-a7" />
+        <option value="package:mine ListFi" />
+        <option value="package:mine tag~:Worker" />
+        <option value="package:com.ansiblehealth.kiosk.develop" />
+        <option value="package:mine doWork" />
+        <option value="package:mine" />
         <option value="package:mine UploadLog" />
         <option value="package:com.ansiblehealth.kiosk.develop " />
         <option value="package:com.ansiblehealth.kiosk.develop  Uploading" />
@@ -15,14 +22,7 @@
         <option value="package:com.ansiblehealth.kiosk.develop  Sending file with path" />
         <option value="package:com.ansiblehealth.kiosk.develop  Notifyin" />
         <option value="package:com.ansiblehealth.kiosk.develop  Notifying" />
-        <option value="package:mine log" />
-        <option value="package:mine Log" />
         <option value="package:mine logback" />
-        <option value="package:mine Utilit" />
-        <option value="package:mine GetFiles" />
-        <option value="package:mine logba" />
-        <option value="package:mine tablet-a7-" />
-        <option value="package:mine Upload" />
       </list>
     </option>
   </component>
