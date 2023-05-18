@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine message~:myAudio|Suggest" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine message~:myAudio|Suggest" />
         <option value="package:mine " />
         <option value="package:mine log" />
         <option value="package:mine Log" />
@@ -21,7 +23,6 @@
         <option value="package:com.ansiblehealth.kiosk.develop  Sending file with path" />
         <option value="package:com.ansiblehealth.kiosk.develop  Notifyin" />
         <option value="package:com.ansiblehealth.kiosk.develop  Notifying" />
-        <option value="package:mine logback" />
       </list>
     </option>
   </component>
