@@ -3,8 +3,8 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine " />
-        <option value="package:mine Log" />
         <option value="package:mine log" />
+        <option value="package:mine Log" />
         <option value="package:mine tablet-a7" />
         <option value="package:mine ListFi" />
         <option value="package:mine tag~:Worker" />
