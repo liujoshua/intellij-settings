@@ -1,14 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.ansiblehealth.kiosk.develop " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:mine log" />
         <option value="package:com.ansiblehealth.kiosk.develop " />
         <option value="package:com.ansiblehealth.kiosk.develop ListUp" />
         <option value="package:com.ansiblehealth.kiosk.develop ListUp uri" />
         <option value="package:mine tag~:InMeetingServiceObserver|Cust" />
-        <option value="package:mine " />
         <option value="package:mine event" />
         <option value="package:mine message~:myAudio|Suggest" />
         <option value="package:mine Log" />
