@@ -4,8 +4,8 @@
     <option name="nonFavorites">
       <list>
         <option value="package:com.ansiblehealth.kiosk.develop " />
-        <option value="package:com.ansiblehealth.kiosk.develop ListUp uri" />
         <option value="package:com.ansiblehealth.kiosk.develop ListUp" />
+        <option value="package:com.ansiblehealth.kiosk.develop ListUp uri" />
         <option value="package:mine tag~:InMeetingServiceObserver|Cust" />
         <option value="package:mine " />
         <option value="package:mine event" />
