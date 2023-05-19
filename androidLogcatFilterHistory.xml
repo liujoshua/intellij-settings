@@ -1,28 +1,28 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine level:debug " />
+    <option name="mostRecentlyUsed" value="package:com.ansiblehealth.kiosk.develop " />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine level:debug " />
-        <option value="package:mine level:info " />
-        <option value="package:mine level:warn " />
-        <option value="AA-55-0F-08" />
-        <option value="package:mine Spo2Parame" />
-        <option value="package:mine AA-55-0F-06-21-01-04" />
+        <option value="package:com.ansiblehealth.kiosk.develop " />
+        <option value="package:com.ansiblehealth.kiosk.develop ListUp" />
+        <option value="package:com.ansiblehealth.kiosk.develop ListUp uri" />
+        <option value="package:mine tag~:InMeetingServiceObserver|Cust" />
         <option value="package:mine " />
-        <option value="package:mine insert" />
-        <option value="package:mine  SpotCheckFinished" />
-        <option value="package:mine  finishedAt=" />
-        <option value="package:mine  finishedAt" />
-        <option value="package:mine  insert" />
-        <option value="package:mine  collected" />
-        <option value="package:mine  SpotCheckReporting" />
-        <option value="package:mine  collected DeviceInfo" />
-        <option value="package:mine  Pair" />
-        <option value="package:mine  " />
-        <option value="package:mine Parameter " />
-        <option value="package:mine collected " />
-        <option value="package:mine collected Spot" />
+        <option value="package:mine event" />
+        <option value="package:mine message~:myAudio|Suggest" />
+        <option value="package:mine log" />
+        <option value="package:mine Log" />
+        <option value="package:mine tablet-a7" />
+        <option value="package:mine ListFi" />
+        <option value="package:mine tag~:Worker" />
+        <option value="package:com.ansiblehealth.kiosk.develop" />
+        <option value="package:mine doWork" />
+        <option value="package:mine" />
+        <option value="package:mine UploadLog" />
+        <option value="package:com.ansiblehealth.kiosk.develop  Uploading" />
+        <option value="package:com.ansiblehealth.kiosk.develop  " />
+        <option value="package:com.ansiblehealth.kiosk.develop  Azure" />
+        <option value="package:com.ansiblehealth.kiosk.develop  tag~:Work" />
       </list>
     </option>
   </component>
