@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag~:InMeetingServiceObserver|Cust" />
+    <option name="mostRecentlyUsed" value="package:com.ansiblehealth.kiosk.develop " />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.ansiblehealth.kiosk.develop " />
+        <option value="package:com.ansiblehealth.kiosk.develop ListUp uri" />
+        <option value="package:com.ansiblehealth.kiosk.develop ListUp" />
         <option value="package:mine tag~:InMeetingServiceObserver|Cust" />
         <option value="package:mine " />
         <option value="package:mine event" />
@@ -16,13 +19,10 @@
         <option value="package:mine doWork" />
         <option value="package:mine" />
         <option value="package:mine UploadLog" />
-        <option value="package:com.ansiblehealth.kiosk.develop " />
         <option value="package:com.ansiblehealth.kiosk.develop  Uploading" />
         <option value="package:com.ansiblehealth.kiosk.develop  " />
         <option value="package:com.ansiblehealth.kiosk.develop  Azure" />
         <option value="package:com.ansiblehealth.kiosk.develop  tag~:Work" />
-        <option value="package:com.ansiblehealth.kiosk.develop  tag~:Log" />
-        <option value="package:com.ansiblehealth.kiosk.develop  Sending file with path" />
       </list>
     </option>
   </component>
