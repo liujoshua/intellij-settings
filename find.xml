@@ -1,14 +1,13 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="localRegularExpressions" value="true" />
-    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="Solution" />
+    <option name="defaultScopeName" value="Solution" />
+    <option name="SEARCH_SCOPE" value="Solution" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.cs</mask>
     <mask>*.gra</mask>
+    <mask>*.xml</mask>
     <mask>*.gr</mask>
     <mask>*.java</mask>
     <mask>build.gradle</mask>
@@ -16,6 +15,5 @@
     <mask>*.gradle*</mask>
     <mask>*.kts</mask>
     <mask>*.kt</mask>
-    <mask>*.xml</mask>
   </component>
 </application>
