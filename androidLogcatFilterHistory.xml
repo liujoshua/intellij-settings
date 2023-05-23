@@ -1,11 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag~:IotHubConnectionStatusLoggingObserver " />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine tag~:IotHubConnectionStatusLoggingObserver " />
-        <option value="package:mine  " />
         <option value="package:mine " />
+        <option value="package:mine tag~:IotHubConnectionStatusLoggingObserver " />
+        <option value="package:mine" />
+        <option value="package:mine  " />
         <option value="package:mine tag~:IotHubConnectionStatusLoggingObserver" />
         <option value="package:mine IotHubConnectionStatus" />
         <option value="package:mine tag~:MainActivity " />
@@ -22,7 +22,6 @@
         <option value="package:mine Log" />
         <option value="package:mine tablet-a7" />
         <option value="package:mine ListFi" />
-        <option value="package:mine tag~:Worker" />
       </list>
     </option>
   </component>
