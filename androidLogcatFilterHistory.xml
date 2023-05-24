@@ -1,12 +1,16 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine tag~:IotHubConn" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag~:IotHubConn" />
         <option value="package:mine " />
-        <option value="package:mine tag~:reconn|Work" />
-        <option value="package:mine" />
-        <option value="package:mine State Change colle" />
         <option value="package:mine Connection Status Change" />
+        <option value="package:mine Connection Stat" />
+        <option value="package:mine tag~:IotHubConnection" />
+        <option value="package:mine" />
+        <option value="package:mine tag~:reconn|Work" />
+        <option value="package:mine State Change colle" />
         <option value="package:mine State Change coll" />
         <option value="package:mine tag~:IotHub" />
         <option value="package:mine tag~:IotHubConnectionStatusLoggingObserver " />
@@ -19,9 +23,6 @@
         <option value="package:mine tag~:ConnectionModule " />
         <option value="package:mine log" />
         <option value="package:com.ansiblehealth.kiosk.develop " />
-        <option value="package:com.ansiblehealth.kiosk.develop ListUp" />
-        <option value="package:com.ansiblehealth.kiosk.develop ListUp uri" />
-        <option value="package:mine tag~:InMeetingServiceObserver|Cust" />
       </list>
     </option>
   </component>
