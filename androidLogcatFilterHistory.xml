@@ -1,8 +1,8 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine  jwt" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:mine  jwt" />
         <option value="package:mine  " />
         <option value="package:mine  getTok" />
@@ -10,7 +10,6 @@
         <option value="package:mine  tag~:Main|Laun AliveCor activity" />
         <option value="package:mine  tag~:Main|Laun" />
         <option value="package:mine level:warn " />
-        <option value="package:mine " />
         <option value="package:mine tag~:Patch" />
         <option value="package:mine tag~:AzureClient|Patch" />
         <option value="package:mine tag~:AzureClient " />
