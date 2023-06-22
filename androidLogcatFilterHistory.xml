@@ -4,6 +4,7 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine  " />
+        <option value="package:mine  getTok" />
         <option value="package:mine  Upcoming" />
         <option value="package:mine  tag~:Main|Laun AliveCor activity" />
         <option value="package:mine  tag~:Main|Laun" />
@@ -22,7 +23,6 @@
         <option value="package:mine State Change colle" />
         <option value="package:mine State Change coll" />
         <option value="package:mine tag~:IotHub" />
-        <option value="package:mine tag~:IotHubConnectionStatusLoggingObserver " />
       </list>
     </option>
   </component>
