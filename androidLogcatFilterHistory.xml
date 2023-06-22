@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine  " />
+    <option name="mostRecentlyUsed" value="package:mine  jwt" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine  jwt" />
         <option value="package:mine  " />
         <option value="package:mine  getTok" />
         <option value="package:mine  Upcoming" />
@@ -22,7 +23,6 @@
         <option value="package:mine tag~:reconn|Work" />
         <option value="package:mine State Change colle" />
         <option value="package:mine State Change coll" />
-        <option value="package:mine tag~:IotHub" />
       </list>
     </option>
   </component>
