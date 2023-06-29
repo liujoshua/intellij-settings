@@ -1,10 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine surveysp" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine surveysp" />
         <option value="package:mine " />
+        <option value="package:mine surveysp" />
         <option value="package:mine survey" />
         <option value="package:mine  jwt" />
         <option value="package:mine  " />
