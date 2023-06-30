@@ -3,6 +3,7 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine " />
+        <option value="package:mine tablet-" />
         <option value="package:mine surveysp" />
         <option value="package:mine survey" />
         <option value="package:mine  jwt" />
@@ -21,7 +22,6 @@
         <option value="package:mine Connection Status Change" />
         <option value="package:mine Connection Stat" />
         <option value="package:mine tag~:IotHubConnection" />
-        <option value="package:mine tag~:reconn|Work" />
       </list>
     </option>
   </component>
