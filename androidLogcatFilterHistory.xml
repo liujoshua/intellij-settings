@@ -1,13 +1,19 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine Scan" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine Scan" />
+        <option value="package:mine -tag~:AppCenter|ListUpcoming" />
+        <option value="package:mine  " />
+        <option value="package:mine -tag~:AppCenter " />
+        <option value="package:mine -tag~:AppCenter sucks" />
+        <option value="package:mine -tag~:AppCenter" />
         <option value="package:mine " />
         <option value="package:mine tablet-" />
         <option value="package:mine surveysp" />
         <option value="package:mine survey" />
         <option value="package:mine  jwt" />
-        <option value="package:mine  " />
         <option value="package:mine  getTok" />
         <option value="package:mine  Upcoming" />
         <option value="package:mine  tag~:Main|Laun AliveCor activity" />
@@ -17,11 +23,6 @@
         <option value="package:mine tag~:AzureClient|Patch" />
         <option value="package:mine tag~:AzureClient " />
         <option value="package:mine tag~:Ble" />
-        <option value="package:mine" />
-        <option value="package:mine tag~:IotHubConn" />
-        <option value="package:mine Connection Status Change" />
-        <option value="package:mine Connection Stat" />
-        <option value="package:mine tag~:IotHubConnection" />
       </list>
     </option>
   </component>
