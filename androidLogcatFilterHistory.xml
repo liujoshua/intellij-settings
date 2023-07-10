@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag~:Entry" />
+    <option name="mostRecentlyUsed" value="package:mine tag~:MainAc|Mark" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag~:MainAc|Mark" />
+        <option value="package:mine tag~:MainAc" />
+        <option value="package:mine tag~:Entry|MainAc" />
         <option value="package:mine tag~:Entry" />
         <option value="package:mine " />
         <option value="package:mine onCreate" />
@@ -20,9 +23,6 @@
         <option value="package:mine survey" />
         <option value="package:mine  jwt" />
         <option value="package:mine  getTok" />
-        <option value="package:mine  Upcoming" />
-        <option value="package:mine  tag~:Main|Laun AliveCor activity" />
-        <option value="package:mine  tag~:Main|Laun" />
       </list>
     </option>
   </component>
