@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag~:MainAc|Mark" />
+    <option name="mostRecentlyUsed" value="package:mine tag~:MainAc|Mark " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag~:MainAc|Mark " />
         <option value="package:mine tag~:MainAc|Mark" />
         <option value="package:mine tag~:MainAc" />
         <option value="package:mine tag~:Entry|MainAc" />
@@ -22,7 +23,6 @@
         <option value="package:mine surveysp" />
         <option value="package:mine survey" />
         <option value="package:mine  jwt" />
-        <option value="package:mine  getTok" />
       </list>
     </option>
   </component>
