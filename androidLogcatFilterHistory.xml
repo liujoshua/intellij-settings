@@ -1,7 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine tag~:Reset" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag~:Reset" />
+        <option value="package:mine TabletPower" />
         <option value="package:mine " />
         <option value="package:mine Colelc" />
         <option value="package:mine showEntry" />
@@ -20,8 +23,6 @@
         <option value="package:com.ansiblehealth.kiosk.develop" />
         <option value="package:mine Scan" />
         <option value="package:mine -tag~:AppCenter|ListUpcoming" />
-        <option value="package:mine  " />
-        <option value="package:mine -tag~:AppCenter " />
       </list>
     </option>
   </component>
