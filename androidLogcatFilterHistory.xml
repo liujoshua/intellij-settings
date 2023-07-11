@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag~:MainAct" />
+    <option name="mostRecentlyUsed" value="package:mine tag~:MainAct|MainFrag|EntryFrag" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag~:MainAct|MainFrag|EntryFrag" />
+        <option value="package:mine tag~:MainAct|MainFrag" />
         <option value="package:mine tag~:MainAct" />
         <option value="package:mine " />
         <option value="package:mine tag~:MainAct " />
@@ -21,8 +23,6 @@
         <option value="package:mine -tag~:AppCenter " />
         <option value="package:mine -tag~:AppCenter sucks" />
         <option value="package:mine -tag~:AppCenter" />
-        <option value="package:mine tablet-" />
-        <option value="package:mine surveysp" />
       </list>
     </option>
   </component>
