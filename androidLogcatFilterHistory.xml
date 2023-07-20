@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine BackgroundSync" />
+    <option name="mostRecentlyUsed" value="package:mine tag~:AppCenterErrorTracker|BackgroundSyncService" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag~:AppCenterErrorTracker|BackgroundSyncService" />
+        <option value="package:mine tag~:AppCenterErrorTracker " />
         <option value="package:mine BackgroundSync" />
         <option value="package:mine Touched" />
         <option value="package:mine" />
@@ -21,8 +23,6 @@
         <option value="package:mine tag~:Entry|MainAc" />
         <option value="package:mine tag~:Entry" />
         <option value="package:mine onCreate" />
-        <option value="package:mine tag~:Frag" />
-        <option value="package:com.ansiblehealth.kiosk.develop" />
       </list>
     </option>
   </component>
