@@ -16,8 +16,8 @@
     <mask>*.toml</mask>
     <mask>*Module*</mask>
     <mask>*.xml</mask>
-    <mask>*.kt</mask>
     <mask>*.gradle.kts</mask>
     <mask>*Test.kt</mask>
+    <mask>*.kt</mask>
   </component>
 </application>
