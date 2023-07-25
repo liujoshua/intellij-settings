@@ -3,6 +3,9 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine " />
+        <option value="package:mine tablet-a7" />
+        <option value="package:mine SZP" />
+        <option value="package:mine Device" />
         <option value="package:mine tag~:Dele" />
         <option value="package:mine tag~:Work" />
         <option value="package:mine tablet" />
@@ -19,9 +22,6 @@
         <option value="package:mine TabletPower" />
         <option value="package:mine Colelc" />
         <option value="package:mine showEntry" />
-        <option value="package:mine tag~:MainAct|MainFrag|EntryFrag" />
-        <option value="package:mine tag~:MainAct|MainFrag" />
-        <option value="package:mine tag~:MainAct" />
       </list>
     </option>
   </component>
