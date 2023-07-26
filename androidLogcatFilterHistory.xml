@@ -3,8 +3,8 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine " />
-        <option value="package:mine IotHub" />
         <option value="package:mine tablet-a7" />
+        <option value="package:mine IotHub" />
         <option value="package:mine SZP" />
         <option value="package:mine Device" />
         <option value="package:mine tag~:Dele" />
