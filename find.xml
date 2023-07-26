@@ -7,16 +7,18 @@
     <mask>*.html</mask>
     <mask>*.cs</mask>
     <mask>*.gra</mask>
-    <mask>*.xml</mask>
     <mask>*.gr</mask>
     <mask>*.java</mask>
     <mask>build.gradle</mask>
     <mask>*.tf</mask>
     <mask>*.gradle*</mask>
     <mask>*.kts</mask>
-    <mask>*.kt</mask>
     <mask>*.toml</mask>
     <mask>*Module*</mask>
+    <mask>*.xml</mask>
     <mask>*.gradle.kts</mask>
+    <mask>*Test.kt</mask>
+    <mask>*.kt</mask>
+    <mask>*.http</mask>
   </component>
 </application>
