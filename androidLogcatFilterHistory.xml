@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine sparrow" />
+    <option name="mostRecentlyUsed" value="package:com.ansiblehealth.kiosk.develop tag~:Zoom|ListUp" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.ansiblehealth.kiosk.develop tag~:Zoom|ListUp" />
         <option value="package:mine sparrow" />
         <option value="package:mine  " />
         <option value="package:mine tag~:BleScanService " />
@@ -22,7 +23,6 @@
         <option value="package:mine tag~:AppCenterErrorTracker|BackgroundSyncService" />
         <option value="package:mine level:warn " />
         <option value="package:mine tag~:AppCenterErrorTracker " />
-        <option value="package:mine BackgroundSync" />
       </list>
     </option>
   </component>
