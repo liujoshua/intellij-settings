@@ -1,15 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine  OkHttp" />
+    <option name="mostRecentlyUsed" value="package:mine  " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine  " />
         <option value="package:mine  OkHttp" />
         <option value="package:mine " />
         <option value="package:com.ansiblehealth.kiosk.develop tag~:Zoom|ListUp " />
         <option value="package:com.ansiblehealth.kiosk.develop tag~:Zoom|ListUp jwt" />
         <option value="package:com.ansiblehealth.kiosk.develop tag~:Zoom|ListUp" />
         <option value="package:mine sparrow" />
-        <option value="package:mine  " />
         <option value="package:mine tag~:BleScanService " />
         <option value="package:mine" />
         <option value="package:mine Insert" />
