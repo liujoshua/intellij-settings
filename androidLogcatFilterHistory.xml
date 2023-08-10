@@ -1,8 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine  " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine  " />
+        <option value="package:mine tag~:Message " />
+        <option value="package:mine tag~:Message" />
         <option value="package:mine " />
+        <option value="tablet-a7" />
         <option value="package:mine  tablet-a7" />
         <option value="package:mine  Scheduling IoT Reconnection" />
         <option value="package:com.ansiblehealth.kiosk.develop Azure" />
@@ -10,7 +15,6 @@
         <option value="package:com.ansiblehealth.kiosk.develop survey" />
         <option value="package:com.ansiblehealth.kiosk.develop " />
         <option value="package:com.ansiblehealth.kiosk.develop tag~:Zoom|ListUp " />
-        <option value="package:mine  " />
         <option value="package:mine  OkHttp" />
         <option value="package:com.ansiblehealth.kiosk.develop tag~:Zoom|ListUp jwt" />
         <option value="package:com.ansiblehealth.kiosk.develop tag~:Zoom|ListUp" />
@@ -19,9 +23,6 @@
         <option value="package:mine" />
         <option value="package:mine Insert" />
         <option value="package:mine tablet-a7" />
-        <option value="package:mine IotHub" />
-        <option value="package:mine SZP" />
-        <option value="package:mine Device" />
       </list>
     </option>
   </component>
