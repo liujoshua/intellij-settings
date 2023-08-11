@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="mrn" />
     <option name="nonFavorites">
       <list>
+        <option value="mrn" />
         <option value="package:mine " />
         <option value="package:mine AliveCorRecording" />
         <option value="package:mine tag~:Upcoming" />
@@ -21,7 +23,6 @@
         <option value="package:com.ansiblehealth.kiosk.develop tag~:Zoom|ListUp jwt" />
         <option value="package:com.ansiblehealth.kiosk.develop tag~:Zoom|ListUp" />
         <option value="package:mine sparrow" />
-        <option value="package:mine tag~:BleScanService " />
       </list>
     </option>
   </component>
