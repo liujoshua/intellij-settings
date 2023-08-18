@@ -1,8 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="mrn" />
+    <option name="mostRecentlyUsed" value="package:mine -tag~:AppCenter " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine -tag~:AppCenter " />
+        <option value="package:mine -tag~:AppCenter" />
+        <option value="package:mine tag~:BLE|Device" />
+        <option value="package:mine ScanC" />
+        <option value="package:mine" />
         <option value="mrn" />
         <option value="package:mine " />
         <option value="package:mine AliveCorRecording" />
@@ -18,11 +23,6 @@
         <option value="package:com.ansiblehealth.kiosk.develop" />
         <option value="package:com.ansiblehealth.kiosk.develop survey" />
         <option value="package:com.ansiblehealth.kiosk.develop " />
-        <option value="package:com.ansiblehealth.kiosk.develop tag~:Zoom|ListUp " />
-        <option value="package:mine  OkHttp" />
-        <option value="package:com.ansiblehealth.kiosk.develop tag~:Zoom|ListUp jwt" />
-        <option value="package:com.ansiblehealth.kiosk.develop tag~:Zoom|ListUp" />
-        <option value="package:mine sparrow" />
       </list>
     </option>
   </component>
