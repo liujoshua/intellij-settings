@@ -1,10 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine -tag~:AppCenter|Calendar|UpcomingEvent|InternalEmail|Http " />
+    <option name="mostRecentlyUsed" value="package:mine -tag~:AppCenter|Calendar|UpcomingEvent|InternalEmail|Http r" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine -tag~:AppCenter|Calendar|UpcomingEvent|InternalEmail|Http " />
+        <option value="package:mine -tag~:AppCenter|Calendar|UpcomingEvent|InternalEmail|Http r" />
+        <option value="package:mine -tag~:AppCenter|Calendar|UpcomingEvent|InternalEmail|Http GBF" />
         <option value="package:mine -tag~:AppCenter|Calendar|UpcomingEvent|InternalEmail|Http" />
+        <option value="package:mine -tag~:AppCenter|Calendar|UpcomingEvent|InternalEmail|Http " />
+        <option value="package:mine -tag~:AppCenter|Calendar|UpcomingEvent|InternalEmail|Http loginR" />
         <option value="package:mine -tag~:AppCenter fact" />
         <option value="package:mine -tag~:AppCenter" />
         <option value="package:mine tag~:BLE" />
@@ -20,9 +23,6 @@
         <option value="package:mine  " />
         <option value="package:mine tag~:Message " />
         <option value="package:mine tag~:Message" />
-        <option value="tablet-a7" />
-        <option value="package:mine  tablet-a7" />
-        <option value="package:mine  Scheduling IoT Reconnection" />
       </list>
     </option>
   </component>
