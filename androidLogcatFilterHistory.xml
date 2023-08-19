@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine -tag~:AppCenter " />
+    <option name="mostRecentlyUsed" value="package:mine tag~:BLE" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag~:BLE" />
         <option value="package:mine -tag~:AppCenter " />
         <option value="package:mine -tag~:AppCenter" />
         <option value="package:mine tag~:BLE|Device" />
@@ -22,7 +23,6 @@
         <option value="package:com.ansiblehealth.kiosk.develop Azure" />
         <option value="package:com.ansiblehealth.kiosk.develop" />
         <option value="package:com.ansiblehealth.kiosk.develop survey" />
-        <option value="package:com.ansiblehealth.kiosk.develop " />
       </list>
     </option>
   </component>
