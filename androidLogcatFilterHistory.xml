@@ -1,12 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine -tag~:AppCenter|Calendar|UpcomingEvent|InternalEmail|Http r" />
+    <option name="mostRecentlyUsed" value="package:mine -tag~:AppCenter|Calendar|UpcomingEvent|InternalEmail|Http re" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine -tag~:AppCenter|Calendar|UpcomingEvent|InternalEmail|Http re" />
+        <option value="package:mine -tag~:AppCenter|Calendar|UpcomingEvent|InternalEmail|Http " />
+        <option value="package:mine -tag~:AppCenter|Calendar|UpcomingEvent|InternalEmail|Http Azure" />
         <option value="package:mine -tag~:AppCenter|Calendar|UpcomingEvent|InternalEmail|Http r" />
         <option value="package:mine -tag~:AppCenter|Calendar|UpcomingEvent|InternalEmail|Http GBF" />
         <option value="package:mine -tag~:AppCenter|Calendar|UpcomingEvent|InternalEmail|Http" />
-        <option value="package:mine -tag~:AppCenter|Calendar|UpcomingEvent|InternalEmail|Http " />
         <option value="package:mine -tag~:AppCenter|Calendar|UpcomingEvent|InternalEmail|Http loginR" />
         <option value="package:mine -tag~:AppCenter fact" />
         <option value="package:mine -tag~:AppCenter" />
@@ -21,8 +23,6 @@
         <option value="package:mine tag~:Upcoming" />
         <option value="package:mine  tag~:Cloud" />
         <option value="package:mine  " />
-        <option value="package:mine tag~:Message " />
-        <option value="package:mine tag~:Message" />
       </list>
     </option>
   </component>
