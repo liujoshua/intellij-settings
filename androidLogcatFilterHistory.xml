@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine -tag~:AppCenter|Calendar|UpcomingEvent|InternalEmail|Http" />
+    <option name="mostRecentlyUsed" value="package:mine -tag~:AppCenter|Calendar|UpcomingEvent|InternalEmail|Http " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine -tag~:AppCenter|Calendar|UpcomingEvent|InternalEmail|Http " />
         <option value="package:mine -tag~:AppCenter|Calendar|UpcomingEvent|InternalEmail|Http" />
         <option value="package:mine -tag~:AppCenter fact" />
         <option value="package:mine -tag~:AppCenter" />
@@ -22,7 +23,6 @@
         <option value="tablet-a7" />
         <option value="package:mine  tablet-a7" />
         <option value="package:mine  Scheduling IoT Reconnection" />
-        <option value="package:com.ansiblehealth.kiosk.develop Azure" />
       </list>
     </option>
   </component>
