@@ -1,8 +1,8 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine -tag~:AppCenter|Calendar|UpcomingEvent|InternalEmail|Http re" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:mine -tag~:AppCenter|Calendar|UpcomingEvent|InternalEmail|Http re" />
         <option value="package:mine -tag~:AppCenter|Calendar|UpcomingEvent|InternalEmail|Http " />
         <option value="package:mine -tag~:AppCenter|Calendar|UpcomingEvent|InternalEmail|Http Azure" />
@@ -13,7 +13,6 @@
         <option value="package:mine -tag~:AppCenter fact" />
         <option value="package:mine -tag~:AppCenter" />
         <option value="package:mine tag~:BLE" />
-        <option value="package:mine " />
         <option value="package:mine -tag~:AppCenter " />
         <option value="package:mine tag~:BLE|Device" />
         <option value="package:mine ScanC" />
