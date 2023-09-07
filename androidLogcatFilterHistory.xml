@@ -1,7 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="Hello" />
     <option name="nonFavorites">
       <list>
+        <option value="Hello" />
+        <option value=" tag~:TimberMessage " />
+        <option value="Timber" />
         <option value="package:mine " />
         <option value="package:mine -tag~:AppCenter|Calendar|UpcomingEvent|InternalEmail|Http re" />
         <option value="package:mine -tag~:AppCenter|Calendar|UpcomingEvent|InternalEmail|Http " />
@@ -19,9 +23,6 @@
         <option value="package:mine" />
         <option value="mrn" />
         <option value="package:mine AliveCorRecording" />
-        <option value="package:mine tag~:Upcoming" />
-        <option value="package:mine  tag~:Cloud" />
-        <option value="package:mine  " />
       </list>
     </option>
   </component>
