@@ -12,7 +12,6 @@
     <mask>build.gradle</mask>
     <mask>*.tf</mask>
     <mask>*.gradle*</mask>
-    <mask>*.kts</mask>
     <mask>*Module*</mask>
     <mask>*.xml</mask>
     <mask>*.gradle.kts</mask>
@@ -20,5 +19,6 @@
     <mask>*.http</mask>
     <mask>*.toml</mask>
     <mask>*.kt</mask>
+    <mask>*.kts</mask>
   </component>
 </application>
