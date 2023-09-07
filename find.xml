@@ -18,8 +18,8 @@
     <mask>*Test.kt</mask>
     <mask>*.http</mask>
     <mask>*.toml</mask>
-    <mask>*.kt</mask>
     <mask>*.kts</mask>
     <mask>*UseCase.kt</mask>
+    <mask>*.kt</mask>
   </component>
 </application>
