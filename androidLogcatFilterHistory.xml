@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="tag=:BleDeviceEntityTest" />
     <option name="nonFavorites">
       <list>
+        <option value="tag=:BleDeviceEntityTest" />
         <option value="package:mine " />
         <option value="package:mine subje" />
         <option value="package:mine enroll" />
@@ -21,7 +23,6 @@
         <option value="package:mine -tag~:AppCenter " />
         <option value="package:mine tag~:BLE|Device" />
         <option value="package:mine ScanC" />
-        <option value="package:mine" />
       </list>
     </option>
   </component>
