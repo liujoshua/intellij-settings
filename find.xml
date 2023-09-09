@@ -21,5 +21,6 @@
     <mask>*.kts</mask>
     <mask>*UseCase.kt</mask>
     <mask>*.kt</mask>
+    <mask>AndroidMan*</mask>
   </component>
 </application>
