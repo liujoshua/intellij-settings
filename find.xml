@@ -5,7 +5,7 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.kt" />
+    <option name="FILE_MASK" value="*.kts" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.cs</mask>
@@ -21,9 +21,9 @@
     <mask>*Test.kt</mask>
     <mask>*.http</mask>
     <mask>*.toml</mask>
-    <mask>*.kts</mask>
     <mask>*UseCase.kt</mask>
     <mask>AndroidMan*</mask>
     <mask>*.kt</mask>
+    <mask>*.kts</mask>
   </component>
 </application>
