@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine -tag~:AppCenter GBF2008BFDevice" />
+    <option name="mostRecentlyUsed" value="package:mine tag~:Gmb|Deleg  Weigh" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag~:Gmb|Deleg  Weigh" />
         <option value="package:mine -tag~:AppCenter GBF2008BFDevice" />
         <option value="package:mine -tag~:AppCenter " />
         <option value="package:mine -tag~:AppCenter" />
@@ -22,7 +23,6 @@
         <option value="package:mine tablet-a7" />
         <option value="package:mine mac" />
         <option value="package:mine level:error " />
-        <option value="tag=:BleDeviceEntityTest" />
       </list>
     </option>
   </component>
