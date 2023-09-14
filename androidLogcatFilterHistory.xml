@@ -1,8 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag~:Gmb|Deleg" />
+    <option name="mostRecentlyUsed" value="package:mine tag~:Gmb|Deleg " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag~:Gmb|Deleg " />
+        <option value="package:mine tag~:Gmb|Deleg SENT_DEVICE_A6_AUTH" />
+        <option value="package:mine tag~:Gmb|Deleg Packet comm" />
+        <option value="package:mine tag~:Gmb|Deleg Weight " />
+        <option value="package:mine tag~:Gmb|Deleg Weight" />
         <option value="package:mine tag~:Gmb|Deleg" />
         <option value="package:mine " />
         <option value="package:mine Gmb" />
@@ -18,11 +23,6 @@
         <option value="Hello" />
         <option value=" tag~:TimberMessage " />
         <option value="Timber" />
-        <option value="package:mine -tag~:AppCenter|Calendar|UpcomingEvent|InternalEmail|Http re" />
-        <option value="package:mine -tag~:AppCenter|Calendar|UpcomingEvent|InternalEmail|Http " />
-        <option value="package:mine -tag~:AppCenter|Calendar|UpcomingEvent|InternalEmail|Http Azure" />
-        <option value="package:mine -tag~:AppCenter|Calendar|UpcomingEvent|InternalEmail|Http r" />
-        <option value="package:mine -tag~:AppCenter|Calendar|UpcomingEvent|InternalEmail|Http GBF" />
       </list>
     </option>
   </component>
