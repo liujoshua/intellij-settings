@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine 0000a621" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine 0000a621" />
         <option value="package:mine " />
         <option value="package:mine sendD" />
         <option value="package:mine Gmb2012" />
@@ -21,7 +23,6 @@
         <option value="package:mine tag~:Gmb|Deleg" />
         <option value="package:mine Gmb" />
         <option value="package:mine tag~:BLE|Bluetooth|Gatt|Gmb|Pc60" />
-        <option value="Preview" />
       </list>
     </option>
   </component>
