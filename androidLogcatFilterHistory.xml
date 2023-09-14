@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine -tag~:AppCenter Scan" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
+        <option value="package:mine Gmb2012" />
         <option value="package:mine Scan" />
         <option value="package:mine -tag~:AppCenter Scan" />
         <option value="package:mine tag~:Gmb|Deleg  " />
@@ -10,7 +11,6 @@
         <option value="package:mine -tag~:AppCenter GBF2008BFDevice" />
         <option value="package:mine -tag~:AppCenter " />
         <option value="package:mine -tag~:AppCenter" />
-        <option value="package:mine " />
         <option value="package:mine tag~:Gmb|Deleg command: " />
         <option value="package:mine tag~:Gmb|Deleg " />
         <option value="package:mine tag~:Gmb|Deleg SENT_DEVICE_A6_AUTH" />
@@ -22,7 +22,6 @@
         <option value="package:mine tag~:BLE|Bluetooth|Gatt|Gmb|Pc60" />
         <option value="Preview" />
         <option value="package:com.ansiblehealth.kiosk.develop " />
-        <option value="package:mine tablet-a7" />
       </list>
     </option>
   </component>
