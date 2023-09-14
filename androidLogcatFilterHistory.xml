@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine sendD" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine sendD" />
         <option value="package:mine " />
         <option value="package:mine Gmb2012" />
         <option value="package:mine Scan" />
@@ -21,7 +23,6 @@
         <option value="package:mine Gmb" />
         <option value="package:mine tag~:BLE|Bluetooth|Gatt|Gmb|Pc60" />
         <option value="Preview" />
-        <option value="package:com.ansiblehealth.kiosk.develop " />
       </list>
     </option>
   </component>
