@@ -1,14 +1,16 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag~:Gmb|Deleg  Weigh" />
+    <option name="mostRecentlyUsed" value="package:mine -tag~:AppCenter Scan" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine Scan" />
+        <option value="package:mine -tag~:AppCenter Scan" />
+        <option value="package:mine tag~:Gmb|Deleg  " />
         <option value="package:mine tag~:Gmb|Deleg  Weigh" />
         <option value="package:mine -tag~:AppCenter GBF2008BFDevice" />
         <option value="package:mine -tag~:AppCenter " />
         <option value="package:mine -tag~:AppCenter" />
         <option value="package:mine " />
-        <option value="package:mine tag~:Gmb|Deleg  " />
         <option value="package:mine tag~:Gmb|Deleg command: " />
         <option value="package:mine tag~:Gmb|Deleg " />
         <option value="package:mine tag~:Gmb|Deleg SENT_DEVICE_A6_AUTH" />
@@ -21,8 +23,6 @@
         <option value="Preview" />
         <option value="package:com.ansiblehealth.kiosk.develop " />
         <option value="package:mine tablet-a7" />
-        <option value="package:mine mac" />
-        <option value="package:mine level:error " />
       </list>
     </option>
   </component>
