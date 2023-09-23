@@ -133,6 +133,28 @@
         <target value="Android 13.0" />
         <api value="androidversion:33:null:6:true" />
       </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="R83W514XMLV" />
+          </Key>
+        </key>
+        <name value="samsung SM-T220" />
+        <target value="Android 13.0" />
+        <api value="androidversion:33:null:6:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="DOMAIN_NAME" />
+            <value value="adb-R83W514XMLV-Uygr3F._adb-tls-connect._tcp." />
+          </Key>
+        </key>
+        <name value="samsung SM-T220" />
+        <target value="Android 13.0" />
+        <api value="androidversion:33:null:6:true" />
+      </PhysicalDevice>
     </physicalDevices>
   </component>
 </application>
