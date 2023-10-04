@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine IoT" />
+    <option name="mostRecentlyUsed" value="package:mine tag~:ListContent" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag~:ListContent" />
+        <option value="package:mine ta" />
         <option value="package:mine IoT" />
         <option value="package:mine tag~:Aoj|BaseBleManager " />
         <option value="package:mine tag~:Aoj|BaseBleManager invalid" />
@@ -21,8 +23,6 @@
         <option value="package:mine Gmb2012" />
         <option value="package:mine Scan" />
         <option value="package:mine -tag~:AppCenter Scan" />
-        <option value="package:mine tag~:Gmb|Deleg  " />
-        <option value="package:mine tag~:Gmb|Deleg  Weigh" />
       </list>
     </option>
   </component>
