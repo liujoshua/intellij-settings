@@ -1,10 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag~:Zoom|Worker" />
+    <option name="mostRecentlyUsed" value="package:mine tag~:Zoom" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine tag~:Zoom|Worker" />
         <option value="package:mine tag~:Zoom" />
+        <option value="package:mine tag~:Zoom|Worker" />
         <option value="package:mine tag~:ListContent" />
         <option value="package:mine ta" />
         <option value="package:mine IoT" />
