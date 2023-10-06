@@ -4,6 +4,7 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine tag~:Zoom" />
+        <option value="package:mine " />
         <option value="package:mine tag~:Zoom|Worker" />
         <option value="package:mine tag~:ListContent" />
         <option value="package:mine ta" />
@@ -13,7 +14,6 @@
         <option value="package:mine tag~:Aoj|BaseBleManager" />
         <option value="package:mine tag~:Aoj" />
         <option value="package:mine" />
-        <option value="package:mine " />
         <option value="package:mine level:error " />
         <option value="package:mine level:warn " />
         <option value="package:mine StartupSyncInitializer" />
