@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag~:ListContent" />
+    <option name="mostRecentlyUsed" value="package:mine tag~:Zoom|Worker" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag~:Zoom|Worker" />
+        <option value="package:mine tag~:Zoom" />
         <option value="package:mine tag~:ListContent" />
         <option value="package:mine ta" />
         <option value="package:mine IoT" />
@@ -21,8 +23,6 @@
         <option value="package:mine 0000a621" />
         <option value="package:mine sendD" />
         <option value="package:mine Gmb2012" />
-        <option value="package:mine Scan" />
-        <option value="package:mine -tag~:AppCenter Scan" />
       </list>
     </option>
   </component>
