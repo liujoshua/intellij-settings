@@ -1,13 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
+        <option value="package:mine  AppCenter max" />
+        <option value="package:mine tag~:System" />
+        <option value="package:mine tag~:KioskApp" />
         <option value="package:mine" />
         <option value="package:mine tag~:Zoom " />
         <option value="package:mine tag~:Zoom UserId" />
         <option value="package:mine tag~:Zoom" />
-        <option value="package:mine " />
         <option value="package:mine tag~:Zoom|Worker" />
         <option value="package:mine tag~:ListContent" />
         <option value="package:mine ta" />
@@ -20,9 +22,6 @@
         <option value="package:mine level:warn " />
         <option value="package:mine StartupSyncInitializer" />
         <option value="package:mine level:warn Initializer" />
-        <option value="package:mine GmbW" />
-        <option value="package:mine ReadFeature" />
-        <option value="package:mine 0000a621" />
       </list>
     </option>
   </component>
