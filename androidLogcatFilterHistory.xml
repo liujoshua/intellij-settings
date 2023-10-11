@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine KnoxContent" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine KnoxContent" />
         <option value="package:mine " />
         <option value="package:mine  AppCenter max" />
         <option value="package:mine tag~:System" />
@@ -21,7 +23,6 @@
         <option value="package:mine level:error " />
         <option value="package:mine level:warn " />
         <option value="package:mine StartupSyncInitializer" />
-        <option value="package:mine level:warn Initializer" />
       </list>
     </option>
   </component>
