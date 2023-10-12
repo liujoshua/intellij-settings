@@ -1,11 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine iperf command" />
+    <option name="mostRecentlyUsed" value="package:mine tag~:Connection|iPerf|IPerf" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag~:Connection|iPerf|IPerf" />
         <option value="package:mine iperf command" />
         <option value="package:mine tablet-a7" />
-        <option value="package:mine tag~:Connection|iPerf|IPerf" />
         <option value="package:mine iperfconfi" />
         <option value="package:mine " />
         <option value="package:mine Client" />
