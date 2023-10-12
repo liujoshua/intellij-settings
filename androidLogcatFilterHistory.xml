@@ -1,13 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine" />
+        <option value="package:mine tablet-a7" />
         <option value="package:mine " />
         <option value="package:mine tag~:Gmb|Ble|ProbeDelegate " />
         <option value="package:mine tag~:Gmb|Ble|ProbeDelegate ProbeDelegate" />
         <option value="package:mine tag~:Gmb|Ble " />
         <option value="package:mine tag~:Gmb|Ble GmbWe" />
-        <option value="package:mine" />
         <option value="package:mine tag~:Gmb|Ble weigh" />
         <option value="package:mine tag~:Gmb|Ble sendD" />
         <option value="package:mine tag~:Gmb|Ble" />
@@ -21,7 +23,6 @@
         <option value="package:mine tag~:System" />
         <option value="package:mine tag~:KioskApp" />
         <option value="package:mine tag~:Zoom " />
-        <option value="package:mine tag~:Zoom UserId" />
       </list>
     </option>
   </component>
