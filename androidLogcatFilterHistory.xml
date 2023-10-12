@@ -1,11 +1,19 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag~:Gmb" />
+    <option name="mostRecentlyUsed" value="package:mine tag~:Gmb|Ble GmbWe" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine tag~:Gmb" />
+        <option value="package:mine tag~:Gmb|Ble GmbWe" />
         <option value="package:mine" />
+        <option value="package:mine tag~:Gmb|Ble " />
+        <option value="package:mine tag~:Gmb|Ble weigh" />
+        <option value="package:mine tag~:Gmb|Ble sendD" />
+        <option value="package:mine tag~:Gmb|Ble" />
+        <option value=" " />
         <option value="package:mine " />
+        <option value="package:mine tag~:Gmb|Ble GmbWeight" />
+        <option value="package:mine TAG~:Gmb" />
+        <option value="package:mine tag~:Gmb" />
         <option value="package:mine level:warn " />
         <option value="package:mine KnoxContent" />
         <option value="package:mine  AppCenter max" />
@@ -15,14 +23,6 @@
         <option value="package:mine tag~:Zoom UserId" />
         <option value="package:mine tag~:Zoom" />
         <option value="package:mine tag~:Zoom|Worker" />
-        <option value="package:mine tag~:ListContent" />
-        <option value="package:mine ta" />
-        <option value="package:mine IoT" />
-        <option value="package:mine tag~:Aoj|BaseBleManager " />
-        <option value="package:mine tag~:Aoj|BaseBleManager invalid" />
-        <option value="package:mine tag~:Aoj|BaseBleManager" />
-        <option value="package:mine tag~:Aoj" />
-        <option value="package:mine level:error " />
       </list>
     </option>
   </component>
