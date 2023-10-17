@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag~:EmmPolicyManager " />
+    <option name="mostRecentlyUsed" value="package:mine joshua" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag~:Gmb|Ble " />
+        <option value="package:mine joshua" />
         <option value="package:mine tag~:EmmPolicyManager " />
         <option value="package:mine WifiPo" />
         <option value="package:mine WiFi" />
@@ -16,13 +18,11 @@
         <option value="package:mine" />
         <option value="package:mine tag~:Gmb|Ble|ProbeDelegate " />
         <option value="package:mine tag~:Gmb|Ble|ProbeDelegate ProbeDelegate" />
-        <option value="package:mine tag~:Gmb|Ble " />
         <option value="package:mine tag~:Gmb|Ble GmbWe" />
         <option value="package:mine tag~:Gmb|Ble weigh" />
         <option value="package:mine tag~:Gmb|Ble sendD" />
         <option value="package:mine tag~:Gmb|Ble" />
         <option value=" " />
-        <option value="package:mine tag~:Gmb|Ble GmbWeight" />
       </list>
     </option>
   </component>
