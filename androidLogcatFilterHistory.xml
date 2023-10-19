@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine joshua" />
+    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag~:Ble|Gbf" />
+        <option value="package:mine " />
+        <option value="package:mine Gbf" />
         <option value="package:mine tag~:Gmb|Ble " />
         <option value="package:mine joshua" />
         <option value="package:mine tag~:EmmPolicyManager " />
@@ -13,7 +16,6 @@
         <option value="package:mine iperf command" />
         <option value="package:mine tablet-a7" />
         <option value="package:mine iperfconfi" />
-        <option value="package:mine " />
         <option value="package:mine Client" />
         <option value="package:mine" />
         <option value="package:mine tag~:Gmb|Ble|ProbeDelegate " />
@@ -21,8 +23,6 @@
         <option value="package:mine tag~:Gmb|Ble GmbWe" />
         <option value="package:mine tag~:Gmb|Ble weigh" />
         <option value="package:mine tag~:Gmb|Ble sendD" />
-        <option value="package:mine tag~:Gmb|Ble" />
-        <option value=" " />
       </list>
     </option>
   </component>
