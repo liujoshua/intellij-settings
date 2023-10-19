@@ -4,17 +4,6 @@
       <PhysicalDevice>
         <key>
           <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="R8YW210A9RW" />
-          </Key>
-        </key>
-        <name value="samsung SM-X200" />
-        <target value="Android 13.0" />
-        <api value="androidversion:33:null:8:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
             <type value="DOMAIN_NAME" />
             <value value="adb-R9ARB01VCLR-OuzqeA._adb-tls-connect._tcp." />
           </Key>
@@ -22,6 +11,17 @@
         <name value="samsung SM-T500" />
         <target value="Android 12.0" />
         <api value="androidversion:31:null:8:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="R8YW210A9RW" />
+          </Key>
+        </key>
+        <name value="samsung SM-X200" />
+        <target value="Android 13.0" />
+        <api value="androidversion:33:null:8:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
