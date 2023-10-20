@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine tag~:Custom" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag~:Custom" />
         <option value="package:mine " />
         <option value="level:error " />
         <option value="package:mine" />
@@ -21,7 +23,6 @@
         <option value="package:mine tag~:Gmb|Ble|ProbeDelegate " />
         <option value="package:mine tag~:Gmb|Ble|ProbeDelegate ProbeDelegate" />
         <option value="package:mine tag~:Gmb|Ble GmbWe" />
-        <option value="package:mine tag~:Gmb|Ble weigh" />
       </list>
     </option>
   </component>
