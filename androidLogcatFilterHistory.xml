@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag~:AliveCor" />
+    <option name="mostRecentlyUsed" value="package:mine level:warn " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine level:warn " />
         <option value="package:mine tag~:AliveCor" />
         <option value="package:mine " />
         <option value="package:mine tag~:AliveCor " />
@@ -12,7 +13,6 @@
         <option value="package:mine AliveCorSdkInitializationWorker" />
         <option value="package:mine AliveCo" />
         <option value="package:mine tag~:Ble|Gbf" />
-        <option value="package:mine level:warn " />
         <option value="package:mine tag~:Custom" />
         <option value="level:error " />
         <option value="package:mine" />
