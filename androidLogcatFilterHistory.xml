@@ -3,6 +3,7 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine " />
+        <option value="package:mine tablet-a7" />
         <option value="package:mine tag~:AliveCor" />
         <option value="package:mine tag~:AliveCorSdkInit" />
         <option value="package:mine tag~:Worker" />
@@ -21,7 +22,6 @@
         <option value="package:mine tag~:Gmb|Ble " />
         <option value="package:mine joshua" />
         <option value="package:mine tag~:EmmPolicyManager " />
-        <option value="package:mine WifiPo" />
       </list>
     </option>
   </component>
