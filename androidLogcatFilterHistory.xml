@@ -3,6 +3,9 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine " />
+        <option value="package:mine Handling" />
+        <option value="package:mine" />
+        <option value="package:mine tag~:Pong" />
         <option value="package:mine tablet-a7" />
         <option value="package:mine tag~:AliveCor" />
         <option value="package:mine tag~:AliveCorSdkInit" />
@@ -17,11 +20,8 @@
         <option value="package:mine tag~:Ble|Gbf" />
         <option value="package:mine tag~:Custom" />
         <option value="level:error " />
-        <option value="package:mine" />
         <option value="package:mine Gbf" />
         <option value="package:mine tag~:Gmb|Ble " />
-        <option value="package:mine joshua" />
-        <option value="package:mine tag~:EmmPolicyManager " />
       </list>
     </option>
   </component>
