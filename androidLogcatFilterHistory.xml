@@ -3,11 +3,11 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine " />
+        <option value="package:mine tag~:AliveCor" />
         <option value="package:mine Handling" />
         <option value="package:mine" />
         <option value="package:mine tag~:Pong" />
         <option value="package:mine tablet-a7" />
-        <option value="package:mine tag~:AliveCor" />
         <option value="package:mine tag~:AliveCorSdkInit" />
         <option value="package:mine tag~:Worker" />
         <option value="package:mine level:warn " />
