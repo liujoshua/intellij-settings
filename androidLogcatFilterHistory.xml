@@ -3,25 +3,25 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine " />
+        <option value="package:mine MainActivi" />
+        <option value="package:mine AppU" />
+        <option value="package:mine AppUp" />
+        <option value="package:mine Received" />
+        <option value="package:mine tag~:MainActivity " />
         <option value="package:mine tag~:MainActivity" />
+        <option value="package:mine" />
+        <option value="package:mine AppUpd" />
+        <option value="package:mine tag~:Main" />
+        <option value="package:mine AppUpdate" />
+        <option value="package:mine update" />
         <option value="package:mine tag~:AliveCor" />
         <option value="package:mine Handling" />
-        <option value="package:mine" />
         <option value="package:mine tag~:Pong" />
         <option value="package:mine tablet-a7" />
         <option value="package:mine tag~:AliveCorSdkInit" />
         <option value="package:mine tag~:Worker" />
         <option value="package:mine level:warn " />
         <option value="package:mine tag~:AliveCor " />
-        <option value="package:mine AliveCor" />
-        <option value="package:mine Delega" />
-        <option value="package:mine AliveCorSdkInit" />
-        <option value="package:mine AliveCorSdkInitializationWorker" />
-        <option value="package:mine AliveCo" />
-        <option value="package:mine tag~:Ble|Gbf" />
-        <option value="package:mine tag~:Custom" />
-        <option value="level:error " />
-        <option value="package:mine Gbf" />
       </list>
     </option>
   </component>
