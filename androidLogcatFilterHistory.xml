@@ -3,6 +3,7 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine " />
+        <option value="package:mine tag~:MainActivity" />
         <option value="package:mine tag~:AliveCor" />
         <option value="package:mine Handling" />
         <option value="package:mine" />
@@ -21,7 +22,6 @@
         <option value="package:mine tag~:Custom" />
         <option value="level:error " />
         <option value="package:mine Gbf" />
-        <option value="package:mine tag~:Gmb|Ble " />
       </list>
     </option>
   </component>
