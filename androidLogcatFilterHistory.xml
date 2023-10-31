@@ -1,14 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine level:warn " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:mine level:warn " />
         <option value="package:mine onAttach" />
         <option value="package:mine CustomMeetingActivity unable" />
         <option value="package:mine CustomMeetingActivity" />
         <option value="package:mine onr" />
-        <option value="package:mine " />
         <option value="package:mine cw0" />
         <option value="package:mine called on" />
         <option value="package:mine" />
