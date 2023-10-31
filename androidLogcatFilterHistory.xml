@@ -1,27 +1,28 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine level:warn " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine level:warn " />
+        <option value="package:mine onAttach" />
+        <option value="package:mine CustomMeetingActivity unable" />
+        <option value="package:mine CustomMeetingActivity" />
+        <option value="package:mine onr" />
         <option value="package:mine " />
+        <option value="package:mine cw0" />
+        <option value="package:mine called on" />
+        <option value="package:mine" />
+        <option value="package:mine OnAttachList" />
+        <option value="package:mine CustomMeeting" />
+        <option value="package:mine button" />
+        <option value="package:mine attached" />
+        <option value="package:mine tag~:CustomMeetingActivity" />
+        <option value="package:mine tag~:CustomMeetingActivity " />
+        <option value="package:mine tag~:CustomMeetingActivity attached" />
+        <option value="package:mine CustomMeeting attach" />
         <option value="package:mine MainActivi" />
         <option value="package:mine AppU" />
         <option value="package:mine AppUp" />
-        <option value="package:mine Received" />
-        <option value="package:mine tag~:MainActivity " />
-        <option value="package:mine tag~:MainActivity" />
-        <option value="package:mine" />
-        <option value="package:mine AppUpd" />
-        <option value="package:mine tag~:Main" />
-        <option value="package:mine AppUpdate" />
-        <option value="package:mine update" />
-        <option value="package:mine tag~:AliveCor" />
-        <option value="package:mine Handling" />
-        <option value="package:mine tag~:Pong" />
-        <option value="package:mine tablet-a7" />
-        <option value="package:mine tag~:AliveCorSdkInit" />
-        <option value="package:mine tag~:Worker" />
-        <option value="package:mine level:warn " />
-        <option value="package:mine tag~:AliveCor " />
       </list>
     </option>
   </component>
