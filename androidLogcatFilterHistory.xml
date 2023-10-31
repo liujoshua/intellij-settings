@@ -1,10 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine" />
+    <option name="mostRecentlyUsed" value="package:mine tag~:Accessibility " />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine" />
+        <option value="package:mine tag~:Accessibility " />
+        <option value="package:mine tag~:Accessibility Node:" />
+        <option value="package:mine tag~:Accessibility Node" />
+        <option value="package:mine tag~:Accessibility DefApp" />
         <option value="package:mine tag~:Accessibility" />
+        <option value="package:mine" />
         <option value="package:mine " />
         <option value="p" />
         <option value="package:mine level:warn " />
@@ -19,10 +23,6 @@
         <option value="package:mine button" />
         <option value="package:mine attached" />
         <option value="package:mine tag~:CustomMeetingActivity" />
-        <option value="package:mine tag~:CustomMeetingActivity " />
-        <option value="package:mine tag~:CustomMeetingActivity attached" />
-        <option value="package:mine CustomMeeting attach" />
-        <option value="package:mine MainActivi" />
       </list>
     </option>
   </component>
