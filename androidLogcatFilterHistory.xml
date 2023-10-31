@@ -1,8 +1,8 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag~:Access message~:Kiosk|switch" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:mine tag~:Access message~:Kiosk|switch" />
         <option value="package:mine tag~:Access " />
         <option value="package:mine tag~:Access switch_widget" />
@@ -17,7 +17,6 @@
         <option value="package:mine tag~:Access Connections" />
         <option value="package:mine tag~:Access Upward" />
         <option value="package:mine tag~:Access EventType" />
-        <option value="package:mine " />
         <option value="package:mine tag~:Accessibility" />
         <option value="package:mine tag~:Accessibility " />
         <option value="package:mine tag~:Accessibility Node:" />
