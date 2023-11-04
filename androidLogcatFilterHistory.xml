@@ -1,11 +1,17 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tablet-a7" />
+    <option name="mostRecentlyUsed" value="package:mine level:info " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine level:info " />
+        <option value="package:mine " />
+        <option value="package:mine onAccess " />
+        <option value="package:mine onAccess" />
+        <option value="package:mine CLICK" />
+        <option value="package:mine level:error " />
+        <option value="package:mine" />
         <option value="package:mine tablet-a7" />
         <option value="package:mine level:warn " />
-        <option value="package:mine " />
         <option value="package:mine WiFi network found Alohamora " />
         <option value="package:mine WiFi network found Alohamora" />
         <option value="package:mine WiFi network" />
@@ -17,12 +23,6 @@
         <option value="package:mine tag~:Access AdminApp" />
         <option value="package:mine tag~:Access A" />
         <option value="package:mine tag~:Access defApps action" />
-        <option value="package:mine tag~:Access appsWindow" />
-        <option value="package:mine tag~:Access DefApps" />
-        <option value="package:mine tag~:Access Title=Apps" />
-        <option value="package:mine tag~:Access General" />
-        <option value="package:mine tag~:Access Connections" />
-        <option value="package:mine tag~:Access Upward" />
       </list>
     </option>
   </component>
