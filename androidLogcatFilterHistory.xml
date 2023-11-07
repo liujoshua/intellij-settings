@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine level:warn " />
+    <option name="mostRecentlyUsed" value="package:mine level:warn" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine level:warn" />
         <option value="package:mine level:warn " />
         <option value="package:mine StorageException" />
         <option value="package:mine level:error " />
@@ -22,7 +23,6 @@
         <option value="package:mine WiFi networks" />
         <option value="package:mine tag~:Access message~:Kiosk|switch" />
         <option value="package:mine tag~:Access " />
-        <option value="package:mine tag~:Access switch_widget" />
       </list>
     </option>
   </component>
