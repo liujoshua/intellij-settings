@@ -10,6 +10,10 @@
     <entry key="editor.minimap.enabled" value="true" />
     <entry key="rider.enable.designer.winForms" value="true" />
     <entry key="async.project.view.collapse.tree.path.recursively" value="false" />
+    <entry key="ide.editor.tab.selection.animation" value="true" />
+    <entry key="ide.new.editor.tabs.vertical.borders" value="true" />
+    <entry key="editor.focus.mode.color.light" value="6a737d" />
+    <entry key="editor.focus.mode.color.dark" value="6a737d" />
     <entry key="ide.tree.collapse.recursively" value="false" />
   </component>
   <component name="StatusBar">
