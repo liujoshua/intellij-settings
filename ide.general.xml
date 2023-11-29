@@ -1,5 +1,6 @@
 <application>
   <component name="GeneralSettings">
+    <option name="showTipsOnStartup" value="true" />
     <option name="confirmExit" value="false" />
   </component>
   <component name="Registry">
@@ -14,6 +15,7 @@
     <entry key="ide.new.editor.tabs.vertical.borders" value="true" />
     <entry key="editor.focus.mode.color.light" value="6a737d" />
     <entry key="editor.focus.mode.color.dark" value="6a737d" />
+    <entry key="ide.tree.collapse.recursively" value="false" />
   </component>
   <component name="StatusBar">
     <option name="widgets">
