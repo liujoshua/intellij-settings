@@ -1,8 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine gl-sft" />
+    <option name="mostRecentlyUsed" value="package:mine onCapabilitiesChanged frequencey" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine onCapabilitiesChanged frequencey" />
+        <option value="package:mine onCapabilitiesChanged" />
+        <option value="package:mine Alohamora" />
+        <option value="package:mine wifi configured Wi-Fi Alohamora" />
+        <option value="package:mine wifi configured" />
+        <option value="package:mine psk GL-SFT12" />
         <option value="package:mine gl-sft" />
         <option value="package:mine psk Alohamora 360" />
         <option value="package:mine psk" />
@@ -17,12 +23,6 @@
         <option value="package:mine level:error " />
         <option value="package:mine level:info level:error " />
         <option value="package:mine level:info level:warn " />
-        <option value="package:mine level:info " />
-        <option value="package:mine level:info tag~:Acces" />
-        <option value="package:mine onAccess " />
-        <option value="package:mine onAccess" />
-        <option value="package:mine CLICK" />
-        <option value="package:mine tablet-a7" />
       </list>
     </option>
   </component>
