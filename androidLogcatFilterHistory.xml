@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine is:crash " />
+    <option name="mostRecentlyUsed" value="package:mine" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine" />
         <option value="package:mine is:crash " />
         <option value="package:mine " />
         <option value="package:mine level:warn" />
@@ -16,7 +17,6 @@
         <option value="package:mine onAccess " />
         <option value="package:mine onAccess" />
         <option value="package:mine CLICK" />
-        <option value="package:mine" />
         <option value="package:mine tablet-a7" />
         <option value="package:mine WiFi network found Alohamora " />
         <option value="package:mine WiFi network found Alohamora" />
