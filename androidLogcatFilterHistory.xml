@@ -1,13 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine configured Nomansland" />
+    <option name="mostRecentlyUsed" value="package:mine psk Alohamora 360" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine psk Alohamora 360" />
+        <option value="package:mine psk" />
+        <option value="package:mine " />
         <option value="package:mine configured Nomansland" />
         <option value="package:mine configured" />
         <option value="package:mine" />
         <option value="package:mine is:crash " />
-        <option value="package:mine " />
         <option value="package:mine level:warn" />
         <option value="package:mine level:warn " />
         <option value="package:mine StorageException" />
@@ -21,8 +23,6 @@
         <option value="package:mine CLICK" />
         <option value="package:mine tablet-a7" />
         <option value="package:mine WiFi network found Alohamora " />
-        <option value="package:mine WiFi network found Alohamora" />
-        <option value="package:mine WiFi network" />
       </list>
     </option>
   </component>
