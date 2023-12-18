@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine" />
+    <option name="mostRecentlyUsed" value="package:mine configured Nomansland" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine configured Nomansland" />
+        <option value="package:mine configured" />
         <option value="package:mine" />
         <option value="package:mine is:crash " />
         <option value="package:mine " />
@@ -21,8 +23,6 @@
         <option value="package:mine WiFi network found Alohamora " />
         <option value="package:mine WiFi network found Alohamora" />
         <option value="package:mine WiFi network" />
-        <option value="package:mine WiFi networks" />
-        <option value="package:mine tag~:Access message~:Kiosk|switch" />
       </list>
     </option>
   </component>
