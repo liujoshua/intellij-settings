@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine onCapa" />
+    <option name="mostRecentlyUsed" value="package:mine frequ" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine frequ" />
         <option value="package:mine onCapa" />
         <option value="package:mine wpa" />
         <option value="package:mine " />
@@ -22,7 +23,6 @@
         <option value="package:mine configured Nomansland" />
         <option value="package:mine configured" />
         <option value="package:mine" />
-        <option value="package:mine is:crash " />
       </list>
     </option>
   </component>
