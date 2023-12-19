@@ -1,10 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine network found" />
+    <option name="mostRecentlyUsed" value="package:mine wpa" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine network found" />
+        <option value="package:mine wpa" />
         <option value="package:mine " />
+        <option value="package:mine joining" />
+        <option value="package:mine NoMansLand" />
+        <option value="package:mine network found" />
         <option value="package:mine wifi network fou" />
         <option value="package:mine onCapabilitiesChanged frequencey" />
         <option value="package:mine onCapabilitiesChanged" />
@@ -20,9 +23,6 @@
         <option value="package:mine" />
         <option value="package:mine is:crash " />
         <option value="package:mine level:warn" />
-        <option value="package:mine level:warn " />
-        <option value="package:mine StorageException" />
-        <option value="package:mine level:error " />
       </list>
     </option>
   </component>
