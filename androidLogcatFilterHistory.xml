@@ -1,12 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine frequ" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
+        <option value="package:mine kCallback$1" />
+        <option value="package:mine tag~:kCallback" />
         <option value="package:mine frequ" />
         <option value="package:mine onCapa" />
         <option value="package:mine wpa" />
-        <option value="package:mine " />
         <option value="package:mine joining" />
         <option value="package:mine NoMansLand" />
         <option value="package:mine network found" />
@@ -21,8 +22,6 @@
         <option value="package:mine psk Alohamora 360" />
         <option value="package:mine psk" />
         <option value="package:mine configured Nomansland" />
-        <option value="package:mine configured" />
-        <option value="package:mine" />
       </list>
     </option>
   </component>
