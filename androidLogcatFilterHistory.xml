@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag~:WifiSearchManager  " />
+    <option name="mostRecentlyUsed" value="package:mine tag~:StrengthImpl  " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag~:StrengthImpl  " />
         <option value="package:mine tag~:WifiSearchManager  " />
         <option value="package:mine tag~:WifiStr " />
         <option value="package:mine tag~:WifiStr network id" />
@@ -22,7 +23,6 @@
         <option value="package:mine wpa" />
         <option value="package:mine joining" />
         <option value="package:mine NoMansLand" />
-        <option value="package:mine network found" />
       </list>
     </option>
   </component>
