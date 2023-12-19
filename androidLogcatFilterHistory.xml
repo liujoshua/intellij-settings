@@ -1,8 +1,8 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag~:StrengthImpl  " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:mine tag~:StrengthImpl  " />
         <option value="package:mine tag~:WifiSearchManager  " />
         <option value="package:mine tag~:WifiStr " />
@@ -15,7 +15,6 @@
         <option value="package:mine tag~:Connect added" />
         <option value="package:mine tag~:WifiSearchManager configured" />
         <option value="package:mine Configured networks" />
-        <option value="package:mine " />
         <option value="package:mine onCapa" />
         <option value="package:mine kCallback$1" />
         <option value="package:mine tag~:kCallback" />
