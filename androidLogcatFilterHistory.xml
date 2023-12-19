@@ -1,27 +1,28 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine tag~:WifiSearchManager  " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag~:WifiSearchManager  " />
+        <option value="package:mine tag~:WifiStr " />
+        <option value="package:mine tag~:WifiStr network id" />
+        <option value="package:mine tag~:WifiSearchManager Remove " />
+        <option value="package:mine tag~:WifiSearchManager Alohamora " />
+        <option value="package:mine tag~:WifiSearchManager " />
+        <option value="package:mine tag~:WifiStr" />
+        <option value="package:mine tag~:Connecti" />
+        <option value="package:mine tag~:Connect added" />
+        <option value="package:mine tag~:WifiSearchManager configured" />
+        <option value="package:mine Configured networks" />
         <option value="package:mine " />
+        <option value="package:mine onCapa" />
         <option value="package:mine kCallback$1" />
         <option value="package:mine tag~:kCallback" />
         <option value="package:mine frequ" />
-        <option value="package:mine onCapa" />
         <option value="package:mine wpa" />
         <option value="package:mine joining" />
         <option value="package:mine NoMansLand" />
         <option value="package:mine network found" />
-        <option value="package:mine wifi network fou" />
-        <option value="package:mine onCapabilitiesChanged frequencey" />
-        <option value="package:mine onCapabilitiesChanged" />
-        <option value="package:mine Alohamora" />
-        <option value="package:mine wifi configured Wi-Fi Alohamora" />
-        <option value="package:mine wifi configured" />
-        <option value="package:mine psk GL-SFT12" />
-        <option value="package:mine gl-sft" />
-        <option value="package:mine psk Alohamora 360" />
-        <option value="package:mine psk" />
-        <option value="package:mine configured Nomansland" />
       </list>
     </option>
   </component>
