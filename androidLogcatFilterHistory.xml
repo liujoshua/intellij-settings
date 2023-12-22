@@ -3,6 +3,7 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine " />
+        <option value="package:mine SignalLe" />
         <option value="package:mine tag~:StrengthImpl  " />
         <option value="package:mine tag~:WifiSearchManager  " />
         <option value="package:mine tag~:WifiStr " />
@@ -21,7 +22,6 @@
         <option value="package:mine frequ" />
         <option value="package:mine wpa" />
         <option value="package:mine joining" />
-        <option value="package:mine NoMansLand" />
       </list>
     </option>
   </component>
