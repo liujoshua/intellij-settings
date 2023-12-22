@@ -4,6 +4,7 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine level:verbose " />
+        <option value="package:mine " />
         <option value="package:mine tag~:NetworkCallback|Wifi message~:ssid" />
         <option value="package:mine tag~:NetworkCallback|Wifi " />
         <option value="package:mine tag~:NetworkCallback|Wifi Alohamora" />
@@ -13,7 +14,6 @@
         <option value="package:mine tag~:NetworkCallback" />
         <option value="package:mine network id 151" />
         <option value="package:mine SignalLe" />
-        <option value="package:mine " />
         <option value="package:mine tag~:StrengthImpl  " />
         <option value="package:mine tag~:WifiSearchManager  " />
         <option value="package:mine tag~:WifiStr " />
