@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag~:NetworkCallback|Wifi message~:ssid" />
+    <option name="mostRecentlyUsed" value="package:mine level:verbose " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine level:verbose " />
         <option value="package:mine tag~:NetworkCallback|Wifi message~:ssid" />
         <option value="package:mine tag~:NetworkCallback|Wifi " />
         <option value="package:mine tag~:NetworkCallback|Wifi Alohamora" />
@@ -22,7 +23,6 @@
         <option value="package:mine tag~:WifiSearchManager " />
         <option value="package:mine tag~:WifiStr" />
         <option value="package:mine tag~:Connecti" />
-        <option value="package:mine tag~:Connect added" />
       </list>
     </option>
   </component>
