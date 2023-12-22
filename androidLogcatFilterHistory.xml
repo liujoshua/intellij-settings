@@ -1,9 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag~:NetworkCallback" />
+    <option name="mostRecentlyUsed" value="package:mine tag~:NetworkCallback|Wifi " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag~:NetworkCallback|Wifi " />
+        <option value="package:mine tag~:NetworkCallback|Wifi Alohamora" />
+        <option value="package:mine tag~:NetworkCallback|Wifi 86" />
+        <option value="package:mine tag~:NetworkCallback|Wifi id 83" />
+        <option value="package:mine tag~:NetworkCallback|Wifi" />
         <option value="package:mine tag~:NetworkCallback" />
+        <option value="package:mine network id 151" />
         <option value="package:mine SignalLe" />
         <option value="package:mine " />
         <option value="package:mine tag~:StrengthImpl  " />
@@ -17,12 +23,6 @@
         <option value="package:mine tag~:Connecti" />
         <option value="package:mine tag~:Connect added" />
         <option value="package:mine tag~:WifiSearchManager configured" />
-        <option value="package:mine Configured networks" />
-        <option value="package:mine onCapa" />
-        <option value="package:mine kCallback$1" />
-        <option value="package:mine tag~:kCallback" />
-        <option value="package:mine frequ" />
-        <option value="package:mine wpa" />
       </list>
     </option>
   </component>
