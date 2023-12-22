@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine message~:WifiInfo|Collected" />
+    <option name="mostRecentlyUsed" value="package:mine XWIFI " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine XWIFI " />
         <option value="package:mine message~:WifiInfo|Collected" />
         <option value="package:mine WifiInfo" />
         <option value="package:mine Collected network" />
@@ -22,7 +23,6 @@
         <option value="package:mine tag~:WifiStr " />
         <option value="package:mine tag~:WifiStr network id" />
         <option value="package:mine tag~:WifiSearchManager Remove " />
-        <option value="package:mine tag~:WifiSearchManager Alohamora " />
       </list>
     </option>
   </component>
