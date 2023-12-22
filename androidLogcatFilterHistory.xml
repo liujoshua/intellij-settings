@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine SignalLe" />
+    <option name="mostRecentlyUsed" value="package:mine tag~:NetworkCallback" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag~:NetworkCallback" />
         <option value="package:mine SignalLe" />
         <option value="package:mine " />
         <option value="package:mine tag~:StrengthImpl  " />
@@ -22,7 +23,6 @@
         <option value="package:mine tag~:kCallback" />
         <option value="package:mine frequ" />
         <option value="package:mine wpa" />
-        <option value="package:mine joining" />
       </list>
     </option>
   </component>
