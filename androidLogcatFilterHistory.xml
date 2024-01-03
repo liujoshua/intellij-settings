@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine  " />
+    <option name="mostRecentlyUsed" value="package:mine  AppUpdateManager" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine  AppUpdateManager" />
         <option value="package:mine  " />
         <option value="package:mine  PlayCore" />
         <option value="package:mine XWIFI " />
@@ -22,7 +23,6 @@
         <option value="package:mine SignalLe" />
         <option value="package:mine tag~:StrengthImpl  " />
         <option value="package:mine tag~:WifiSearchManager  " />
-        <option value="package:mine tag~:WifiStr " />
       </list>
     </option>
   </component>
