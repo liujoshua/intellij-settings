@@ -1,10 +1,28 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
+    <option name="customScope" value="Project Source Files" />
+    <option name="defaultScopeName" value="Project Source Files" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="SEARCH_SCOPE" value="Project Source Files" />
     <mask>*.css</mask>
     <mask>*.html</mask>
+    <mask>*.cs</mask>
+    <mask>*.gra</mask>
+    <mask>*.gr</mask>
+    <mask>build.gradle</mask>
+    <mask>*.tf</mask>
+    <mask>*.gradle*</mask>
+    <mask>*Module*</mask>
+    <mask>*.gradle.kts</mask>
+    <mask>*Test.kt</mask>
+    <mask>*.http</mask>
+    <mask>*.toml</mask>
+    <mask>*UseCase.kt</mask>
+    <mask>AndroidMan*</mask>
     <mask>*.xml</mask>
-    <mask>*.jsp</mask>
-    <mask>*.properties</mask>
     <mask>*.java</mask>
+    <mask>*.kt</mask>
+    <mask>*.kts</mask>
   </component>
 </application>

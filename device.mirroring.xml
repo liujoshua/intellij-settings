@@ -1,0 +1,11 @@
+<application>
+  <component name="DeviceMirroringSettings">
+    <option name="confirmationDialogShown" value="true" />
+    <option name="deviceMirroringEnabled" value="true" />
+  </component>
+  <component name="DeviceMirroringSettingsV2">
+    <option name="activateOnAppLaunch" value="true" />
+    <option name="activateOnConnection" value="true" />
+    <option name="confirmationDialogShown" value="true" />
+  </component>
+</application>
