@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine  " />
+    <option name="mostRecentlyUsed" value="package:mine  onboarding" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine  onboarding" />
+        <option value="package:mine  tag~:Onboard" />
         <option value="package:mine  " />
         <option value="package:mine  message~:locking|onboardingCompleted|patientProfileFlow|isLocked" />
         <option value="package:mine  message~:locking|onboardingCompleted|patientProfileFlow" />
@@ -21,8 +23,6 @@
         <option value="package:mine tag~:NetworkCallback|Wifi " />
         <option value="package:mine tag~:NetworkCallback|Wifi Alohamora" />
         <option value="package:mine tag~:NetworkCallback|Wifi 86" />
-        <option value="package:mine tag~:NetworkCallback|Wifi id 83" />
-        <option value="package:mine tag~:NetworkCallback|Wifi" />
       </list>
     </option>
   </component>
