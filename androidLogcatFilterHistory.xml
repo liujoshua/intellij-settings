@@ -1,10 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine  AppUpdateManager" />
+    <option name="mostRecentlyUsed" value="package:mine  " />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine  AppUpdateManager" />
         <option value="package:mine  " />
+        <option value="package:mine  message~:locking|onboardingCompleted|patientProfileFlow|isLocked" />
+        <option value="package:mine  message~:locking|onboardingCompleted|patientProfileFlow" />
+        <option value="package:mine  message~:locking|onboardingCompleted" />
+        <option value="package:mine  message~:locking|" />
+        <option value="package:mine  onboardingCompletedLiveData" />
+        <option value="package:mine  AppUpdateManager" />
         <option value="package:mine  PlayCore" />
         <option value="package:mine XWIFI " />
         <option value="package:mine message~:WifiInfo|Collected" />
@@ -18,11 +23,6 @@
         <option value="package:mine tag~:NetworkCallback|Wifi 86" />
         <option value="package:mine tag~:NetworkCallback|Wifi id 83" />
         <option value="package:mine tag~:NetworkCallback|Wifi" />
-        <option value="package:mine tag~:NetworkCallback" />
-        <option value="package:mine network id 151" />
-        <option value="package:mine SignalLe" />
-        <option value="package:mine tag~:StrengthImpl  " />
-        <option value="package:mine tag~:WifiSearchManager  " />
       </list>
     </option>
   </component>
