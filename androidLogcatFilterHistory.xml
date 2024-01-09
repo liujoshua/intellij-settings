@@ -1,12 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine  message~:onboard|lock" />
+    <option name="mostRecentlyUsed" value="package:mine  " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine  " />
         <option value="package:mine  message~:onboard|lock" />
         <option value="package:mine  onboarding" />
         <option value="package:mine  tag~:Onboard" />
-        <option value="package:mine  " />
         <option value="package:mine  message~:locking|onboardingCompleted|patientProfileFlow|isLocked" />
         <option value="package:mine  message~:locking|onboardingCompleted|patientProfileFlow" />
         <option value="package:mine  message~:locking|onboardingCompleted" />
