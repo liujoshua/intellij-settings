@@ -17,10 +17,10 @@
     <mask>*.toml</mask>
     <mask>*UseCase.kt</mask>
     <mask>AndroidMan*</mask>
-    <mask>*.xml</mask>
     <mask>*.java</mask>
     <mask>*.kts</mask>
     <mask>*.kt</mask>
     <mask>*Test.kt</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
