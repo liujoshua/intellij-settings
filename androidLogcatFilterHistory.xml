@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine  " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
+        <option value="package:mine level:warn " />
         <option value="package:mine  " />
         <option value="package:mine  message~:onboard|lock" />
         <option value="package:mine  onboarding" />
@@ -19,10 +20,8 @@
         <option value="package:mine WifiInfo" />
         <option value="package:mine Collected network" />
         <option value="package:mine level:verbose " />
-        <option value="package:mine " />
         <option value="package:mine tag~:NetworkCallback|Wifi message~:ssid" />
         <option value="package:mine tag~:NetworkCallback|Wifi " />
-        <option value="package:mine tag~:NetworkCallback|Wifi Alohamora" />
       </list>
     </option>
   </component>
