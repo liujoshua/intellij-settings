@@ -1,11 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag~:Device|Ble" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
+        <option value="package:mine tag~:BLE|Bluetooth|Manager " />
+        <option value="package:mine tag~:BLE|Bluetooth|Manager BaseBleManager" />
+        <option value="package:mine tag~:BLE|Bluetooth|Manager" />
         <option value="package:mine tag~:Device|Ble" />
         <option value="package:mine tag~:Device" />
-        <option value="package:mine " />
         <option value="package:mine level:error " />
         <option value="package:mine level:warn " />
         <option value="package:mine  " />
@@ -20,9 +22,6 @@
         <option value="package:mine  AppUpdateManager" />
         <option value="package:mine  PlayCore" />
         <option value="package:mine XWIFI " />
-        <option value="package:mine message~:WifiInfo|Collected" />
-        <option value="package:mine WifiInfo" />
-        <option value="package:mine Collected network" />
       </list>
     </option>
   </component>
