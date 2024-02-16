@@ -1,28 +1,28 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag~:BLE|Manager|Bluetooth" />
+    <option name="mostRecentlyUsed" value="package:com.ansiblehealth.kiosk.staging" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine tag~:BLE|Manager|Bluetooth" />
+        <option value="package:com.ansiblehealth.kiosk.staging" />
+        <option value="package:com.ansiblehealth.kiosk.staging " />
+        <option value="package:com.ansiblehealth.kiosk.staging  " />
+        <option value="package:mine  tag~:Device|GBF" />
+        <option value="package:mine  tag~:Device" />
+        <option value="package:mine tag~:BLE|Manager|Bluetooth|Delegate|Device|heartbeat" />
         <option value="package:mine " />
+        <option value="package:mine tag~:BLE|Manager|Bluetooth|Delegate|Device " />
+        <option value="package:mine tag~:DeviceDataSyncer|heartbeat|Manager" />
+        <option value="package:mine tag~:DeviceDataSyncer|heartbeat|Manager45:" />
+        <option value="package:mine tag~:DeviceDataSyncer|heartbeat" />
+        <option value="package:mine Device sync" />
+        <option value="package:mine tag~:BLE|Manager|Bluetooth|Delegate|Device trySync" />
+        <option value="package:mine try" />
+        <option value="package:mine" />
         <option value="package:mine tag~:BLE|Bluetooth|Manager " />
-        <option value="package:mine tag~:BLE|Bluetooth|Manager BaseBleManager" />
-        <option value="package:mine tag~:BLE|Bluetooth|Manager" />
-        <option value="package:mine tag~:Device|Ble" />
-        <option value="package:mine tag~:Device" />
-        <option value="package:mine level:error " />
-        <option value="package:mine level:warn " />
-        <option value="package:mine  " />
-        <option value="package:mine  message~:onboard|lock" />
-        <option value="package:mine  onboarding" />
-        <option value="package:mine  tag~:Onboard" />
-        <option value="package:mine  message~:locking|onboardingCompleted|patientProfileFlow|isLocked" />
-        <option value="package:mine  message~:locking|onboardingCompleted|patientProfileFlow" />
-        <option value="package:mine  message~:locking|onboardingCompleted" />
-        <option value="package:mine  message~:locking|" />
-        <option value="package:mine  onboardingCompletedLiveData" />
-        <option value="package:mine  AppUpdateManager" />
-        <option value="package:mine  PlayCore" />
+        <option value="package:mine tag~:BLE|Manager|Bluetooth|Delegate " />
+        <option value="package:mine tag~:BLE|Manager|Bluetooth|Delegate BaseBleM" />
+        <option value="package:mine tag~:Gmb" />
+        <option value="package:mine tag~:BLE|Manager|Bluetooth|Delegate" />
       </list>
     </option>
   </component>
