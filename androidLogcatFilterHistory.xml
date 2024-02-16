@@ -1,6 +1,6 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.ansiblehealth.kiosk.staging" />
+    <option name="mostRecentlyUsed" value="(package:com.ansiblehealth.kiosk.develop package:com.ansiblehealth.kiosk.develop.test package:com.ansiblehealth.kiosk.staging package:com.ansiblehealth.kiosk.staging.test package:com.ansiblehealth.kiosk package:com.ansiblehealth.kiosk.test package:com.ansiblehealth.ble.test package:com.ansiblehealth.kiosk.common.test package:com.ansiblehealth.kiosk.data.test package:com.ansiblehealth.database.test package:com.ansiblehealth.kiosk.datastore.test package:com.ansiblehealth.kiosk.core.domain.test package:com.ansiblehealth.kiosk.core.iothub.test package:com.ansiblehealth.kiosk.network.test package:com.ansiblehealth.kiosk.ui.test package:com.ansiblehealth.kiosk.core.work.test package:com.ansiblehealth.kiosk.feature.alivecor.test package:com.ansiblehealth.kiosk.feature.entry.test package:com.ansiblehealth.kiosk.feature.rpm.test package:com.ansiblehealth.kiosk.feature.surveys.test package:com.ansiblehealth.kiosk.feature.vitalsign.test) tag~:BLE|Manager|Bluetooth|Delegate|Device|heartbeat" />
     <option name="nonFavorites">
       <list>
         <option value="package:com.ansiblehealth.kiosk.staging" />
