@@ -1,28 +1,8 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag~:BLE|Manager|Bluetooth|Delegate|Device|heartbeat -tag~:Patient|Upcoming|Signal|Input " />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine tag~:BLE|Manager|Bluetooth|Delegate|Device|heartbeat -tag~:Patient|Upcoming|Signal|Input " />
-        <option value="package:mine tag~:BLE|Manager|Bluetooth|Delegate|Device|heartbeat -tag~:Patient|Upcoming|Signal|Input GmbW" />
-        <option value="package:mine tag~:BLE|Manager|Bluetooth|Delegate|Device|heartbeat -tag~:Patient|Upcoming|Signal|Input" />
-        <option value="package:mine tag~:BLE|Manager|Bluetooth|Delegate|Device|heartbeat " />
-        <option value="package:mine tag~:BLE|Manager|Bluetooth|Delegate|Device|heartbeat kg" />
-        <option value="package:mine tag~:BLE|Manager|Bluetooth|Delegate|Device|heartbeat manufacturerSpecificData" />
-        <option value="package:mine tag~:BLE|Manager|Bluetooth|Delegate|Device|heartbeat sendRegistration" />
-        <option value="package:mine tag~:BLE|Manager|Bluetooth|Delegate|Device|heartbeat manufac" />
-        <option value="package:mine tag~:BLE|Manager|Bluetooth|Delegate|Device|heartbeat LX" />
-        <option value="package:mine tag~:BLE|Manager|Bluetooth|Delegate|Device|heartbeat manufa" />
-        <option value="package:mine  A6" />
-        <option value="package:mine tag~:BLE|Manager|Bluetooth|Delegate|Device|heartbeat  " />
         <option value="package:mine " />
-        <option value="package:mine manufacturerSpecificData" />
-        <option value="package:mine manufacturer" />
-        <option value="package:mine tag~:BLE|Manager|Bluetooth|Delegate|Device|heartbeat  comm" />
-        <option value="package:mine tag~:BLE|Manager|Bluetooth|Delegate|Device|heartbeat Nordic" />
-        <option value="package:mine tag~:BLE|Manager|Bluetooth|Delegate|Device|heartbeat" />
-        <option value="package:com.ansiblehealth.kiosk.staging" />
-        <option value="package:com.ansiblehealth.kiosk.staging " />
       </list>
     </option>
   </component>
