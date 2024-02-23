@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.ansiblehealth.kiosk.develop portal" />
+    <option name="mostRecentlyUsed" value="package:com.ansiblehealth.kiosk.develop bodywei" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.ansiblehealth.kiosk.develop bodywei" />
         <option value="package:com.ansiblehealth.kiosk.develop portal" />
         <option value="package:com.ansiblehealth.kiosk.develop upcoming" />
         <option value="package:com.ansiblehealth.kiosk.develop ansiblepatients" />
