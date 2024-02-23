@@ -1,8 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.ansiblehealth.kiosk.develop " />
+    <option name="mostRecentlyUsed" value="package:com.ansiblehealth.kiosk.develop portal" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.ansiblehealth.kiosk.develop portal" />
+        <option value="package:com.ansiblehealth.kiosk.develop upcoming" />
+        <option value="package:com.ansiblehealth.kiosk.develop ansiblepatients" />
+        <option value="package:com.ansiblehealth.kiosk.develop joshua.liu@ansiblepatients.com" />
         <option value="package:com.ansiblehealth.kiosk.develop " />
         <option value="package:com.ansiblehealth.kiosk.develop immutab" />
         <option value="package:mine Method" />
