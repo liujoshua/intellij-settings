@@ -1,14 +1,17 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.ansiblehealth.kiosk.develop bodywei" />
+    <option name="mostRecentlyUsed" value="package:com.ansiblehealth.kiosk.develop Reading" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.ansiblehealth.kiosk.develop Reading" />
+        <option value="package:com.ansiblehealth.kiosk.develop tag~:Ble|Gmb|Outbound" />
+        <option value="package:com.ansiblehealth.kiosk.develop tag~:Ble|Gmb" />
+        <option value="package:com.ansiblehealth.kiosk.develop " />
         <option value="package:com.ansiblehealth.kiosk.develop bodywei" />
         <option value="package:com.ansiblehealth.kiosk.develop portal" />
         <option value="package:com.ansiblehealth.kiosk.develop upcoming" />
         <option value="package:com.ansiblehealth.kiosk.develop ansiblepatients" />
         <option value="package:com.ansiblehealth.kiosk.develop joshua.liu@ansiblepatients.com" />
-        <option value="package:com.ansiblehealth.kiosk.develop " />
         <option value="package:com.ansiblehealth.kiosk.develop immutab" />
         <option value="package:mine Method" />
         <option value="package:mine " />
@@ -20,9 +23,6 @@
         <option value="package:com.ansiblehealth.kiosk.develop tag~:Upload|Azure" />
         <option value="package:com.ansiblehealth.kiosk.develop tag~:Upload " />
         <option value="package:com.ansiblehealth.kiosk.develop tag~:Upload" />
-        <option value="package:com.ansiblehealth.kiosk.develop tag~:" />
-        <option value="package:com.ansiblehealth.kiosk.develop Upl" />
-        <option value="package:com.ansiblehealth.kiosk.develop Uplo" />
       </list>
     </option>
   </component>
