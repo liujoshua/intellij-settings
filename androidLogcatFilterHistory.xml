@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.ansiblehealth.kiosk.develop tag~:Ble|Gmb " />
+    <option name="mostRecentlyUsed" value="package:com.ansiblehealth.kiosk.develop tag~:Log" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.ansiblehealth.kiosk.develop tag~:Log" />
+        <option value="package:com.ansiblehealth.kiosk.develop" />
         <option value="package:com.ansiblehealth.kiosk.develop tag~:Ble|Gmb " />
         <option value="package:com.ansiblehealth.kiosk.develop Reading" />
         <option value="package:com.ansiblehealth.kiosk.develop tag~:Ble|Gmb|Outbound" />
@@ -21,8 +23,6 @@
         <option value="package:com.ansiblehealth.kiosk.develop tag~:Method|Upload|Azure " />
         <option value="package:com.ansiblehealth.kiosk.develop tag~:Method|Upload|Azure" />
         <option value="package:com.ansiblehealth.kiosk.develop Upload" />
-        <option value="package:com.ansiblehealth.kiosk.develop tag~:Upload|Azure" />
-        <option value="package:com.ansiblehealth.kiosk.develop tag~:Upload " />
       </list>
     </option>
   </component>
