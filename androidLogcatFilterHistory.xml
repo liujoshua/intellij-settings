@@ -1,15 +1,20 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.ansiblehealth.kiosk.develop tag~:Log" />
+    <option name="mostRecentlyUsed" value="package:com.ansiblehealth.kiosk.develop Uploading" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.ansiblehealth.kiosk.develop Uploading" />
+        <option value="package:com.ansiblehealth.kiosk.develop tablet-a7" />
+        <option value="package:com.ansiblehealth.kiosk.develop " />
+        <option value="package:com.ansiblehealth.kiosk.develop tag~:Uploading" />
+        <option value="package:com.ansiblehealth.kiosk.develop tag~:Upload" />
+        <option value="package:com.ansiblehealth.kiosk.develop tag~:UploadL" />
         <option value="package:com.ansiblehealth.kiosk.develop tag~:Log" />
         <option value="package:com.ansiblehealth.kiosk.develop" />
         <option value="package:com.ansiblehealth.kiosk.develop tag~:Ble|Gmb " />
         <option value="package:com.ansiblehealth.kiosk.develop Reading" />
         <option value="package:com.ansiblehealth.kiosk.develop tag~:Ble|Gmb|Outbound" />
         <option value="package:com.ansiblehealth.kiosk.develop tag~:Ble|Gmb" />
-        <option value="package:com.ansiblehealth.kiosk.develop " />
         <option value="package:com.ansiblehealth.kiosk.develop bodywei" />
         <option value="package:com.ansiblehealth.kiosk.develop portal" />
         <option value="package:com.ansiblehealth.kiosk.develop upcoming" />
@@ -18,11 +23,6 @@
         <option value="package:com.ansiblehealth.kiosk.develop immutab" />
         <option value="package:mine Method" />
         <option value="package:mine " />
-        <option value="package:mine tag~:BLE|Manager|Bluetooth|Delegate|Device|heartbeat -tag~:Patient|Upcoming|Signal|Input " />
-        <option value="package:com.ansiblehealth.kiosk.develop tablet-a7" />
-        <option value="package:com.ansiblehealth.kiosk.develop tag~:Method|Upload|Azure " />
-        <option value="package:com.ansiblehealth.kiosk.develop tag~:Method|Upload|Azure" />
-        <option value="package:com.ansiblehealth.kiosk.develop Upload" />
       </list>
     </option>
   </component>
