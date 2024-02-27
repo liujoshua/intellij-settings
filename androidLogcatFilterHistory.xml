@@ -1,13 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.ansiblehealth.kiosk.develop tag~:Device|Ble|TrackScanEvent" />
+    <option name="mostRecentlyUsed" value="package:com.ansiblehealth.kiosk.develop Login" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.ansiblehealth.kiosk.develop Login" />
+        <option value="package:com.ansiblehealth.kiosk.develop " />
         <option value="package:com.ansiblehealth.kiosk.develop tag~:Device|Ble|TrackScanEvent" />
         <option value="package:com.ansiblehealth.kiosk.develop tag~:Device|Ble|Track" />
         <option value="package:com.ansiblehealth.kiosk.develop Uploading" />
         <option value="package:com.ansiblehealth.kiosk.develop tablet-a7" />
-        <option value="package:com.ansiblehealth.kiosk.develop " />
         <option value="package:com.ansiblehealth.kiosk.develop tag~:Uploading" />
         <option value="package:com.ansiblehealth.kiosk.develop tag~:Upload" />
         <option value="package:com.ansiblehealth.kiosk.develop tag~:UploadL" />
@@ -22,7 +23,6 @@
         <option value="package:com.ansiblehealth.kiosk.develop upcoming" />
         <option value="package:com.ansiblehealth.kiosk.develop ansiblepatients" />
         <option value="package:com.ansiblehealth.kiosk.develop joshua.liu@ansiblepatients.com" />
-        <option value="package:com.ansiblehealth.kiosk.develop immutab" />
       </list>
     </option>
   </component>
