@@ -1,10 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.ansiblehealth.kiosk.develop tag~:ScaleFeatureFlagEnabler" />
+    <option name="mostRecentlyUsed" value="package:com.ansiblehealth.kiosk.develop " />
     <option name="nonFavorites">
       <list>
-        <option value="package:com.ansiblehealth.kiosk.develop tag~:ScaleFeatureFlagEnabler" />
         <option value="package:com.ansiblehealth.kiosk.develop " />
+        <option value="package:com.ansiblehealth.kiosk.develop tag~:ScaleFeatureFlagEnabler" />
         <option value="package:com.ansiblehealth.kiosk.develop Login 33-90" />
         <option value="package:com.ansiblehealth.kiosk.develop Login" />
         <option value="package:com.ansiblehealth.kiosk.develop tag~:Device|Ble|TrackScanEvent" />
