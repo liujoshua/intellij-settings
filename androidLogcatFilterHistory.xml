@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.ansiblehealth.kiosk.develop " />
+    <option name="mostRecentlyUsed" value="package:com.ansiblehealth.kiosk.develop tag~:Set|Command|TimeChang" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.ansiblehealth.kiosk.develop tag~:Set|Command|TimeChang" />
+        <option value="package:com.ansiblehealth.kiosk.develop tag~:Set|Command" />
+        <option value="package:com.ansiblehealth.kiosk.develop Setting" />
         <option value="package:com.ansiblehealth.kiosk.develop " />
         <option value="package:com.ansiblehealth.kiosk.develop tag~:SetTime" />
         <option value="package:com.ansiblehealth.kiosk.develop tablet-a7" />
@@ -20,9 +23,6 @@
         <option value="package:com.ansiblehealth.kiosk.develop" />
         <option value="package:com.ansiblehealth.kiosk.develop tag~:Ble|Gmb " />
         <option value="package:com.ansiblehealth.kiosk.develop Reading" />
-        <option value="package:com.ansiblehealth.kiosk.develop tag~:Ble|Gmb|Outbound" />
-        <option value="package:com.ansiblehealth.kiosk.develop tag~:Ble|Gmb" />
-        <option value="package:com.ansiblehealth.kiosk.develop bodywei" />
       </list>
     </option>
   </component>
