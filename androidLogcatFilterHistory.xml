@@ -4,13 +4,15 @@
     <option name="nonFavorites">
       <list>
         <option value="package:com.ansiblehealth.kiosk.develop " />
+        <option value="package:com.ansiblehealth.kiosk.develop tag~:SetTime" />
+        <option value="package:com.ansiblehealth.kiosk.develop tablet-a7" />
+        <option value="package:com.ansiblehealth.kiosk.develop tab-a7" />
         <option value="package:com.ansiblehealth.kiosk.develop tag~:ScaleFeatureFlagEnabler" />
         <option value="package:com.ansiblehealth.kiosk.develop Login 33-90" />
         <option value="package:com.ansiblehealth.kiosk.develop Login" />
         <option value="package:com.ansiblehealth.kiosk.develop tag~:Device|Ble|TrackScanEvent" />
         <option value="package:com.ansiblehealth.kiosk.develop tag~:Device|Ble|Track" />
         <option value="package:com.ansiblehealth.kiosk.develop Uploading" />
-        <option value="package:com.ansiblehealth.kiosk.develop tablet-a7" />
         <option value="package:com.ansiblehealth.kiosk.develop tag~:Uploading" />
         <option value="package:com.ansiblehealth.kiosk.develop tag~:Upload" />
         <option value="package:com.ansiblehealth.kiosk.develop tag~:UploadL" />
@@ -21,8 +23,6 @@
         <option value="package:com.ansiblehealth.kiosk.develop tag~:Ble|Gmb|Outbound" />
         <option value="package:com.ansiblehealth.kiosk.develop tag~:Ble|Gmb" />
         <option value="package:com.ansiblehealth.kiosk.develop bodywei" />
-        <option value="package:com.ansiblehealth.kiosk.develop portal" />
-        <option value="package:com.ansiblehealth.kiosk.develop upcoming" />
       </list>
     </option>
   </component>
