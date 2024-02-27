@@ -1,10 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.ansiblehealth.kiosk.develop tag~:Clock" />
+    <option name="mostRecentlyUsed" value="package:com.ansiblehealth.kiosk.develop " />
     <option name="nonFavorites">
       <list>
-        <option value="package:com.ansiblehealth.kiosk.develop tag~:Clock" />
         <option value="package:com.ansiblehealth.kiosk.develop " />
+        <option value="package:com.ansiblehealth.kiosk.develop tag~:Clock" />
         <option value="package:com.ansiblehealth.kiosk.develop tag~:Set|Command|TimeChang" />
         <option value="package:com.ansiblehealth.kiosk.develop tag~:Set|Command" />
         <option value="package:com.ansiblehealth.kiosk.develop Setting" />
