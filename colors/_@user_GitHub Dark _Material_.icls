@@ -4,7 +4,7 @@
     <property name="created">2022-09-29T10:31:26</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">2021.3.1.16</property>
-    <property name="modified">2024-03-11T18:37:59</property>
+    <property name="modified">2024-03-14T11:25:52</property>
     <property name="originalScheme">GitHub Dark (Material)</property>
     <property name="partialSave">true</property>
   </metaInfo>
@@ -53,6 +53,14 @@
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
         <option name="EFFECT_COLOR" value="17e5e6" />
+      </value>
+    </option>
+    <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
+      <value />
+    </option>
+    <option name="KOTLIN_LABEL">
+      <value>
+        <option name="FOREGROUND" value="79b8ff" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.ABBREVIATED_TEXT">
@@ -1028,6 +1036,12 @@
     <option name="MARKDOWN_NAVIGATOR.WIKI_LINK_TEXT">
       <value>
         <option name="FOREGROUND" value="79b8ff" />
+      </value>
+    </option>
+    <option name="MATCHED_BRACE_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="1c6569" />
+        <option name="EFFECT_TYPE" value="4" />
       </value>
     </option>
     <option name="NG.EXPRESSIONS">
