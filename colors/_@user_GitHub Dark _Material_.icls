@@ -4,7 +4,7 @@
     <property name="created">2022-09-29T10:31:26</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">2021.3.1.16</property>
-    <property name="modified">2024-03-14T11:25:52</property>
+    <property name="modified">2024-03-14T12:37:47</property>
     <property name="originalScheme">GitHub Dark (Material)</property>
     <property name="partialSave">true</property>
   </metaInfo>
@@ -36,6 +36,7 @@
       <value>
         <option name="FOREGROUND" value="79b8ff" />
         <option name="EFFECT_COLOR" value="79b8ff" />
+        <option name="EFFECT_TYPE" value="-1" />
       </value>
     </option>
     <option name="DEFAULT_HIGHLIGHTED_REFERENCE">
