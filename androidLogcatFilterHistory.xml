@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.ansiblehealth.kiosk.develop ScanResult" />
+    <option name="mostRecentlyUsed" value="package:com.ansiblehealth.kiosk.develop SendAnalyticsEvent" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.ansiblehealth.kiosk.develop SendAnalyticsEvent" />
         <option value="package:com.ansiblehealth.kiosk.develop ScanResult" />
         <option value="package:com.ansiblehealth.kiosk.develop scanned" />
         <option value="package:com.ansiblehealth.kiosk.develop tag~:Device|Ble|TMB|Bluetooth" />
@@ -22,7 +23,6 @@
         <option value="package:com.ansiblehealth.kiosk.develop tag~:Device|Ble|TrackScanEvent" />
         <option value="package:com.ansiblehealth.kiosk.develop tag~:Device|Ble|Track" />
         <option value="package:com.ansiblehealth.kiosk.develop Uploading" />
-        <option value="package:com.ansiblehealth.kiosk.develop tag~:Uploading" />
       </list>
     </option>
   </component>
