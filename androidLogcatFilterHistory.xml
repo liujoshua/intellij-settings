@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.ansiblehealth.kiosk.develop SendAnal" />
+    <option name="mostRecentlyUsed" value="package:com.ansiblehealth.kiosk.develop permission" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.ansiblehealth.kiosk.develop permission" />
+        <option value="package:com.ansiblehealth.kiosk.develop " />
         <option value="package:com.ansiblehealth.kiosk.develop SendAnal" />
         <option value="package:com.ansiblehealth.kiosk.develop SendAnalyticsEvent" />
         <option value="package:com.ansiblehealth.kiosk.develop ScanResult" />
@@ -10,7 +12,6 @@
         <option value="package:com.ansiblehealth.kiosk.develop tag~:Device|Ble|TMB|Bluetooth" />
         <option value="package:com.ansiblehealth.kiosk.develop tag~:Device|Ble|TMB" />
         <option value="package:com.ansiblehealth.kiosk.develop scannedSource" />
-        <option value="package:com.ansiblehealth.kiosk.develop " />
         <option value="package:com.ansiblehealth.kiosk.develop tablet-a7" />
         <option value="package:com.ansiblehealth.kiosk.develop tag~:Clock" />
         <option value="package:com.ansiblehealth.kiosk.develop tag~:Set|Command|TimeChang" />
@@ -22,7 +23,6 @@
         <option value="package:com.ansiblehealth.kiosk.develop Login 33-90" />
         <option value="package:com.ansiblehealth.kiosk.develop Login" />
         <option value="package:com.ansiblehealth.kiosk.develop tag~:Device|Ble|TrackScanEvent" />
-        <option value="package:com.ansiblehealth.kiosk.develop tag~:Device|Ble|Track" />
       </list>
     </option>
   </component>
