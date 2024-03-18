@@ -3,10 +3,10 @@
     <option name="mostRecentlyUsed" value="package:com.ansiblehealth.kiosk.develop permission" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.ansiblehealth.kiosk.develop SendAnalyticsEvent" />
         <option value="package:com.ansiblehealth.kiosk.develop permission" />
         <option value="package:com.ansiblehealth.kiosk.develop " />
         <option value="package:com.ansiblehealth.kiosk.develop SendAnal" />
-        <option value="package:com.ansiblehealth.kiosk.develop SendAnalyticsEvent" />
         <option value="package:com.ansiblehealth.kiosk.develop ScanResult" />
         <option value="package:com.ansiblehealth.kiosk.develop scanned" />
         <option value="package:com.ansiblehealth.kiosk.develop tag~:Device|Ble|TMB|Bluetooth" />
