@@ -14,7 +14,6 @@
     <mask>*.gradle*</mask>
     <mask>*Module*</mask>
     <mask>*.http</mask>
-    <mask>*.toml</mask>
     <mask>*UseCase.kt</mask>
     <mask>AndroidMan*</mask>
     <mask>*.java</mask>
@@ -22,6 +21,7 @@
     <mask>*.gradle.kts</mask>
     <mask>*.xml</mask>
     <mask>*.kts</mask>
+    <mask>*.toml</mask>
     <mask>*.kt</mask>
   </component>
 </application>
