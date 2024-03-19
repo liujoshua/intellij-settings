@@ -20,7 +20,7 @@
     <mask>*Test.kt</mask>
     <mask>*.gradle.kts</mask>
     <mask>*.xml</mask>
-    <mask>*.kts</mask>
     <mask>*.kt</mask>
+    <mask>*.kts</mask>
   </component>
 </application>
